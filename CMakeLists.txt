@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
+#test
 
 set(MACOSX_BUNDLE_GUI_IDENTIFIER "org.navitproject.navit")
 set(MACOSX_BUNDLE_BUNDLE_NAME "Navit")
@@ -23,7 +24,7 @@ else(ANDROID)
 endif(ANDROID)
 set(PACKAGE_NAME "navit-git")
 set(PACKAGE "navit" CACHE STRING "Navit package name")
-set(PACKAGE_STRING "${PACKAGE} ${PACKAGE_VERSION}")
+set(PACKAGE_STRING "${PACKAGE} ${PACKAGE_VERSION}") 
 
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake/")
 include("${PROJECT_SOURCE_DIR}/cmake/navit_macros.cmake")
