@@ -17,7 +17,9 @@ ext {
     git = Grgit.open(currentDir: project.rootDir)
    	println("Git: $git")
     gitVersionName = git.describe(match: ["v[0-9.rc]*"])
-    gitVersionCode = Integer.parseInt(DateTimeFormatter.ofPattern("yyMMddHHmm").format(git.head().dateTime))
+    tmp=git.head()
+    println("head: $tmp")
+    gitVersionCode = Integer.parseInt(DateTimeFormatter.ofPattern("yyMMddHHmm").format(tmp.dateTime))
 }
 
 task printVersion() {
