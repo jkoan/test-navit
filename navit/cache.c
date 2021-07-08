@@ -29,7 +29,7 @@ struct cache {
     GHashTable *hash;
 };
 
-static void cache_entry_dump(struct cache *cache, struct cache_entry *entry) {
+static void cache_entry_dump(struct cache *cache, struct cache_entry *entry){
     int i,size;
     dbg(lvl_debug,"Usage: %d size %d",entry->usage, entry->size);
     if (cache)
@@ -41,7 +41,8 @@ static void cache_entry_dump(struct cache *cache, struct cache_entry *entry) {
     }
 }
 
-static void cache_list_dump(char *str, struct cache *cache, struct cache_entry_list *list) {
+static void cache_list_dump(char *str, struct cache *cache, struct cache_entry_list *list)
+ {
     struct cache_entry *first=list->first;
     dbg(lvl_debug,"dump %s %d",str, list->size);
     while (first) {
@@ -50,7 +51,9 @@ static void cache_list_dump(char *str, struct cache *cache, struct cache_entry_l
     }
 }
 
-static guint cache_hash4(gconstpointer key) {
+static guint cache_hash4(gconstpointer key)
+
+{
     int *id=(int *)key;
     return id[0];
 }
