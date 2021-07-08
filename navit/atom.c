@@ -3,8 +3,8 @@
 
 static GHashTable *atom_hash;
 
-char 
-* atom_lookup(char *name) 
+char
+* atom_lookup(char *name)
 
 {
     if (!atom_hash)
@@ -13,9 +13,11 @@ char
     return g_hash_table_lookup(atom_hash,name);
 }
 
-char *atom(char *name)
-  {    char *id=atom_lookup(name);
-    if (id){        return id;}
+char *atom(char *name) {
+    char *id=atom_lookup(name);
+    if (id) {
+        return id;
+    }
     if (!atom_hash)
         return NULL;
     id=g_strdup(name);
