@@ -74,8 +74,7 @@ static struct graphics_font_priv *font_new(struct graphics_priv *gr, struct grap
 static void gc_destroy(struct graphics_gc_priv *gc) {
 }
 
-static void gc_set_linewidth(struct graphics_gc_priv *gc, int w)
-{
+static void gc_set_linewidth(struct graphics_gc_priv *gc, int w) {
 }
 
 static void gc_set_dashes(struct graphics_gc_priv *gc, int w, int offset, unsigned char *dash_list, int n) {
@@ -88,7 +87,7 @@ static void gc_set_background(struct graphics_gc_priv *gc, struct color *c) {
 }
 
 static struct graphics_gc_methods gc_methods = {
-    gc_destroy,    gc_set_linewidth,    gc_set_dashes,    gc_set_foreground,    gc_set_background  
+    gc_destroy,    gc_set_linewidth,    gc_set_dashes,    gc_set_foreground,    gc_set_background
 };
 
 static struct graphics_gc_priv *gc_new(struct graphics_priv *gr, struct graphics_gc_methods *meth) {
@@ -215,9 +214,9 @@ static struct graphics_priv *graphics_null_new(struct navit *nav, struct graphic
         if (!event_request_system(event_loop_system->u.str, "graphics_null"))
             return NULL;
     } else {
-        if (!event_request_system("null", "graphics_null")){
+        if (!event_request_system("null", "graphics_null")) {
             return NULL;
-                }
+        }
     }
     callbacks = cbl;
     resize_callback(1,1);
