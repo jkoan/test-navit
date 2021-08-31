@@ -1,7 +1,10 @@
 cmake_minimum_required(VERSION 3.2)
+#test
 
 set(MACOSX_BUNDLE_GUI_IDENTIFIER "org.navitproject.navit")
 set(MACOSX_BUNDLE_BUNDLE_NAME "Navit")
+set(CMAKE_CXX_CLANG_TIDY "clang-tidy")
+set(CMAKE_C_CLANG_TIDY "clang-tidy")
 message(STATUS "Building with CMake V${CMAKE_VERSION}")
 if (DISABLE_CXX)
 	project(navit C)

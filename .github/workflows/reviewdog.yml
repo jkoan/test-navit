@@ -1,0 +1,75 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Reviewdog
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the trunk branch
+  push:
+    branches: [ trunk ]
+  pull_request:
+    branches: [ trunk ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: reviewdog/action-setup@v1
+      - run: sudo bash scripts/setup_common_requirements.sh
+      - run: sudo apt-get install -y libpng-dev libfreetype6-dev libdbus-glib-1-dev libgtk2.0-dev curl clang-tidy
+      - run: "sudo bash scripts/build_linux.sh 2>&1 | reviewdog -efm='%f:%l:%c: %m' -name=gcc -reporter='github-check' -level=warning"
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.github_token }}
+
+  formater:
+    name: runner / code style
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+        - name: Setup Requirements
+          run: sudo apt update && sudo apt install astyle
+        - name: Run Formating
+          run: |
+            find -iname "*.c" -exec astyle --indent=spaces=4 --style=attach -n --max-code-length=120 -xf -xh {} \;
+            find -iname "*.cpp" -exec astyle --indent=spaces=4 --style=attach -n --max-code-length=120 -xf -xh {} \;
+        - uses: reviewdog/action-suggester@v1
+          with:
+            github_token: ${{ secrets.github_token }}
+            tool_name: astyle
+  misspell:
+    name: runner / misspell
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code.
+        uses: actions/checkout@v1
+      - name: misspell
+        uses: reviewdog/action-misspell@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          locale: "US"
+  cpplint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: reviewdog/action-cpplint@master
+      with:
+        github_token: ${{ secrets.github_token }}
+        reporter: github-pr-review
+  contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: reviewdog/action-setup@v1
+      - uses: actions/checkout@master
+      
+      - name: Update Contributors
+        run: bash scripts/generate_contributors.sh
+        
+      - name: reviewdog / Contributor list
+        uses: reviewdog/action-suggester@v1
+        with:
+          tool_name: contributor_list
