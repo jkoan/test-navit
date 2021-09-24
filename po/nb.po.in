@@ -11,7 +11,6 @@
 # Thor H. Johansen https://launchpad.net/~thorhajo
 # burner https://launchpad.net/~bendik-xplore
 # kingu https://launchpad.net/~comradekingu
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
@@ -207,9 +206,6 @@ msgstr "Kjør inn i rundkjøringen snart"
 msgid "Enter the roundabout %s"
 msgstr "Kjør inn i rundkjøringen %s"
 
-msgid "then enter the roundabout"
-msgstr "kjør inn i rundkjøringen"
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -312,10 +308,6 @@ msgstr "slakt "
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
 msgstr "skarpt "
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr "ta deretter %1$s til %2$s"
 
 #, c-format
 msgid "Take the %1$s road to the %2$s"
@@ -1970,9 +1962,6 @@ msgstr "Utseende"
 msgid "Height Profile"
 msgstr "Høydeprofil"
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
 msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
@@ -2511,9 +2500,6 @@ msgstr "Fullskjerm"
 
 msgid "Window Mode"
 msgstr "Vindusmodus"
-
-msgid "Layers"
-msgstr ""
 
 msgid "Description"
 msgstr "Beskrivelse"

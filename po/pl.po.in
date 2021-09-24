@@ -16,7 +16,6 @@
 # Wojtek https://launchpad.net/~wojtek-pol
 # skrzat https://launchpad.net/~skrzat
 # Łukasz Semler https://launchpad.net/~lukasz-semler
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
@@ -217,9 +216,6 @@ msgstr "Wjazd na rondo wkrótce"
 msgid "Enter the roundabout %s"
 msgstr "Wjedź na rondo za %s"
 
-msgid "then enter the roundabout"
-msgstr "wtedy wjedź na rondo"
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -322,10 +318,6 @@ msgstr "lekko "
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
 msgstr "silnie "
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr ""
 
 #, c-format
 msgid "Take the %1$s road to the %2$s"
@@ -1982,9 +1974,6 @@ msgstr "Układ kolorów"
 msgid "Height Profile"
 msgstr "Profil wysokości"
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
 msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
@@ -2529,9 +2518,6 @@ msgstr "Pełny ekran"
 
 msgid "Window Mode"
 msgstr "Tryb Widoku"
-
-msgid "Layers"
-msgstr ""
 
 msgid "Description"
 msgstr "Opis"
