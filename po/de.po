@@ -17,21 +17,21 @@ msgstr ""
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
-msgstr "Running from source directory\n"
+msgstr "Ausführung aus dem Quellverzeichnis\n"
 
 #, c-format
 msgid "setting '%s' to '%s'\n"
-msgstr "setting '%s' to '%s'\n"
+msgstr "'%s' auf '%s' setzen\n"
 
 #. TRANSLATORS: the following counts refer to streets
 msgid "zeroth"
-msgstr "zeroth"
+msgstr "Nullter"
 
 msgid "first"
-msgstr "first"
+msgstr "Erste"
 
 msgid "second"
-msgstr "second"
+msgstr "Sekunde"
 
 msgid "third"
 msgstr "Dritter"
@@ -105,7 +105,7 @@ msgstr "%d.%d Kilometer"
 
 #, c-format
 msgid "in %d.%d kilometers"
-msgstr "in %d.%d kilometers"
+msgstr "in %d.%d Kilometern"
 
 #, c-format
 msgid "one mile"
@@ -116,7 +116,7 @@ msgstr[1] "%d Meilen"
 #, c-format
 msgid "in one mile"
 msgid_plural "in %d miles"
-msgstr[0] ""
+msgstr[0] "in %d Meilen"
 msgstr[1] "in %d Meilen"
 
 #, c-format
@@ -208,7 +208,7 @@ msgstr "Betreten Sie den Kreisverkehr %s"
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "then leave the roundabout at the %1$s %2$s"
-msgstr ""
+msgstr "dann verlassen Sie den Kreisverkehr an der %1$s %2$s"
 
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
@@ -1449,6 +1449,14 @@ Navit [Optionen] [Konfigurationsdatei]\n
 Ebene.\n
 \t-h: Drucken Sie diese Nutzungsinformationen und beenden Sie das Programm.\n
 \t-v: Version drucken und beenden.\n"
+Navit [Optionen] [Konfigurationsdatei]\n
+\t-c <Datei>: Verwenden Sie <Datei> als Konfigurationsdatei, anstatt die Standarddatei zu verwenden.\n
+\t-d <n>: Setzt den globalen Debug-Ausgabepegel auf <n> (0=Fehler, 1=Warnung,
+2=Info, 3=Debuggen).\n
+\tEinstellungen aus der Konfigurationsdatei werden weiterhin wirksam, wenn sie einen höheren Wert einstellen
+Ebene.\n
+\t-h: Drucken Sie diese Nutzungsinformationen und beenden Sie das Programm.\n
+\t-v: Version drucken und beenden.\n"
 
 #. We have not found an existing config file from all possibilities
 msgid "No config file navit.xml, navit.xml.local found\n"
@@ -2045,6 +2053,8 @@ msgid ""
 msgstr "Der aktuelle Kartenstandort %s ist nicht verfügbar\n
 Bitte starten Sie Navit neu, nachdem Sie eine SD-Karte angeschlossen oder eine andere Karte ausgewählt haben
 Lage."
+Bitte starten Sie Navit neu, nachdem Sie eine SD-Karte angeschlossen oder eine andere Karte ausgewählt haben
+Lage."
 
 msgid "Downloaded maps"
 msgstr "Heruntergeladene Karten"
@@ -2053,6 +2063,7 @@ msgid ""
 "Sorry, we currently do not support maps above 3.8G on Android, please select "
 "a smaller one."
 msgstr "Leider unterstützen wir derzeit keine Karten über 3,8 G auf Android, bitte wählen Sie
+ein kleineres."
 ein kleineres."
 
 msgid "Cancel"
@@ -2065,6 +2076,7 @@ msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
 msgstr "Neuer Standort auf %s gesetzt\n
+Starten Sie Navit neu, um die Änderungen zu übernehmen."
 Starten Sie Navit neu, um die Änderungen zu übernehmen."
 
 msgid "Whole Planet"
@@ -2472,6 +2484,7 @@ msgid ""
 "Map"
 msgstr "Gezeigt
 Karte"
+Karte"
 
 msgid "Settings"
 msgstr "Einstellungen"
@@ -2496,6 +2509,7 @@ msgid ""
 "Destinations"
 msgstr "Ehemalige\n
 Reiseziele"
+Reiseziele"
 
 msgid "Coordinates"
 msgstr "Koordinaten"
@@ -2504,6 +2518,7 @@ msgid ""
 "Stop\n"
 "Navigation"
 msgstr "Stopp\n
+Navigation"
 Navigation"
 
 msgid "Display"
@@ -2523,11 +2538,13 @@ msgid ""
 "Waypoint"
 msgstr "Letztes ablegen \n
 Wegpunkt"
+Wegpunkt"
 
 msgid ""
 "Drop next \n"
 "Waypoint"
 msgstr "Als nächstes ablegen \n
+Wegpunkt"
 Wegpunkt"
 
 msgid "Satellite Status"
@@ -2579,6 +2596,13 @@ msgid ""
 "\n"
 "Enjoy Navit!"
 msgstr "Vielen Dank für die Installation von Navit!\n
+\n
+Wählen Sie zunächst \Download maps\ aus dem Menü, um eine Karte herunterzuladen. Notiz:
+Die Dateigröße der Karte kann groß sein (>50 MB) - eine WLAN-Verbindung wird empfohlen.\n
+\n
+Kartendaten: (c) OpenStreetMap-Mitwirkende\n
+\n
+Viel Spaß bei Navit!"
 \n
 Wählen Sie zunächst \Download maps\ aus dem Menü, um eine Karte herunterzuladen. Notiz:
 Die Dateigröße der Karte kann groß sein (>50 MB) - eine WLAN-Verbindung wird empfohlen.\n
@@ -2729,6 +2753,7 @@ msgid ""
 "Please restart Navit"
 msgstr "Wiederherstellung erfolgreich\n
 Bitte Navit neu starten"
+Bitte Navit neu starten"
 
 #. Android resource: @strings/backup_not_found
 msgid "Backup not found"
@@ -2760,5 +2785,7 @@ msgid ""
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
 msgstr "Navit kann jede auf Ihrem Gerät installierte Text-to-Speech-Engine verwenden. Die
+Die aktuell ausgewählte Engine meldet, dass Ihre Sprache nicht gesprochen werden kann.
+Sollen wir das System bitten, einen Sprachdownload-Dialog anzuzeigen?"
 Die aktuell ausgewählte Engine meldet, dass Ihre Sprache nicht gesprochen werden kann.
 Sollen wir das System bitten, einen Sprachdownload-Dialog anzuzeigen?"
