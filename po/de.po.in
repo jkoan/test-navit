@@ -38,7 +38,6 @@
 # singesang https://launchpad.net/~singesang
 # spaetz https://launchpad.net/~spaetz
 # vsandre https://launchpad.net/~vsandre
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
@@ -234,9 +233,6 @@ msgstr "Demnächst in den Kreisverkehr einfahren"
 msgid "Enter the roundabout %s"
 msgstr "%s in den Kreisverkehr einfahren"
 
-msgid "then enter the roundabout"
-msgstr "dann in den Kreisverkehr einfahren"
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -341,10 +337,6 @@ msgid "strongly "
 msgstr "scharf "
 
 #, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr "dann die %1$s Straße %2$s abbiegen"
-
-#, c-format
 msgid "Take the %1$s road to the %2$s"
 msgstr "Die %1$s Straße %2$s abbiegen"
 
@@ -414,14 +406,8 @@ msgstr "Anweisung"
 msgid "Length"
 msgstr "Länge"
 
-msgid "mi"
-msgstr "Meile"
-
 msgid "km"
 msgstr "km"
-
-msgid "feet"
-msgstr "Fuß"
 
 msgid "m"
 msgstr "m"
@@ -1535,10 +1521,6 @@ msgstr "Wallis und Futuna"
 msgid "Samoa"
 msgstr "Samoa"
 
-#. 412
-msgid "Kosovo"
-msgstr "Kosovo"
-
 #. 887
 msgid "Yemen"
 msgstr "Jemen"
@@ -1585,29 +1567,13 @@ msgstr ""
 "\t-h: zeige diesen Hilfetext und beende.\n"
 "\t-v: zeige die Version und beende.\n"
 
-#. We have not found an existing config file from all possibilities
-msgid "No config file navit.xml, navit.xml.local found"
-msgstr ""
-"Konnte keine Configurations-Datei unter den Möglichkeiten navit.xml, "
-"navit.xml.local finden"
-
 #, c-format
 msgid "Error parsing config file '%s': %s"
 msgstr "Fehler beim verarbeiten der Konfigurations-Datei '%s': %s"
 
 #, c-format
-msgid "Using config file '%s'"
-msgstr "Benutze die Konfigurations-Datei '%s'"
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr "Fehler: Konnte keine Konfiguration in Datei '%s' finden"
-
-msgid ""
-"Internal initialization failed, exiting. Check previous error messages."
-msgstr ""
-"Interne Initiierung fehlgeschlagen. Bitte vorangegangene Fehlermeldungen "
-"prüfen"
 
 msgid "unknown street"
 msgstr "unbekannte Straße"
@@ -1748,9 +1714,6 @@ msgstr "Positions_marke zeigen"
 msgid "_Lock on Road"
 msgstr "Auf Straße _zeigen"
 
-msgid "_Follow Vehicle"
-msgstr "_Folge Fahrzeug"
-
 msgid "_Keep orientation to the North"
 msgstr "_Nordorientierung"
 
@@ -1821,12 +1784,6 @@ msgstr "Taxi"
 msgid "Shopping"
 msgstr "Einkaufen"
 
-#. Input is in kilometers
-msgid "Select a search radius from screen center in km"
-msgstr ""
-"Bitte einen Suchradius von der Mitte des Bildschirms ausgehend auswählen (in "
-"km)"
-
 #. Input is in miles.
 msgid "Select a search radius from screen center in miles"
 msgstr ""
@@ -1838,16 +1795,8 @@ msgid "POI %s. %s"
 msgstr "POI %s. %s"
 
 #, c-format
-msgid "Set destination to %ld, %ld "
-msgstr "Setze Ziel auf %ld, %ld "
-
-#, c-format
 msgid "Set map to %ld, %ld "
 msgstr "Setze Karte auf Position %ld, %ld "
-
-#, c-format
-msgid "Set next visit to %ld, %ld "
-msgstr "Stelle den nächsten Wegpunkt auf %ld, %ld "
 
 msgid "POI search"
 msgstr "POI Suche"
@@ -1866,9 +1815,6 @@ msgstr "Kategorie"
 
 msgid "Direction"
 msgstr "Richtung"
-
-msgid "Distance"
-msgstr "Distanz"
 
 msgid "Name"
 msgstr "Bezeichnung"
@@ -1912,10 +1858,6 @@ msgstr "3D"
 
 msgid "OT"
 msgstr "OT"
-
-#, c-format
-msgid "Route %4.1f%s    %02d:%02d ETA"
-msgstr "Route %4.1f%s %02d:%02d ETA"
 
 msgid "Route 0000km  0+00:00 ETA"
 msgstr "Route 0000km 0+00:00 ETA"
@@ -2125,10 +2067,6 @@ msgstr "Erscheinungsbild"
 msgid "Height Profile"
 msgstr "Höhenprofil"
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-"Bitte installiere eine Karte *.heightlines.bin, um Höhendaten bereitzustellen"
-
 msgid "The route must cross at least 2 heightlines"
 msgstr "Die Route muss mindestens zwei Höhenlinien kreuzen"
 
@@ -2137,9 +2075,6 @@ msgstr "Wegbeschreibung"
 
 msgid "Show Locale"
 msgstr "Lokalisierung anzeigen"
-
-msgid "Network info"
-msgstr "Netzwerkinfo"
 
 msgid "Former Destinations"
 msgstr "Vorherige Ziele"
@@ -2236,25 +2171,14 @@ msgstr "Vollbildmodus"
 msgid "Window Mode"
 msgstr "Fenstermodus"
 
-msgid "Auto zoom"
-msgstr "Automatischer Zoom"
-
 msgid "Manual zoom"
 msgstr "Manuelle Vergrößerung"
-
-msgid "Layers"
-msgstr "Ebenen"
 
 msgid "Zoom to route"
 msgstr "Zoom auf Strecke"
 
 msgid "Description"
 msgstr "Beschreibung"
-
-msgid ""
-"Drop last\n"
-"Waypoint"
-msgstr "Letzten Wegpunkt entfernen"
 
 msgid ""
 "Drop next\n"
@@ -2290,10 +2214,6 @@ msgstr "Ja"
 #. Android resource: @strings/cancel
 msgid "Cancel"
 msgstr "Abbrechen"
-
-#. Android resource: @strings/channel_name
-msgid "Navit"
-msgstr "Navit"
 
 #. Android resource: @strings/notification_ticker
 msgid "Navit started"
@@ -2368,10 +2288,6 @@ msgstr "Kartenort festlegen"
 msgid "Route to here"
 msgstr "Ziel setzen"
 
-#. Android resource: @strings/position_popup_view
-msgid "View"
-msgstr "Ansicht"
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr "Diese Karte löschen?"
@@ -2420,10 +2336,6 @@ msgstr "Position noch nicht bekannt."
 msgid "Maps containing current location"
 msgstr "Karten passend zur aktuellen Position"
 
-#. Android resource: @strings/maps_installed
-msgid "Installed maps"
-msgstr "Installierte Karten"
-
 #. Android resource: @strings/map_downloading
 msgid "downloading"
 msgstr "wird heruntergeladen"
@@ -2436,13 +2348,6 @@ msgstr ""
 #. Android resource: @strings/map_download_error_writing_map
 msgid "Error writing map!"
 msgstr "Fehler beim speichern der Karte!"
-
-#. Android resource: @strings/map_location_changed
-#, c-format
-msgid "New location set to %s Restart Navit to apply the changes."
-msgstr ""
-"Der Speicherort wurde auf %s gesetzt. Bitte starten Sie Navit neu, um die "
-"Änderungen zu übernehmen."
 
 #. Android resource: @strings/map_location_unavailable
 #, c-format
@@ -2579,15 +2484,6 @@ msgstr ""
 "Navit kann jede text-to-speech Engine nutzen, die installiert ist. Die "
 "derzeit angewählte Engine kann Ihre Sprache nicht wiedergeben. Soll das "
 "System den Voice-Download Dialog öffnen?"
-
-#. Android resource: @strings/permissions_not_granted
-msgid ""
-"Navit needs permission to access GPS and read the map.\n"
-"If you change your mind please restart Navit and grant the permissions"
-msgstr ""
-"Navit benötigt die Berechtigung, um GPS zu nutzen und die Karte zu zeigen.\n"
-"Wenn Du dies erlauben möchtest, starte Navit bitte neu und erlaube die "
-"Berechtigung"
 
 #. Android resource: @strings/permissions_info_box_title
 msgid "One or more ungranted permissions"
@@ -2948,10 +2844,6 @@ msgstr "Hawaii"
 #. Android resource: @strings/usa
 msgid "USA"
 msgstr "USA"
-
-#. Android resource: @strings/except_alaska_and_hawaii
-msgid "(except Alaska and Hawaii)"
-msgstr "außer Alaska und Hawaii"
 
 #. Android resource: @strings/midwest
 msgid "Midwest"

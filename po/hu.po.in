@@ -9,7 +9,6 @@
 # WintermuteHun https://launchpad.net/~wintermute-valodi
 # dandor https://launchpad.net/~dandorfs
 # kalmarzs https://launchpad.net/~kalmarzs
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
@@ -205,9 +204,6 @@ msgstr "Hajtson be a körforgalomba hamarosan."
 msgid "Enter the roundabout %s"
 msgstr "Hajtson be a körforgalomba %s múlva"
 
-msgid "then enter the roundabout"
-msgstr "majd hajtson be a körforgalomba"
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -310,10 +306,6 @@ msgstr "enyhén "
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
 msgstr "élesen "
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr ""
 
 #, c-format
 msgid "Take the %1$s road to the %2$s"
@@ -1980,9 +1972,6 @@ msgstr "Elrendezés"
 msgid "Height Profile"
 msgstr "Magassági profil"
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
 msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
@@ -2523,9 +2512,6 @@ msgstr "Teljes képernyő"
 
 msgid "Window Mode"
 msgstr "Ablak mód"
-
-msgid "Layers"
-msgstr ""
 
 msgid "Description"
 msgstr "Leírás"
