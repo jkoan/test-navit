@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="optionsmenu_download_maps">Karten herunterladen</string>
+    <string name="optionsmenu_zoom_out">Rauszoomen</string>
+    <string name="optionsmenu_zoom_in">Hineinzoomen</string>
+    <string name="initial_info_box_more_info">Mehr Infos</string>
+    <string name="initial_info_box_OK">OKAY</string>
+    <string name="initial_info_box_message">Vielen Dank für die Installation von Navit!
+\n
+\nWählen Sie zum Starten \"Karten herunterladen\" aus dem Menü, um eine Karte herunterzuladen. Hinweis: Die Kartendateien können sehr groß sein (&gt;50MB) - eine WLAN-Verbindung wird empfohlen.
+\n
+\nKartendaten: (c) OpenStreetMap-Mitwirkende
+\n
+\nGenießen Sie Navit!</string>
+    <string name="initial_info_box_title">Willkommen bei Navit</string>
+    <string name="notification_event_default">Navit läuft</string>
+    <string name="notification_ticker">Navit startet</string>
+    <string name="channel_name">Navit</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+</resources>
