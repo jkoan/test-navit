@@ -12,14 +12,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-05-01 20:30+0000\n"
-"Last-Translator: Anton Todorov <Unknown>\n"
-"Language-Team: Bulgarian <bg@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Bulgarian <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/bg/>\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: bg\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -27,7 +29,7 @@ msgstr "стартиране от главната директория\n"
 
 #, c-format
 msgid "setting '%s' to '%s'\n"
-msgstr ""
+msgstr "задаване на стойности от '%s' на '%s'\n"
 
 #. TRANSLATORS: the following counts refer to streets
 msgid "zeroth"
@@ -142,17 +144,17 @@ msgstr ""
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
-msgstr ""
+msgstr "%1$s върху %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
-msgstr ""
+msgstr "%1$s върху %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Neuter form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|neuter form"
-msgstr ""
+msgstr "%1$s върху %2$s"
 
 msgid "onto the motorway ramp"
 msgstr "на рампата"
@@ -180,7 +182,7 @@ msgstr "%sпо улица %s%s%s"
 #. TRANSLATORS: gives the name of the next road to turn into (into the E17)
 #, c-format
 msgid "%sinto the %s"
-msgstr ""
+msgstr "%sв %s"
 
 msgid "When possible, please turn around"
 msgstr "Когато е възможно обърнете"
@@ -219,22 +221,22 @@ msgstr "след това"
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|right"
-msgstr ""
+msgstr "тогава merge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|right"
-msgstr ""
+msgstr "Сливане %1$s%2$s"
 
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|left"
-msgstr ""
+msgstr "тогава merge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|left"
-msgstr ""
+msgstr "Сливане %1$s%2$s"
 
 msgid "on your left"
 msgstr "ваше ляво"
@@ -1525,10 +1527,6 @@ msgid ""
 msgstr ""
 
 #, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr ""
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr ""
 
@@ -1739,16 +1737,8 @@ msgstr ""
 msgid "Shopping"
 msgstr ""
 
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-#, c-format
-msgid "Set map to %ld, %ld "
 msgstr ""
 
 msgid "POI search"
@@ -2020,9 +2010,6 @@ msgstr "Изглед"
 msgid "Height Profile"
 msgstr "Височинен профил"
 
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
-
 msgid "Route Description"
 msgstr "Описание на маршрута"
 
@@ -2122,19 +2109,11 @@ msgstr "Цял екран"
 msgid "Window Mode"
 msgstr "Режим Прозорец"
 
-msgid "Manual zoom"
-msgstr ""
-
 msgid "Zoom to route"
 msgstr ""
 
 msgid "Description"
 msgstr "Описание"
-
-msgid ""
-"Drop next\n"
-"Waypoint"
-msgstr ""
 
 msgid "Satellite Status"
 msgstr ""
@@ -2288,13 +2267,6 @@ msgstr ""
 msgid "Error writing map!"
 msgstr ""
 
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
@@ -2414,10 +2386,6 @@ msgid ""
 "Navit can use any text to speech engine installed on your device. The "
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
-msgstr ""
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
 msgstr ""
 
 #. Android resource: @strings/whole_planet
@@ -2907,3 +2875,18 @@ msgstr ""
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"
 #~ msgstr "след това излезте от кръговото на %1$s %2$s"
+
+# TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
+msgid "Distance(m)"
+msgstr "Разстояние"
+
+msgid "Select a distance to look for (km)"
+msgstr "Изберете радиус на търсене от центъра на екрана"
+
+#, c-format
+msgid "in %d m"
+msgstr "в %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d м"
