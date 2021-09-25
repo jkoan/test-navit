@@ -17,14 +17,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2016-01-29 16:53+0000\n"
-"Last-Translator: Esben Aaberg <esben_aaberg@yahoo.com>\n"
-"Language-Team: Glenn Sommer <glemsom@gmail.com>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: da\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -147,17 +149,17 @@ msgstr ""
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
-msgstr ""
+msgstr "%1$spå %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
-msgstr ""
+msgstr "%1$spå %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Neuter form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|neuter form"
-msgstr ""
+msgstr "%1$spå %2$s"
 
 msgid "onto the motorway ramp"
 msgstr "op på rampen"
@@ -224,22 +226,22 @@ msgstr "så"
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|right"
-msgstr ""
+msgstr "derefter sammenlægge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|right"
-msgstr ""
+msgstr "Sammenlægning %1$s%2$s"
 
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|left"
-msgstr ""
+msgstr "derefter sammenlægge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|left"
-msgstr ""
+msgstr "Sammenlægning %1$s%2$s"
 
 msgid "on your left"
 msgstr ""
@@ -1530,10 +1532,6 @@ msgid ""
 msgstr ""
 
 #, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr ""
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr ""
 
@@ -1744,16 +1742,8 @@ msgstr ""
 msgid "Shopping"
 msgstr ""
 
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-#, c-format
-msgid "Set map to %ld, %ld "
 msgstr ""
 
 msgid "POI search"
@@ -2025,9 +2015,6 @@ msgstr "Layout"
 msgid "Height Profile"
 msgstr "Lodret profil"
 
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
-
 msgid "Route Description"
 msgstr "Route Beskrivelse"
 
@@ -2127,19 +2114,11 @@ msgstr "Fuldskærm"
 msgid "Window Mode"
 msgstr "Vinduestilstand"
 
-msgid "Manual zoom"
-msgstr ""
-
 msgid "Zoom to route"
 msgstr ""
 
 msgid "Description"
 msgstr "Beskrivelse"
-
-msgid ""
-"Drop next\n"
-"Waypoint"
-msgstr ""
 
 msgid "Satellite Status"
 msgstr ""
@@ -2293,13 +2272,6 @@ msgstr ""
 msgid "Error writing map!"
 msgstr ""
 
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
@@ -2419,10 +2391,6 @@ msgid ""
 "Navit can use any text to speech engine installed on your device. The "
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
-msgstr ""
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
 msgstr ""
 
 #. Android resource: @strings/whole_planet
@@ -2920,3 +2888,18 @@ msgstr ""
 #, c-format
 #~ msgid "%d m"
 #~ msgstr "%d m"
+
+# TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
+msgid "Distance(m)"
+msgstr "Afstand"
+
+msgid "Select a distance to look for (km)"
+msgstr "Vælg en søgeradius fra skærmens midte"
+
+#, c-format
+msgid "in %d m"
+msgstr "i %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"
