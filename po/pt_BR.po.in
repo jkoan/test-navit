@@ -23,14 +23,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-07-20 01:19+0000\n"
-"Last-Translator: Jairo Roberto Duarte <Unknown>\n"
-"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"navit-test/navit-core/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"Language: pt_BR\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -1546,10 +1548,6 @@ msgstr ""
 "\t-v: imprimir a versão e sair.\n"
 
 #, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr "Erro ao analisar o arquivo de configuração '%s': %s"
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr ""
 "Erro: Nenhuma configuração encontrada no arquivo de configuração '%s'"
@@ -1761,17 +1759,9 @@ msgstr "Táxi"
 msgid "Shopping"
 msgstr "Comprando"
 
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
 msgstr "POI %s. %s"
-
-#, c-format
-msgid "Set map to %ld, %ld "
-msgstr "Definir mapa para %ld, %ld "
 
 msgid "POI search"
 msgstr "Pesquisar POI"
@@ -2042,9 +2032,6 @@ msgstr "Layout"
 msgid "Height Profile"
 msgstr "Perfil de Altitude"
 
-msgid "The route must cross at least 2 heightlines"
-msgstr "A rota deve atravessar pelo menos 2 linhas de altitude"
-
 msgid "Route Description"
 msgstr "Descrição da Rota"
 
@@ -2146,21 +2133,11 @@ msgstr "Tela cheia"
 msgid "Window Mode"
 msgstr "Modo de Janela"
 
-msgid "Manual zoom"
-msgstr "Zoom manual"
-
 msgid "Zoom to route"
 msgstr "Zoom para rota"
 
 msgid "Description"
 msgstr "Descrição"
-
-msgid ""
-"Drop next\n"
-"Waypoint"
-msgstr ""
-"Baixe o próximo\n"
-"Nó"
 
 msgid "Satellite Status"
 msgstr "Estado do Satélite"
@@ -2325,16 +2302,6 @@ msgstr "Mídia selecionada para armazenamento de mapas não está disponível"
 msgid "Error writing map!"
 msgstr "Erro escrevendo mapa!"
 
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
-msgstr ""
-"Localização atual no mapa %s não está disponível. Por favor, reinicie o "
-"Navit depois de conectar um cartão SD ou selecione um local diferente no "
-"mapa."
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr "Pesquisar endereço"
@@ -2461,10 +2428,6 @@ msgstr ""
 "seu dispositivo. O motor atualmente selecionado  informa que é incapaz de "
 "falar em seu idioma. Devemos pedir ao sistema que mostre a caixa de diálogo "
 "de download de voz?"
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
-msgstr "Uma ou mais permissões não concedidas"
 
 #. Android resource: @strings/whole_planet
 msgid "Whole Planet"
@@ -3047,3 +3010,18 @@ msgstr "Guiana Francesa"
 #~ "O atual localização %s não está disponível no mapa \n"
 #~ "Reinicie o Navit depois de plugar um cartão SD ou selecione outra "
 #~ "localização no mapa."
+
+# TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
+msgid "Distance(m)"
+msgstr "Distância"
+
+msgid "Select a distance to look for (km)"
+msgstr "Selecione um raio de pesquisa a partir do centro da tela"
+
+#, c-format
+msgid "in %d m"
+msgstr "em %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"
