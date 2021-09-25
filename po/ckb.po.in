@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2013-06-22 23:00+0000\n"
-"Last-Translator: kosar <kosar.belana@gmail.com>\n"
-"Language-Team: Kurdish (Sorani) <ckb@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Kurdish (Central) <https://hosted.weblate.org/projects/"
+"navit-test/navit-core/ckb/>\n"
+"Language: ckb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: ckb\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 msgid "Running from source directory\n"
 msgstr ""
@@ -31,7 +33,7 @@ msgid "first"
 msgstr "یەكەم"
 
 msgid "second"
-msgstr ""
+msgstr "چرکە"
 
 msgid "third"
 msgstr ""
@@ -285,7 +287,7 @@ msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
-msgstr ""
+msgstr "ڕاست"
 
 #. TRANSLATORS: "left" as in "turn left"
 msgid "left"
@@ -357,7 +359,7 @@ msgid "Interchange"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "دەرچوون"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -1519,10 +1521,6 @@ msgid ""
 msgstr ""
 
 #, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr ""
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr ""
 
@@ -1733,16 +1731,8 @@ msgstr ""
 msgid "Shopping"
 msgstr ""
 
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-#, c-format
-msgid "Set map to %ld, %ld "
 msgstr ""
 
 msgid "POI search"
@@ -2014,9 +2004,6 @@ msgstr ""
 msgid "Height Profile"
 msgstr ""
 
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
-
 msgid "Route Description"
 msgstr ""
 
@@ -2112,18 +2099,10 @@ msgstr ""
 msgid "Window Mode"
 msgstr ""
 
-msgid "Manual zoom"
-msgstr ""
-
 msgid "Zoom to route"
 msgstr ""
 
 msgid "Description"
-msgstr ""
-
-msgid ""
-"Drop next\n"
-"Waypoint"
 msgstr ""
 
 msgid "Satellite Status"
@@ -2278,13 +2257,6 @@ msgstr ""
 msgid "Error writing map!"
 msgstr ""
 
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
@@ -2404,10 +2376,6 @@ msgid ""
 "Navit can use any text to speech engine installed on your device. The "
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
-msgstr ""
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
 msgstr ""
 
 #. Android resource: @strings/whole_planet
@@ -2889,3 +2857,7 @@ msgstr ""
 #. Android resource: @strings/guyane_francaise
 msgid "Guyane Francaise"
 msgstr ""
+
+# TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
+msgid "Distance(m)"
+msgstr "مەودا"
