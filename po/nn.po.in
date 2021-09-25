@@ -9,14 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-07-19 03:59+0000\n"
-"Last-Translator: Michael von Glasow <Unknown>\n"
-"Language-Team: Norwegian Nynorsk <nn@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/"
+"navit-test/navit-core/nn/>\n"
+"Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: nn\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -108,7 +110,7 @@ msgstr "om %d meter"
 
 #, c-format
 msgid "%d.%d kilometers"
-msgstr ""
+msgstr "om %d,%d kilometer"
 
 #, c-format
 msgid "in %d.%d kilometers"
@@ -1955,9 +1957,6 @@ msgstr ""
 
 msgid "Height Profile"
 msgstr "Høgdeprofil"
-
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
 
 msgid "Route Description"
 msgstr ""
