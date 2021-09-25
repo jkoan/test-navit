@@ -23,14 +23,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-05-25 09:58+0000\n"
-"Last-Translator: Clon <Unknown>\n"
-"Language-Team: Čeština\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"Language: cs\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -234,22 +236,22 @@ msgstr "pak"
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|right"
-msgstr ""
+msgstr "pak merge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|right"
-msgstr ""
+msgstr "Sloučení %1$s%2$s"
 
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|left"
-msgstr ""
+msgstr "pak merge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|left"
-msgstr ""
+msgstr "Sloučení %1$s%2$s"
 
 msgid "on your left"
 msgstr "na levé straně"
@@ -1550,10 +1552,6 @@ msgstr ""
 "\t-v: vytisknout verzi a zavřít.\n"
 
 #, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr "Chyba při načítání konfiguračního souboru '%s': %s"
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr "Chyba: Nebylo nalezeno nastavení v konfiguračním souboru '%s'"
 
@@ -1764,17 +1762,9 @@ msgstr "Taxi"
 msgid "Shopping"
 msgstr "Nakupování"
 
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
 msgstr "POI %s. %s"
-
-#, c-format
-msgid "Set map to %ld, %ld "
-msgstr "Nastavit mapu na %ld, %ld "
 
 msgid "POI search"
 msgstr "Vyhledávání POI"
@@ -2045,9 +2035,6 @@ msgstr "Rozvržení"
 msgid "Height Profile"
 msgstr "Výškový profil"
 
-msgid "The route must cross at least 2 heightlines"
-msgstr "Trasa musí překročit alspoň dvě vrstevnice."
-
 msgid "Route Description"
 msgstr "Popis trasy"
 
@@ -2149,19 +2136,11 @@ msgstr "Celá obrazovka"
 msgid "Window Mode"
 msgstr "V okně"
 
-msgid "Manual zoom"
-msgstr "Ruční přiblížení"
-
 msgid "Zoom to route"
 msgstr "Přiblížit trasu"
 
 msgid "Description"
 msgstr "Popis"
-
-msgid ""
-"Drop next\n"
-"Waypoint"
-msgstr ""
 
 msgid "Satellite Status"
 msgstr "Stav satelitu"
@@ -2326,13 +2305,6 @@ msgstr "Médium zvolené pro uchovávání map není k dispozici"
 msgid "Error writing map!"
 msgstr "Chyba při zápisu mapy!"
 
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr "Hledat dle adresy"
@@ -2455,10 +2427,6 @@ msgid ""
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
 msgstr ""
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
-msgstr "Chybí přinejmenším jedno oprávnění"
 
 #. Android resource: @strings/whole_planet
 msgid "Whole Planet"
@@ -3021,3 +2989,18 @@ msgstr "Francouzská Guyana"
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"
 #~ msgstr "pak sjeďte na %1$s %2$s"
+
+# TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
+msgid "Distance(m)"
+msgstr "Vzdálenost"
+
+msgid "Select a distance to look for (km)"
+msgstr "Výběr poloměru vyhledávání od středu obrazovky"
+
+#, c-format
+msgid "in %d m"
+msgstr "v %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"
