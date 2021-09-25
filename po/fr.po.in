@@ -32,14 +32,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-10-13 16:09+0000\n"
-"Last-Translator: lains <Unknown>\n"
-"Language-Team: KaZeR <kazer@altern.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"Language: fr\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -274,7 +276,7 @@ msgstr "Prenez la sortie %1$s %2$s%3$s"
 
 #. TRANSLATORS: as in "Keep right at interchange 42 Greenmond-West"
 msgid "at interchange"
-msgstr "à l'èchangeur"
+msgstr "à l'échangeur"
 
 msgid "at exit"
 msgstr "à la sortie"
@@ -1558,10 +1560,6 @@ msgstr ""
 "\t-v: affiche la version et quitte.\n"
 
 #, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr "Erreur d'analyse du fichier de configuration '%s': %s"
-
-#, c-format
 msgid "Error: No configuration found in config file '%s'"
 msgstr "Erreur: Aucune configuration trouvée dans le fichier '%s'"
 
@@ -1772,17 +1770,9 @@ msgstr "Taxi"
 msgid "Shopping"
 msgstr "Achats"
 
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr "Choisir un rayon de recherche autour du centre de l'écran (en miles)"
-
 #, c-format
 msgid "POI %s. %s"
 msgstr "Point d'intérêt %s. %s"
-
-#, c-format
-msgid "Set map to %ld, %ld "
-msgstr "Centrer la carte sur  %ld, %ld \\n "
 
 msgid "POI search"
 msgstr "recherche de point d'intérêt"
@@ -2053,9 +2043,6 @@ msgstr "Thème"
 msgid "Height Profile"
 msgstr "Profil de hauteur"
 
-msgid "The route must cross at least 2 heightlines"
-msgstr "La route doit au minimum passer par deux lignes de niveau"
-
 msgid "Route Description"
 msgstr "Description de la route"
 
@@ -2157,19 +2144,11 @@ msgstr "Plein écran"
 msgid "Window Mode"
 msgstr "Mode fenêtré"
 
-msgid "Manual zoom"
-msgstr "Zoom manuel"
-
 msgid "Zoom to route"
 msgstr "Zoomer sur le parcours"
 
 msgid "Description"
 msgstr "Description"
-
-msgid ""
-"Drop next\n"
-"Waypoint"
-msgstr "Abandonner la\\nprochaine étape"
 
 msgid "Satellite Status"
 msgstr "Etat des satellites"
@@ -2335,13 +2314,6 @@ msgstr ""
 msgid "Error writing map!"
 msgstr "Erreur d'écriture de carte !"
 
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr "Cherchez adresse"
@@ -2468,10 +2440,6 @@ msgstr ""
 "appareil. Le système actuellement sélectionné indique qu'il ne peut pas "
 "parler dans votre langue. Devons nous demander au système d'afficher le menu "
 "de téléchargement des voix?"
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
-msgstr "Une ou plusieurs autorisations manquantes"
 
 #. Android resource: @strings/whole_planet
 msgid "Whole Planet"
