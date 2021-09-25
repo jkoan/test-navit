@@ -6,14 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2010-02-24 19:32+0000\n"
-"Last-Translator: \n"
-"Language-Team: Kazakh <kk@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Kazakh <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/kk/>\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: kk\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -28,10 +30,10 @@ msgid "zeroth"
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr "birinshi"
 
 msgid "second"
-msgstr ""
+msgstr "Sekýnt"
 
 msgid "third"
 msgstr ""
@@ -206,7 +208,7 @@ msgid "soon"
 msgstr ""
 
 msgid "now"
-msgstr ""
+msgstr "qazir"
 
 msgid "then"
 msgstr ""
@@ -286,7 +288,7 @@ msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
-msgstr ""
+msgstr "Оңға"
 
 #. TRANSLATORS: "left" as in "turn left"
 msgid "left"
@@ -359,7 +361,7 @@ msgid "Interchange"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Шығу"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -1951,9 +1953,6 @@ msgid "Layout"
 msgstr ""
 
 msgid "Height Profile"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
 msgid "Route Description"
