@@ -8,14 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2013-09-27 21:48+0000\n"
-"Last-Translator: KaZeR <Unknown>\n"
-"Language-Team: Telugu <te@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Telugu <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/te/>\n"
+"Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: te\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -30,10 +32,10 @@ msgid "zeroth"
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr "మొదటి"
 
 msgid "second"
-msgstr ""
+msgstr "క్షణం"
 
 msgid "third"
 msgstr ""
@@ -122,7 +124,7 @@ msgstr[1] "%d కిలోమీటర్లు"
 #, c-format
 msgid "in one kilometer"
 msgid_plural "in %d kilometers"
-msgstr[0] ""
+msgstr[0] "ఒక కిలోమీటరు"
 msgstr[1] ""
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Systematic Street Name 3: Separator (Space if required), 4: Street Name
@@ -361,7 +363,7 @@ msgid "Interchange"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "బయటకు"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -1953,9 +1955,6 @@ msgid "Layout"
 msgstr "కూర్పు"
 
 msgid "Height Profile"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
 msgid "Route Description"
