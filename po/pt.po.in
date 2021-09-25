@@ -20,14 +20,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2017-06-26 15:54+0000\n"
-"Last-Translator: João Pirralha <joaopirralha@gmail.com>\n"
-"Language-Team: Portuguese <pt@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: pt\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -1979,9 +1981,6 @@ msgstr "Esquema"
 msgid "Height Profile"
 msgstr "Perfil de altitude"
 
-msgid "The route must cross at least 2 heightlines"
-msgstr "A rota deve cruzar pelo menos 2 linhas de altura"
-
 msgid "Route Description"
 msgstr "Descrição da rota"
 
@@ -2527,9 +2526,6 @@ msgstr "Ecrã completo"
 msgid "Window Mode"
 msgstr "Modo de janela"
 
-msgid "Manual zoom"
-msgstr "Ampliação manual"
-
 msgid "Zoom to route"
 msgstr "Ampliar para a rota"
 
@@ -2788,10 +2784,14 @@ msgstr ""
 "atualmente selecionado reporta não suportar o seu idioma. Pedir ao sistema "
 "para exibir o diálogo de transferência de voz?"
 
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
-msgstr "Uma ou mais permissões não concedidas"
-
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"
 #~ msgstr "e saia da rotunda na %1$s %2$s"
+
+#, c-format
+msgid "in %d m"
+msgstr "em %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"
