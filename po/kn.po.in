@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2014-06-21 16:42+0000\n"
-"Last-Translator: Mahesh Venom <mahesh.venom.73@gmail.com>\n"
-"Language-Team: Kannada <kn@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Kannada <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/kn/>\n"
+"Language: kn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: kn\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 msgid "Running from source directory\n"
 msgstr ""
@@ -31,7 +33,7 @@ msgid "first"
 msgstr "ಮೊದಲ"
 
 msgid "second"
-msgstr ""
+msgstr "ಸೆಕೆಂಡುಗಳು"
 
 msgid "third"
 msgstr ""
@@ -206,7 +208,7 @@ msgid "soon"
 msgstr ""
 
 msgid "now"
-msgstr ""
+msgstr "ಈಗಲೆ"
 
 msgid "then"
 msgstr ""
@@ -286,11 +288,11 @@ msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
-msgstr ""
+msgstr "ಬಲ"
 
 #. TRANSLATORS: "left" as in "turn left"
 msgid "left"
-msgstr ""
+msgstr "ಉಳಿದ ಸಮಯ"
 
 #. TRANSLATORS: as in "turn easily right"
 msgid "easily "
@@ -359,7 +361,7 @@ msgid "Interchange"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "ನಿರ್ಗಮಿಸಿ"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -1696,7 +1698,7 @@ msgid "Direction"
 msgstr ""
 
 msgid "Distance(m)"
-msgstr ""
+msgstr "ದೂರ:"
 
 msgid "Name"
 msgstr ""
@@ -1951,9 +1953,6 @@ msgid "Layout"
 msgstr ""
 
 msgid "Height Profile"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
 msgid "Route Description"
