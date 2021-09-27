@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"PO-Revision-Date: 2021-09-28 00:43+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/navit-test/"
 "navit-core/be/>\n"
@@ -126,8 +126,9 @@ msgstr[2] "%d кіламетраў"
 #, c-format
 msgid "in one kilometer"
 msgid_plural "in %d kilometers"
-msgstr[0] ""
+msgstr[0] "%d кіламетр"
 msgstr[1] ""
+msgstr[2] ""
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Systematic Street Name 3: Separator (Space if required), 4: Street Name
 #, c-format
@@ -1524,10 +1525,6 @@ msgid ""
 "\t-v: print the version and exit.\n"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-
 msgid "unknown street"
 msgstr ""
 
@@ -2101,9 +2098,6 @@ msgid "Fullscreen"
 msgstr "Поўнаэкранны рэжым"
 
 msgid "Window Mode"
-msgstr ""
-
-msgid "Zoom to route"
 msgstr ""
 
 msgid "Description"
