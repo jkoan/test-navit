@@ -1549,10 +1549,6 @@ msgstr ""
 "\t-h: print deze gebruiksinfo en sluit af.\n"
 "\t-v: print de versie en sluit af.\n"
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr "Fout: Geen configuratie gevondein in configuratiebestand '%s'"
-
 msgid "unknown street"
 msgstr "onbekende weg"
 
@@ -2135,9 +2131,6 @@ msgstr "Beeldvullend"
 
 msgid "Window Mode"
 msgstr "Venstermodus"
-
-msgid "Zoom to route"
-msgstr "Toon volledige route"
 
 msgid "Description"
 msgstr "Beschrijving"
