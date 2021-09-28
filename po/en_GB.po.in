@@ -1540,10 +1540,6 @@ msgstr ""
 "\t-h: print this usage info and exit.\n"
 "\t-v: print the version and exit.\n"
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr "Error: No configuration found in config file '%s'"
-
 msgid "unknown street"
 msgstr "unknown street"
 
@@ -2120,9 +2116,6 @@ msgstr "Fullscreen"
 
 msgid "Window Mode"
 msgstr "Window Mode"
-
-msgid "Zoom to route"
-msgstr "Zoom to route"
 
 msgid "Description"
 msgstr "Description"

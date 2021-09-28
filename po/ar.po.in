@@ -1543,10 +1543,6 @@ msgid ""
 "\t-v: print the version and exit.\n"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-
 msgid "unknown street"
 msgstr "شارع غير معروف"
 
@@ -2125,9 +2121,6 @@ msgstr "ملء الشاشة"
 
 msgid "Window Mode"
 msgstr "نمط النافذة"
-
-msgid "Zoom to route"
-msgstr ""
 
 msgid "Description"
 msgstr "الوصف"

@@ -1551,10 +1551,6 @@ msgstr ""
 "\t-h: vytisknout tyto informace o použití a zavřít.\n"
 "\t-v: vytisknout verzi a zavřít.\n"
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr "Chyba: Nebylo nalezeno nastavení v konfiguračním souboru '%s'"
-
 msgid "unknown street"
 msgstr "neznámá ulice"
 
@@ -2135,9 +2131,6 @@ msgstr "Celá obrazovka"
 
 msgid "Window Mode"
 msgstr "V okně"
-
-msgid "Zoom to route"
-msgstr "Přiblížit trasu"
 
 msgid "Description"
 msgstr "Popis"
