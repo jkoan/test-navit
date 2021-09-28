@@ -1530,10 +1530,6 @@ msgid ""
 "\t-v: print the version and exit.\n"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr "Fel: Ingen konfiguration hittat i konfigurationsfil '%s'"
-
 msgid "unknown street"
 msgstr "okänd gata"
 
@@ -2112,9 +2108,6 @@ msgstr "Helskärm"
 
 msgid "Window Mode"
 msgstr "Fönsterläge"
-
-msgid "Zoom to route"
-msgstr ""
 
 msgid "Description"
 msgstr "Beskrivning"

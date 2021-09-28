@@ -1459,10 +1459,6 @@ msgstr ""
 "\t-h: muestra este mensaje de ayuda y termina.\n"
 "\t-v: muestra la versión y termina.\n"
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-
 msgid "unknown street"
 msgstr "calle desconocida"
 
@@ -2055,9 +2051,6 @@ msgstr "Pantalla completa"
 
 msgid "Window Mode"
 msgstr "Modo ventana"
-
-msgid "Zoom to route"
-msgstr "Zoom a ruta"
 
 msgid "Description"
 msgstr "Descripción"

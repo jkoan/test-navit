@@ -1547,11 +1547,6 @@ msgstr ""
 "\t-h: imprimir esta informação de utilização e sair.\n"
 "\t-v: imprimir a versão e sair.\n"
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-"Erro: Nenhuma configuração encontrada no arquivo de configuração '%s'"
-
 msgid "unknown street"
 msgstr "rua desconhecida"
 
@@ -2132,9 +2127,6 @@ msgstr "Tela cheia"
 
 msgid "Window Mode"
 msgstr "Modo de Janela"
-
-msgid "Zoom to route"
-msgstr "Zoom para rota"
 
 msgid "Description"
 msgstr "Descrição"
