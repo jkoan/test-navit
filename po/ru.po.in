@@ -1678,10 +1678,6 @@ msgid "Select a search radius from screen center"
 msgstr "Расстояние от центра экрана (км)"
 
 #, c-format
-msgid "Set destination to %ld, %ld \n"
-msgstr ""
-
-#, c-format
 msgid "Set next visit to %ld, %ld \n"
 msgstr ""
 

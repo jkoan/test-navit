@@ -2027,11 +2027,6 @@ msgstr "Percorso per questo punto"
 msgid "Cancel"
 msgstr "Annulla"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Whole Planet"
 msgstr "Intero Pianeta"
 
@@ -2713,13 +2708,6 @@ msgstr "Backup"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "Ripristino"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

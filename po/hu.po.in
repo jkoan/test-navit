@@ -132,11 +132,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "egy kilométer után"
 msgstr[1] "%d kilométer után"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
-#, c-format
-msgid "%1$sonto %2$s"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
@@ -235,9 +230,6 @@ msgstr "akkor egyesülj%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Összevonás %1$s%2$s"
 
-msgid "on your right"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
 #, c-format
 msgid "Take exit %1$s %2$s %3$s"
@@ -257,17 +249,7 @@ msgstr "a kijáratnál"
 
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
 msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -1636,10 +1618,6 @@ msgid "Shopping"
 msgstr "Bevásárlás"
 
 #, c-format
-msgid "POI %s. %s"
-msgstr ""
-
-#, c-format
 msgid "Set map to %ld, %ld \n"
 msgstr ""
 
@@ -1984,11 +1962,6 @@ msgstr "Útvonal ide"
 
 msgid "Cancel"
 msgstr "Mégse"
-
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
 
 msgid "Whole Planet"
 msgstr "Teljes bolygó"
@@ -2428,19 +2401,11 @@ msgstr "Ablak mód"
 msgid "Description"
 msgstr "Leírás"
 
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
-
 msgid "Satellite Status"
 msgstr "Műhold állapot"
 
 msgid "NMEA Data"
 msgstr "NMEA adat"
-
-msgid "car_avoid_tolls"
-msgstr ""
 
 msgid "horse"
 msgstr "ló"
@@ -2641,13 +2606,6 @@ msgstr "Biztonsági mentés"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "Visszaállítás"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

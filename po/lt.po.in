@@ -267,11 +267,6 @@ msgstr "sankryžoje"
 msgid "at exit"
 msgstr "išvažiavime"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep right%1$s"
@@ -1720,9 +1715,6 @@ msgstr "Liko kelio 0000km 0+00:00 atvykimo laikas"
 msgid "Help"
 msgstr "Žinynas"
 
-msgid "Select waypoint to insert the new one before"
-msgstr ""
-
 msgid "View in Browser"
 msgstr "Peržiūrėti naršyklėje"
 
@@ -1769,9 +1761,6 @@ msgstr "Pašalinti žymą"
 msgid "Bookmarks"
 msgstr "Adresynas"
 
-msgid "Save waypoints"
-msgstr ""
-
 msgid "Delete Folder"
 msgstr "Pašalinti katalogą"
 
@@ -1802,9 +1791,6 @@ msgstr "Parsiuntimas leidžiamas"
 
 msgid "Show Satellite Status"
 msgstr "Parodyti palydovų būseną"
-
-msgid " Azimuth "
-msgstr ""
 
 msgid "Show NMEA Data"
 msgstr "Rodyti NMEA duomenis"
@@ -1918,9 +1904,6 @@ msgstr "Pagrindinis meniu"
 msgid "House number"
 msgstr "Namo numeris"
 
-msgid "Prev"
-msgstr ""
-
 msgid "Return to route!"
 msgstr "Grįžti į maršrutą!"
 
@@ -1985,9 +1968,6 @@ msgstr "Azija"
 msgid "Korea"
 msgstr "Korėja"
 
-msgid "UAE+Other"
-msgstr ""
-
 msgid "Oceania"
 msgstr "Okeanija"
 
@@ -2009,13 +1989,7 @@ msgstr "Vakarų Europa"
 msgid "Azores"
 msgstr "Azorai"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Auvergne"
-msgstr ""
-
-msgid "Bourgogne"
 msgstr ""
 
 msgid "Bretagne"
@@ -2024,25 +1998,13 @@ msgstr "Bretanė"
 msgid "Centre"
 msgstr "Centras"
 
-msgid "Corse"
-msgstr ""
-
 msgid "Haute-Normandie"
-msgstr ""
-
-msgid "Languedoc-Roussillon"
 msgstr ""
 
 msgid "Lorraine"
 msgstr ""
 
-msgid "Nord-pas-de-Calais"
-msgstr ""
-
 msgid "Picardie"
-msgstr ""
-
-msgid "Provence-Alpes-Cote-d-Azur"
 msgstr ""
 
 msgid "Baden-Wuerttemberg"
@@ -2051,13 +2013,7 @@ msgstr ""
 msgid "Bayern"
 msgstr "Bavarija"
 
-msgid "Niederbayern"
-msgstr ""
-
 msgid "Oberfranken"
-msgstr ""
-
-msgid "Schwaben"
 msgstr ""
 
 msgid "Berlin"
@@ -2072,19 +2028,10 @@ msgstr "Brėmenas"
 msgid "Hamburg"
 msgstr "Hamburgas"
 
-msgid "Mecklenburg-Vorpommern"
-msgstr ""
-
 msgid "Nordrhein-westfalen"
 msgstr ""
 
-msgid "Saarland"
-msgstr ""
-
 msgid "Sachsen"
-msgstr ""
-
-msgid "Thueringen"
 msgstr ""
 
 msgid "Mallorca"
@@ -2096,9 +2043,6 @@ msgstr "Skandinavija"
 msgid "England"
 msgstr "Anglija"
 
-msgid "Cambridgeshire"
-msgstr ""
-
 msgid "Cumbria"
 msgstr "Kambrija"
 
@@ -2107,9 +2051,6 @@ msgstr "Eseksas"
 
 msgid "Kent"
 msgstr "Kentas"
-
-msgid "Leicestershire"
-msgstr ""
 
 msgid "Norfolk"
 msgstr "Norfolkas"
@@ -2120,13 +2061,7 @@ msgstr "Notingemšyras"
 msgid "Oxfordshire"
 msgstr "Oksfordšyras"
 
-msgid "Somerset"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Wiltshire"
 msgstr ""
 
 msgid "Scotland"
@@ -2156,13 +2091,7 @@ msgstr " (išskyrus Aliaską ir Havajus)"
 msgid "Michigan"
 msgstr "Mičiganas"
 
-msgid "Northeast"
-msgstr ""
-
 msgid "Vermont"
-msgstr ""
-
-msgid "South"
 msgstr ""
 
 msgid "Arkansas"
@@ -2216,17 +2145,11 @@ msgstr "Oregonas"
 msgid "Utah"
 msgstr "Juta"
 
-msgid "South+Middle America"
-msgstr ""
-
 msgid "Guyane Francaise"
 msgstr "Prancūzų gvinėja"
 
 msgid "downloading"
 msgstr "siunčiama"
-
-msgid "Media selected for map storage is not available"
-msgstr ""
 
 #. Android resource: @strings/map_download_not_enough_free_space
 msgid "Not enough free space"
@@ -2304,11 +2227,6 @@ msgstr "Langų režimas"
 
 msgid "Description"
 msgstr "Aprašas"
-
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
 
 msgid "Satellite Status"
 msgstr "Palydovų būsena"
@@ -2410,10 +2328,6 @@ msgstr "Klaida parsiunčiant žemėlapį."
 msgid "Map download aborted"
 msgstr "Žemėlapio parsiuntimas nutrauktas"
 
-#. Android resource: @strings/maps_for_current_location
-msgid "Maps containing current location"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr "Adresų paieška"
@@ -2505,13 +2419,6 @@ msgstr "Pasirinkite atsarginę kopiją"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "Atstatyti atasrginę kopiją"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

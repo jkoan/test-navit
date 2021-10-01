@@ -144,11 +144,6 @@ msgstr[0] "za jeden kilometr"
 msgstr[1] "za %d kilometry"
 msgstr[2] "za %d kilometrów"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
-#, c-format
-msgid "%1$sonto %2$s"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
@@ -247,11 +242,6 @@ msgstr "po twojej lewej"
 
 msgid "on your right"
 msgstr "po twojej prawej"
-
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
 
 #. TRANSLATORS: as in "Keep right at interchange 42 Greenmond-West"
 msgid "at interchange"
@@ -1540,9 +1530,6 @@ msgstr "Ustaw _cel"
 msgid "Opens address search dialog"
 msgstr "Otwórz okno dialogowe wyszukiwania adresu"
 
-msgid "Opens POI search dialog"
-msgstr ""
-
 msgid "_Stop Navigation"
 msgstr "_Zatrzymaj nawigację"
 
@@ -1624,15 +1611,8 @@ msgstr "Posterunek policji"
 msgid "Taxi"
 msgstr "Postój taksówek"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 #, c-format
 msgid "Set destination to %ld, %ld \n"
-msgstr ""
-
-#, c-format
-msgid "Set next visit to %ld, %ld \n"
 msgstr ""
 
 msgid "Select a category"
@@ -2056,23 +2036,14 @@ msgstr "Langwedocja-Roussillon"
 msgid "Lorraine"
 msgstr "Lotaryngia"
 
-msgid "Nord-pas-de-Calais"
-msgstr ""
-
 msgid "Picardie"
 msgstr "Pikardia"
-
-msgid "Provence-Alpes-Cote-d-Azur"
-msgstr ""
 
 msgid "Baden-Wuerttemberg"
 msgstr ""
 
 msgid "Bayern"
 msgstr "Bawaria"
-
-msgid "Niederbayern"
-msgstr ""
 
 msgid "Oberfranken"
 msgstr ""
@@ -2116,9 +2087,6 @@ msgstr "Saksonia"
 msgid "Schleswig-Holstein"
 msgstr "Szlezwik-Holsztyn"
 
-msgid "Mallorca"
-msgstr ""
-
 msgid "Galicia"
 msgstr "Galicja"
 
@@ -2128,28 +2096,16 @@ msgstr "Skandynawia"
 msgid "England"
 msgstr "Anglia"
 
-msgid "Cambridgeshire"
-msgstr ""
-
 msgid "Cumbria"
 msgstr "Kumbria"
 
 msgid "Essex"
 msgstr "Essex"
 
-msgid "Kent"
-msgstr ""
-
 msgid "Leicestershire"
 msgstr ""
 
-msgid "Nottinghamshire"
-msgstr ""
-
 msgid "Shropshire"
-msgstr ""
-
-msgid "South yorkshire"
 msgstr ""
 
 msgid "Surrey"
@@ -2577,13 +2533,6 @@ msgstr "Kopia zapasowa"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "Przywróć"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

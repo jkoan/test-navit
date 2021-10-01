@@ -137,11 +137,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "%d kilometrede"
 msgstr[1] "%d kilometrede"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
-#, c-format
-msgid "%1$sonto %2$s"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
@@ -200,11 +195,6 @@ msgstr "şimdi"
 msgid "then"
 msgstr "sonra"
 
-#. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Merge %1$s%2$s|right"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|left"
@@ -212,11 +202,6 @@ msgstr ""
 
 msgid "on your left"
 msgstr "solunuzda"
-
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
 
 #. TRANSLATORS: as in "Keep right at interchange 42 Greenmond-West"
 msgid "at interchange"
@@ -227,17 +212,7 @@ msgstr "çıkışta"
 
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
 msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -268,11 +243,6 @@ msgstr "%i yol sonra"
 #, c-format
 msgid "Turn %1$s%2$s %3$s%4$s"
 msgstr "Dönüş %1$s%2$s %3$s%4$s"
-
-#. TRANSLATORS: the arg. is distance. Left U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|left"
-msgstr ""
 
 #. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
 #, c-format
@@ -336,9 +306,6 @@ msgstr "Varış Zamanı"
 
 msgid "Roadbook"
 msgstr "Yol Haritası"
-
-msgid "Visit before..."
-msgstr ""
 
 msgid "Set as position"
 msgstr "Pozisyon olarak ayarla"
@@ -1515,9 +1482,6 @@ msgstr "Uygulamadan çık"
 msgid "_Lock on Road"
 msgstr "Kapalı yol"
 
-msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
 msgid "_Roadbook"
 msgstr "Yol Haritası"
 
@@ -1664,9 +1628,6 @@ msgstr "Rota 0000km 0+00:00 ETA"
 msgid "Help"
 msgstr "Yardım"
 
-msgid "Select waypoint to insert the new one before"
-msgstr ""
-
 msgid "View in Browser"
 msgstr "Tarayıcıda Bak"
 
@@ -1709,9 +1670,6 @@ msgstr "Yer İmini Sil"
 
 msgid "Bookmarks"
 msgstr "Yer İmleri"
-
-msgid "Save waypoints"
-msgstr ""
 
 msgid "Delete Folder"
 msgstr "Dizini Sil"
@@ -1898,17 +1856,8 @@ msgstr ""
 msgid "Downloaded maps"
 msgstr "İndirilen haritalar"
 
-#. Android resource: @strings/position_popup_drive_here
-msgid "Route to here"
-msgstr ""
-
 msgid "Cancel"
 msgstr "İptal"
-
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
 
 msgid "Whole Planet"
 msgstr "Tüm Dünya"
@@ -1979,25 +1928,13 @@ msgstr "Korsika"
 msgid "Haute-Normandie"
 msgstr "Yukarı Normandiya"
 
-msgid "Languedoc-Roussillon"
-msgstr ""
-
 msgid "Lorraine"
-msgstr ""
-
-msgid "Nord-pas-de-Calais"
 msgstr ""
 
 msgid "Picardie"
 msgstr ""
 
-msgid "Provence-Alpes-Cote-d-Azur"
-msgstr ""
-
 msgid "Baden-Wuerttemberg"
-msgstr ""
-
-msgid "Mittelfranken"
 msgstr ""
 
 msgid "Niederbayern"
@@ -2005,9 +1942,6 @@ msgstr "Aşağı Bavyera"
 
 msgid "Oberbayern"
 msgstr "Yukarı Bavyera"
-
-msgid "Oberpfalz"
-msgstr ""
 
 msgid "Unterfranken"
 msgstr ""
@@ -2030,14 +1964,8 @@ msgstr "Aşağı Saksonya"
 msgid "Nordrhein-westfalen"
 msgstr "Kuzey Ren-Vestfalya"
 
-msgid "Saarland"
-msgstr ""
-
 msgid "Sachsen"
 msgstr "Saksonya"
-
-msgid "Thueringen"
-msgstr ""
 
 msgid "Galicia"
 msgstr "Galiçya"
@@ -2048,31 +1976,16 @@ msgstr "İskandinavya"
 msgid "England"
 msgstr "İngiltere"
 
-msgid "Cambridgeshire"
-msgstr ""
-
 msgid "East yorkshire with hull"
-msgstr ""
-
-msgid "Herefordshire"
 msgstr ""
 
 msgid "Lancashire"
 msgstr ""
 
-msgid "Norfolk"
-msgstr ""
-
 msgid "Oxfordshire"
 msgstr ""
 
-msgid "Somerset"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Wiltshire"
 msgstr ""
 
 msgid "Scotland"
@@ -2096,25 +2009,13 @@ msgstr "ABD"
 msgid " (except Alaska and Hawaii)"
 msgstr " (Alaska ve Hawaii hariç)"
 
-msgid "Michigan"
-msgstr ""
-
 msgid "Northeast"
 msgstr "Kuzeydoğu"
-
-msgid "Vermont"
-msgstr ""
 
 msgid "South"
 msgstr "Güney"
 
-msgid "District of Columbia"
-msgstr ""
-
 msgid "Louisiana"
-msgstr ""
-
-msgid "Mississippi"
 msgstr ""
 
 msgid "Texas"
@@ -2135,13 +2036,7 @@ msgstr "Kaliforniya"
 msgid "Colorado"
 msgstr "Kolorado"
 
-msgid "Montana"
-msgstr ""
-
 msgid "Nevada"
-msgstr ""
-
-msgid "Utah"
 msgstr ""
 
 msgid "South+Middle America"
@@ -2229,19 +2124,11 @@ msgstr "Pencere Modu"
 msgid "Description"
 msgstr "Açıklama"
 
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
-
 msgid "Satellite Status"
 msgstr "Uydu Durumu"
 
 msgid "NMEA Data"
 msgstr "NMEA Verisi"
-
-msgid "car_avoid_tolls"
-msgstr ""
 
 msgid "horse"
 msgstr "at"
@@ -2437,10 +2324,6 @@ msgstr "Yedek seçin"
 #. Android resource: @strings/backup
 msgid "Backup"
 msgstr "Yedekle"
-
-#. Android resource: @strings/TTS_title_data_missing
-msgid "System text to speech engine data is missing"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

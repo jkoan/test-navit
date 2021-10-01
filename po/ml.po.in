@@ -125,18 +125,9 @@ msgid_plural "in %d kilometers"
 msgstr[0] "ഒരു കിലോമീറ്ററില്‍"
 msgstr[1] "%d കിലോമീറ്ററില്‍"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
-#, c-format
-msgid "%1$sonto %2$s"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
-#. TRANSLATORS: motorway ramp refers to the slip road for entering a motorway.
-msgid "onto the motorway ramp"
 msgstr ""
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name
@@ -185,17 +176,9 @@ msgstr "അല്പസമയത്തിനുള്ളില്‍"
 msgid "now"
 msgstr "ഇപ്പോള്‍"
 
-#. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "then merge%1$s|right"
-msgstr ""
-
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|left"
-msgstr ""
-
-msgid "on your left"
 msgstr ""
 
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
@@ -203,18 +186,9 @@ msgstr ""
 msgid "Take exit %1$s %2$s %3$s"
 msgstr ""
 
-#. TRANSLATORS: as in "Keep right at interchange 42 Greenmond-West"
-msgid "at interchange"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then continue straight%1$s"
-msgstr ""
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep right%1$s"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -250,11 +224,6 @@ msgstr "%i വഴികൾക്കു ശേഷം"
 #, c-format
 msgid "Turn %1$s%2$s %3$s%4$s"
 msgstr "%4$s ലേക്ക്  %3$s %2$s %1$s തിരിയുക"
-
-#. TRANSLATORS: the arg. is distance. Left U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|left"
-msgstr ""
 
 #. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
 #, c-format
@@ -1921,11 +1890,6 @@ msgstr "ഇവിടെ വരെയുള്ള വഴി കാട്ടുക
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Whole Planet"
 msgstr "ഭൂലോകം മുഴുവന്‍"
 
@@ -2608,13 +2572,6 @@ msgstr "പകര്‍പ്പ് സൂക്ഷിക്കുക"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "പുനഃസ്ഥാപിക്കുക"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

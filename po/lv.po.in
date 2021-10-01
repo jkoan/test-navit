@@ -134,11 +134,6 @@ msgstr[0] "pēc %d kilometra"
 msgstr[1] "pēc %d kilometriem"
 msgstr[2] "pēc %d kilometriem"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
-#, c-format
-msgid "%1$sonto %2$s"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
@@ -227,9 +222,6 @@ msgstr "tad apvieno%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Apvienošana %1$s%2$s"
 
-msgid "on your right"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
 #, c-format
 msgid "Take the exit %1$s %2$s%3$s"
@@ -240,17 +232,7 @@ msgstr "nobrauktuvē"
 
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
 msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -1416,9 +1398,6 @@ msgstr "Punkts uz Kartes"
 msgid "Car"
 msgstr "Automašīna"
 
-msgid "Iso3"
-msgstr ""
-
 msgid "Country"
 msgstr "Valsts"
 
@@ -1957,11 +1936,6 @@ msgstr "Ceļš uz šejieni"
 msgid "Cancel"
 msgstr "Atcelt"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Whole Planet"
 msgstr "Visa Planēta"
 
@@ -2034,22 +2008,13 @@ msgstr "Šampanja-Ardene"
 msgid "Corse"
 msgstr "Korse"
 
-msgid "Haute-Normandie"
-msgstr ""
-
 msgid "Languedoc-Roussillon"
 msgstr ""
 
 msgid "Limousin"
 msgstr "Limuzīns"
 
-msgid "Midi-Pyrenees"
-msgstr ""
-
 msgid "Pays-de-la-Loire"
-msgstr ""
-
-msgid "Poitou-Charentes"
 msgstr ""
 
 msgid "Rhone-Alpes"
@@ -2060,9 +2025,6 @@ msgstr "Bajerna"
 
 msgid "Mittelfranken"
 msgstr "Mitelfarkena"
-
-msgid "Oberbayern"
-msgstr ""
 
 msgid "Oberpfalz"
 msgstr ""
@@ -2085,13 +2047,7 @@ msgstr "Hamburga"
 msgid "Hessen"
 msgstr "Hessene"
 
-msgid "Niedersachsen"
-msgstr ""
-
 msgid "Rheinland-Pfalz"
-msgstr ""
-
-msgid "Sachsen-Anhalt"
 msgstr ""
 
 msgid "Schleswig-Holstein"
@@ -2118,9 +2074,6 @@ msgstr "Eseksa"
 msgid "Kent"
 msgstr "Kenta"
 
-msgid "Leicestershire"
-msgstr ""
-
 msgid "Norfolk"
 msgstr "Norfolka"
 
@@ -2129,9 +2082,6 @@ msgstr "Oksfordšīre"
 
 msgid "Somerset"
 msgstr "Somerseta"
-
-msgid "Suffolk"
-msgstr ""
 
 msgid "Wiltshire"
 msgstr ""
@@ -2225,9 +2175,6 @@ msgstr "Nevada"
 
 msgid "Oregon"
 msgstr "Oregona"
-
-msgid "Washington State"
-msgstr ""
 
 msgid "Guyane Francaise"
 msgstr ""
@@ -2549,13 +2496,6 @@ msgstr "Rezerves kopija"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "Atjaunot"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"
