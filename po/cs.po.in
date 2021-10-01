@@ -1749,9 +1749,6 @@ msgstr "Škola"
 msgid "Police"
 msgstr "Policie"
 
-msgid "Justice"
-msgstr ""
-
 msgid "Taxi"
 msgstr "Taxi"
 
@@ -2413,13 +2410,6 @@ msgstr "Obnova"
 #. Android resource: @strings/TTS_title_data_missing
 msgid "System text to speech engine data is missing"
 msgstr "Chybí data systémového převodníku textu na řeč"
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
-msgstr ""
 
 #. Android resource: @strings/whole_planet
 msgid "Whole Planet"

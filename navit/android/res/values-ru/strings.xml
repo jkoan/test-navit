@@ -71,4 +71,10 @@
     <string name="cancel">Отмена</string>
     <string name="no">Нет</string>
     <string name="yes">Да</string>
+    <string name="crete">Крит</string>
+    <string name="greece">Греция</string>
+    <string name="estonia">Эстония</string>
+    <string name="croatia">Хорватия</string>
+    <string name="bulgaria">Болгария</string>
+    <string name="belarus">Беларусь</string>
 </resources>
