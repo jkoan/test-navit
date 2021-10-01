@@ -1525,10 +1525,6 @@ msgid ""
 "\t-v: print the version and exit.\n"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-
 msgid "unknown street"
 msgstr ""
 
@@ -2107,9 +2103,6 @@ msgstr "Volskerm"
 
 msgid "Window Mode"
 msgstr "Venster Modus"
-
-msgid "Zoom to route"
-msgstr ""
 
 msgid "Description"
 msgstr "Beskrywing"

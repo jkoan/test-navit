@@ -1531,10 +1531,6 @@ msgid ""
 "\t-v: print the version and exit.\n"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr "ГРЕШКА: Нису пронађене поставке у датотеци подешавања „%s"
-
 msgid "unknown street"
 msgstr "непозната улица"
 
@@ -2124,9 +2120,6 @@ msgstr "Цео екран"
 
 msgid "Window Mode"
 msgstr "Режим прозора"
-
-msgid "Zoom to route"
-msgstr ""
 
 msgid "Description"
 msgstr "Опис"
