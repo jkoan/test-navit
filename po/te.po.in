@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-10-01 06:24+0000\n"
-"Last-Translator: jkoan <jkoan@gmx.de>\n"
+"PO-Revision-Date: 2021-10-01 18:04+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Telugu <https://hosted.weblate.org/projects/navit-test/"
 "navit-core/te/>\n"
 "Language: te\n"
@@ -55,7 +55,7 @@ msgstr[1] "%d కిలోమీటర్లు"
 #, c-format
 msgid "in one kilometer"
 msgid_plural "in %d kilometers"
-msgstr[0] ""
+msgstr[0] "ఒక కిలోమీటరు"
 msgstr[1] ""
 
 msgid "soon"
@@ -614,3 +614,7 @@ msgstr "కూర్పు"
 
 msgid "Fullscreen"
 msgstr "నిండు తెర"
+
+#, c-format
+msgid "%d.%d kilometers"
+msgstr "%d లో. %d కిలోమీటర్లు"
