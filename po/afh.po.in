@@ -40,20 +40,9 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. 262
-msgid "Djibouti"
-msgstr ""
-
 #. 600
 msgid "Paraguay"
 msgstr ""
 
-msgid "Car parking"
-msgstr ""
-
 msgid "Whole Planet"
-msgstr ""
-
-#. Android resource: @strings/map_download_eta
-msgid "ETA"
 msgstr ""

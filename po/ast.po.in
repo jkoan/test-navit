@@ -1747,10 +1747,6 @@ msgstr "Descripción"
 msgid "horse"
 msgstr "caballu"
 
-#. Android resource: @strings/east_yorkshire_with_hull
-msgid "East yorkshire with hull"
-msgstr ""
-
 #, c-format
 #~ msgid "Route %4.0fkm    %02d:%02d ETA"
 #~ msgstr "Ruta %4.0fkm    %02d:%02d TED"

@@ -79,21 +79,9 @@ msgstr[1] ""
 msgid "right"
 msgstr "Баруун"
 
-#. 334
-msgid "Heard Island and McDonald Islands"
-msgstr ""
-
 #. 776
 msgid "Tonga"
 msgstr ""
 
-#, c-format
-msgid "Route %4.0fkm    %02d:%02d ETA"
-msgstr ""
-
 msgid "Bayern"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_exit_navit
-msgid "Exit Navit"
 msgstr ""

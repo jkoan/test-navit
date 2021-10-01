@@ -1410,10 +1410,6 @@ msgstr "Поўнаэкранны рэжым"
 msgid "Description"
 msgstr "Апісанне"
 
-#. Android resource: @strings/galicia
-msgid "Galicia"
-msgstr ""
-
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
 msgid "Distance(m)"
 msgstr "Адлегласць"

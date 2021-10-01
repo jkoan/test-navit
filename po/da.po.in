@@ -1860,10 +1860,6 @@ msgstr "hest"
 msgid "Truck"
 msgstr "Lastbil"
 
-#. Android resource: @strings/essex
-msgid "Essex"
-msgstr ""
-
 #, c-format
 #~ msgid "Route %4.0fkm    %02d:%02d ETA"
 #~ msgstr "Rute %4.0fkm    %02d:%02d ETA"
