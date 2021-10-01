@@ -101,69 +101,35 @@ msgstr "Drita"
 msgid "Exit"
 msgstr "Surtia"
 
-#. 248
-msgid "Aland Islands"
-msgstr ""
-
 #. 120
 msgid "Cameroon"
-msgstr ""
-
-#. 268
-msgid "Georgia"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 584
-msgid "Marshall Islands"
-msgstr ""
-
 #. 258
 msgid "French Polynesia"
-msgstr ""
-
-#. 740
-msgid "Suriname"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "Zip Code"
-msgstr ""
-
 msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
-msgid "Category"
 msgstr ""
 
 msgid "Cut Bookmark"
 msgstr ""
 
-msgid "Rename"
-msgstr ""
-
 msgid "partial match"
-msgstr ""
-
-msgid "Centre"
 msgstr ""
 
 msgid "Nordrhein-westfalen"
 msgstr ""
 
-msgid "North America"
-msgstr ""
-
 msgid "Utah"
-msgstr ""
-
-msgid "NMEA Data"
 msgstr ""
 
 #. Android resource: @strings/address_search_loading_results

@@ -1579,13 +1579,7 @@ msgstr "Glavni meni"
 msgid "House number"
 msgstr "Kućni broj"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1643,10 +1637,6 @@ msgstr "Opis"
 
 msgid "horse"
 msgstr "konj"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

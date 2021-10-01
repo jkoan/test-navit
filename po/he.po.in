@@ -1609,13 +1609,7 @@ msgstr "תפריט ראשי"
 msgid "House number"
 msgstr "מספר בית"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1670,10 +1664,6 @@ msgstr "מצב חלון"
 
 msgid "Description"
 msgstr "תיאור"
-
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

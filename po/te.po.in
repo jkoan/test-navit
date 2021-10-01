@@ -603,14 +603,8 @@ msgstr "నిండు తెర"
 msgid "Data"
 msgstr "దత్తాంశం"
 
-msgid "NE"
-msgstr ""
-
 msgid "Bookmarks"
 msgstr "పేజీకలు"
-
-msgid "Enter Coordinates"
-msgstr ""
 
 msgid "Vehicle"
 msgstr "వాహనం"
@@ -618,24 +612,11 @@ msgstr "వాహనం"
 msgid "Layout"
 msgstr "కూర్పు"
 
-msgid "Taiwan"
-msgstr ""
-
 msgid "Baden-Wuerttemberg"
-msgstr ""
-
-msgid "Herefordshire"
 msgstr ""
 
 msgid "Louisiana"
 msgstr ""
 
-msgid "Settings"
-msgstr ""
-
 msgid "Fullscreen"
 msgstr "నిండు తెర"
-
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""

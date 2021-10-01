@@ -1860,24 +1860,12 @@ msgstr "hest"
 msgid "Truck"
 msgstr "Lastbil"
 
-#. Android resource: @strings/address_enter_destination
-msgid "Enter destination"
-msgstr ""
-
 #. Android resource: @strings/taiwan
 msgid "Taiwan"
 msgstr ""
 
-#. Android resource: @strings/rhone_alpes
-msgid "Rhone-Alpes"
-msgstr ""
-
 #. Android resource: @strings/essex
 msgid "Essex"
-msgstr ""
-
-#. Android resource: @strings/louisiana
-msgid "Louisiana"
 msgstr ""
 
 #, c-format

@@ -498,10 +498,6 @@ msgstr "Namibia"
 msgid "Netherlands"
 msgstr "Uholanzi"
 
-#. 702
-msgid "Singapore"
-msgstr ""
-
 #. 804
 msgid "Ukraine"
 msgstr ""
@@ -548,9 +544,6 @@ msgstr "funga app"
 
 msgid "Show/hide route description"
 msgstr "onyesha orodha ya maelekezo"
-
-msgid "Distance(m)"
-msgstr ""
 
 #, c-format
 msgid "Route %4.0fkm    %02d:%02d ETA"
@@ -651,13 +644,7 @@ msgstr "menyu kuu"
 msgid "House number"
 msgstr "namba ya nyumba"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -702,10 +689,6 @@ msgstr "Ufafanuzi"
 
 msgid "horse"
 msgstr "farasi"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

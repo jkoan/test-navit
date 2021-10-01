@@ -531,35 +531,18 @@ msgstr "Jepang"
 msgid "Kenya"
 msgstr "Kenya"
 
-#. 496
-msgid "Mongolia"
-msgstr ""
-
 #. 616
 msgid "Poland"
-msgstr ""
-
-#. 534
-msgid "Sint Maarten (Dutch part)"
 msgstr ""
 
 #. 876
 msgid "Wallis and Futuna"
 msgstr ""
 
-msgid "Bookmark"
-msgstr ""
-
 msgid "Enable/disable automatic zoom level changing"
 msgstr ""
 
-msgid "Visit Before"
-msgstr ""
-
 msgid "Delete Bookmark"
-msgstr ""
-
-msgid "members and contributors."
 msgstr ""
 
 msgid ""
@@ -568,19 +551,10 @@ msgid ""
 "location."
 msgstr ""
 
-msgid "Haute-Normandie"
-msgstr ""
-
 msgid "Sachsen"
 msgstr ""
 
-msgid " (except Alaska and Hawaii)"
-msgstr ""
-
 msgid "downloading"
-msgstr ""
-
-msgid "horse"
 msgstr ""
 
 #. Android resource: @strings/choose_an_action

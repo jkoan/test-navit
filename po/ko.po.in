@@ -1253,19 +1253,10 @@ msgstr "경유지 %s"
 msgid "Bookmarks"
 msgstr "북마크"
 
-msgid "Enter Coordinates"
-msgstr ""
-
 msgid "Former Destinations"
 msgstr "이전목적지"
 
-msgid "Victoria"
-msgstr ""
-
 msgid "Oberbayern"
-msgstr ""
-
-msgid "Norfolk"
 msgstr ""
 
 msgid "Texas"
@@ -1276,10 +1267,6 @@ msgstr "경로"
 
 msgid "Fullscreen"
 msgstr "전체화면"
-
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""
 
 #, c-format
 msgid "%d m"

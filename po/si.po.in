@@ -1509,13 +1509,7 @@ msgstr "ප්‍රධාන මෙනුව"
 msgid "House number"
 msgstr "ගෘහ අංකය"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1573,10 +1567,6 @@ msgstr "විස්තරය"
 
 msgid "horse"
 msgstr "අශ්ව"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

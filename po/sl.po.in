@@ -1509,13 +1509,7 @@ msgstr "Nazaj na zemljevid"
 msgid "Main Menu"
 msgstr "Glavni meni"
 
-msgid "BeNeLux"
-msgstr ""
-
 msgid "Berlin"
-msgstr ""
-
-msgid "South yorkshire"
 msgstr ""
 
 msgid "California"
@@ -1550,10 +1544,6 @@ msgstr "Celozaslonski način"
 
 msgid "Window Mode"
 msgstr "Okenski način"
-
-#. Android resource: @strings/address_enter_destination
-msgid "Enter destination"
-msgstr ""
 
 #, c-format
 msgid "in %d m"

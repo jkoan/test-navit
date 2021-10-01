@@ -1987,10 +1987,6 @@ msgstr "Avbryt"
 msgid "ready"
 msgstr "klar"
 
-#. Android resource: @strings/backup_not_found
-msgid "Backup not found"
-msgstr ""
-
 #. Android resource: @strings/asia
 msgid "Asia"
 msgstr "Asien"

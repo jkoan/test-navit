@@ -1603,13 +1603,7 @@ msgstr "Головне меню"
 msgid "House number"
 msgstr "Номер будинку"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1667,10 +1661,6 @@ msgstr "Опис"
 
 msgid "horse"
 msgstr "кінь"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
 
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"

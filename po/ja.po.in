@@ -1279,19 +1279,10 @@ msgstr "北西"
 msgid "Bookmarks"
 msgstr "ブックマーク"
 
-msgid "Enter Coordinates"
-msgstr ""
-
 msgid "Former Destinations"
 msgstr "前の目的地"
 
-msgid "Victoria"
-msgstr ""
-
 msgid "Oberbayern"
-msgstr ""
-
-msgid "Norfolk"
 msgstr ""
 
 msgid "Texas"
@@ -1302,10 +1293,6 @@ msgstr "ルート"
 
 msgid "Fullscreen"
 msgstr "全画面表示"
-
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""
 
 #, c-format
 msgid "in %d m"

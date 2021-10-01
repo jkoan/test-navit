@@ -1410,26 +1410,12 @@ msgstr "Поўнаэкранны рэжым"
 msgid "Description"
 msgstr "Апісанне"
 
-#. Android resource: @strings/map_download_oversize
-msgid ""
-"Sorry, we currently do not support maps above 3.8G on Android, please select "
-"a smaller one."
-msgstr ""
-
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr ""
 
-#. Android resource: @strings/lorraine
-msgid "Lorraine"
-msgstr ""
-
 #. Android resource: @strings/galicia
 msgid "Galicia"
-msgstr ""
-
-#. Android resource: @strings/massachusetts
-msgid "Massachusetts"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

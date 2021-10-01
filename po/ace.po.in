@@ -16,89 +16,43 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
-#, c-format
-msgid "%1$sonto %2$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep right%1$s"
-msgstr ""
-
-msgid "Set as destination"
 msgstr ""
 
 #. 096
 msgid "Brunei Darussalam"
 msgstr ""
 
-#. 212
-msgid "Dominica"
-msgstr ""
-
 #. 316
 msgid "Guam"
-msgstr ""
-
-#. 136
-msgid "Cayman Islands"
 msgstr ""
 
 #. 454
 msgid "Malawi"
 msgstr ""
 
-#. 638
-msgid "Reunion"
-msgstr ""
-
 #. 772
 msgid "Tokelau"
 msgstr ""
 
-#. We have not found an existing config file from all possibilities
-msgid "No config file navit.xml, navit.xml.local found\n"
-msgstr ""
-
 msgid "_Vehicle"
-msgstr ""
-
-msgid "Bank"
 msgstr ""
 
 #. Android resource: @strings/no
 msgid "No"
 msgstr ""
 
-#, c-format
-msgid "Bookmark %s"
-msgstr ""
-
 msgid "Map follows Vehicle"
-msgstr ""
-
-msgid "Canary Islands"
 msgstr ""
 
 msgid "Poitou-Charentes"
 msgstr ""
 
-msgid "Cumbria"
-msgstr ""
-
 msgid "Arkansas"
-msgstr ""
-
-msgid "Vehicle Position"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_zoom_in
 msgid "Zoom in"
-msgstr ""
-
-#. Android resource: @strings/restore_successful_please_restart_navit
-msgid ""
-"Restore Successful\n"
-"Please restart Navit"
 msgstr ""

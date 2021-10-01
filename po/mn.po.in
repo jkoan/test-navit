@@ -75,86 +75,42 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "Баруун"
 
-#. 020
-msgid "Andorra"
-msgstr ""
-
 #. 044
 msgid "Bahamas"
-msgstr ""
-
-#. 233
-msgid "Estonia"
 msgstr ""
 
 #. 334
 msgid "Heard Island and McDonald Islands"
 msgstr ""
 
-#. 662
-msgid "Saint Lucia"
-msgstr ""
-
 #. 516
 msgid "Namibia"
-msgstr ""
-
-#. 646
-msgid "Rwanda"
 msgstr ""
 
 #. 776
 msgid "Tonga"
 msgstr ""
 
-msgid ""
-"Internal initialization failed, exiting. Check previous error messages.\n"
-msgstr ""
-
 msgid "Increase zoom level"
-msgstr ""
-
-msgid "School"
 msgstr ""
 
 #, c-format
 msgid "Route %4.0fkm    %02d:%02d ETA"
 msgstr ""
 
-msgid "Download Enabled"
-msgstr ""
-
 msgid "Height Profile"
-msgstr ""
-
-msgid "UAE+Other"
 msgstr ""
 
 msgid "Bayern"
 msgstr ""
 
-msgid "Kent"
-msgstr ""
-
 msgid "Maryland"
-msgstr ""
-
-msgid "Tools"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_exit_navit
 msgid "Exit Navit"
-msgstr ""
-
-#. Android resource: @strings/backup
-msgid "Backup"
 msgstr ""

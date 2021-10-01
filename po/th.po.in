@@ -1258,9 +1258,6 @@ msgstr "เส้นทาง 0000km 0+00:00 ETA"
 msgid "Bookmarks"
 msgstr "บุ๊กมาร์ก"
 
-msgid "Enter Coordinates"
-msgstr ""
-
 msgid "Vehicle"
 msgstr "ยานพาหนะ"
 
@@ -1273,13 +1270,7 @@ msgstr "การจัดเรียง"
 msgid "Former Destinations"
 msgstr "ก่อนถึง ที่หมาย"
 
-msgid "Victoria"
-msgstr ""
-
 msgid "Oberbayern"
-msgstr ""
-
-msgid "Norfolk"
 msgstr ""
 
 msgid "Texas"
@@ -1293,7 +1284,3 @@ msgstr "แสดง"
 
 msgid "Fullscreen"
 msgstr "แสดงผลเต็มจอภาพ"
-
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""

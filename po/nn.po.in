@@ -1329,13 +1329,7 @@ msgstr "Hovudmenyen"
 msgid "House number"
 msgstr "Husnummer"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1381,7 +1375,3 @@ msgstr "Heile skjermen"
 
 msgid "Description"
 msgstr "Beskriving"
-
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""

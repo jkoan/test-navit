@@ -404,31 +404,16 @@ msgstr "اکوادور"
 msgid "Estonia"
 msgstr "استونی"
 
-#. 334
-msgid "Heard Island and McDonald Islands"
-msgstr ""
-
 #. 662
 msgid "Saint Lucia"
-msgstr ""
-
-#. 516
-msgid "Namibia"
 msgstr ""
 
 #. 646
 msgid "Rwanda"
 msgstr ""
 
-#. 776
-msgid "Tonga"
-msgstr ""
-
 msgid ""
 "Internal initialization failed, exiting. Check previous error messages.\n"
-msgstr ""
-
-msgid "Increase zoom level"
 msgstr ""
 
 msgid "School"
@@ -437,34 +422,17 @@ msgstr ""
 msgid "Distance(m)"
 msgstr "فاصله"
 
-msgid "Rename Bookmark"
-msgstr ""
-
 #. Authors
 msgid "By"
-msgstr ""
-
-#. Android resource: @strings/address_search_towns
-msgid "Towns"
 msgstr ""
 
 msgid "Corse"
 msgstr ""
 
-msgid "Saarland"
-msgstr ""
-
 msgid "Hawaii"
 msgstr ""
 
-msgid "South+Middle America"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Android resource: @strings/address_search_no_text_entered
-msgid "No text entered"
 msgstr ""
 
 #, c-format

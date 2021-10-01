@@ -1627,13 +1627,7 @@ msgstr "Main Menu"
 msgid "House number"
 msgstr "House number"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1691,7 +1685,3 @@ msgstr "Description"
 
 msgid "horse"
 msgstr "horse"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""

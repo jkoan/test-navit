@@ -1747,24 +1747,12 @@ msgstr "Descripción"
 msgid "horse"
 msgstr "caballu"
 
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""
-
 #. Android resource: @strings/asia
 msgid "Asia"
 msgstr ""
 
-#. Android resource: @strings/provence_alpes_cote_d_azur
-msgid "Provence-Alpes-Cote-d-Azur"
-msgstr ""
-
 #. Android resource: @strings/east_yorkshire_with_hull
 msgid "East yorkshire with hull"
-msgstr ""
-
-#. Android resource: @strings/florida
-msgid "Florida"
 msgstr ""
 
 #, c-format

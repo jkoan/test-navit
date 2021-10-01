@@ -48,11 +48,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "ڕاست"
@@ -60,76 +55,38 @@ msgstr "ڕاست"
 msgid "Exit"
 msgstr "دەرچوون"
 
-#. 248
-msgid "Aland Islands"
-msgstr ""
-
 #. 120
 msgid "Cameroon"
-msgstr ""
-
-#. 268
-msgid "Georgia"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 584
-msgid "Marshall Islands"
-msgstr ""
-
 #. 258
 msgid "French Polynesia"
-msgstr ""
-
-#. 740
-#. Android resource: @strings/suriname
-msgid "Suriname"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "Destination"
-msgstr ""
-
 msgid "_Fullscreen"
-msgstr ""
-
-msgid "W"
 msgstr ""
 
 #. Pastes the Bookmark
 msgid "Paste bookmark"
 msgstr ""
 
-msgid "Northing"
-msgstr ""
-
 msgid "Display"
-msgstr ""
-
-#. Android resource: @strings/map_download_download_error
-msgid "Error downloading map."
 msgstr ""
 
 #. Android resource: @strings/restore_failed
 msgid "Restore failed"
 msgstr ""
 
-#. Android resource: @strings/ile_de_france
-msgid "Ile-de-France"
-msgstr ""
-
 #. Android resource: @strings/schleswig_holstein
 msgid "Schleswig-Holstein"
-msgstr ""
-
-#. Android resource: @strings/michigan
-msgid "Michigan"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

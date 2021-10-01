@@ -1547,13 +1547,7 @@ msgstr "主選單"
 msgid "House number"
 msgstr "屋號"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1611,10 +1605,6 @@ msgstr "說明"
 
 msgid "horse"
 msgstr "馬"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

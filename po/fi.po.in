@@ -1639,13 +1639,7 @@ msgstr "Päävalikko"
 msgid "House number"
 msgstr "Talon numero"
 
-msgid "Alsace"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Colorado"
@@ -1703,10 +1697,6 @@ msgstr "Kuvaus"
 
 msgid "horse"
 msgstr "hevonen"
-
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
 
 #, c-format
 msgid "in %d m"

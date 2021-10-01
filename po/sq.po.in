@@ -532,72 +532,35 @@ msgstr "Bolivi"
 msgid "Bonaire, Sint Eustatius and Saba"
 msgstr "Bonaire, Sint Eustatius dhe Saba"
 
-#. 012
-msgid "Algeria"
-msgstr ""
-
 #. 328
 msgid "Guyana"
-msgstr ""
-
-#. 418
-msgid "Lao People's Democratic Republic"
 msgstr ""
 
 #. 458
 msgid "Malaysia"
 msgstr ""
 
-#. 688
-msgid "Serbia"
-msgstr ""
-
 #. 795
 msgid "Turkmenistan"
-msgstr ""
-
-#, c-format
-msgid "Using config file '%s'\n"
 msgstr ""
 
 msgid "Decrease zoom level"
 msgstr ""
 
-msgid "Cinema"
-msgstr ""
-
 msgid "3D"
-msgstr ""
-
-msgid "Map Download"
 msgstr ""
 
 msgid "Maps"
 msgstr ""
 
-msgid "Korea"
-msgstr ""
-
 msgid "Rhone-Alpes"
-msgstr ""
-
-msgid "Essex"
 msgstr ""
 
 msgid "Florida"
 msgstr ""
 
-msgid ""
-"Show\n"
-"Map"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_download_maps
 msgid "Download maps"
-msgstr ""
-
-#. Android resource: @strings/restore_failed
-msgid "Restore failed"
 msgstr ""
 
 #, c-format
