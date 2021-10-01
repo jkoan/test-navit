@@ -404,16 +404,8 @@ msgstr "اکوادور"
 msgid "Estonia"
 msgstr "استونی"
 
-#. 662
-msgid "Saint Lucia"
-msgstr ""
-
 #. 646
 msgid "Rwanda"
-msgstr ""
-
-msgid ""
-"Internal initialization failed, exiting. Check previous error messages.\n"
 msgstr ""
 
 msgid "School"
@@ -422,14 +414,7 @@ msgstr ""
 msgid "Distance(m)"
 msgstr "فاصله"
 
-#. Authors
-msgid "By"
-msgstr ""
-
 msgid "Corse"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "car_avoid_tolls"

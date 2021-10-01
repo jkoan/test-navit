@@ -16,43 +16,19 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep right%1$s"
-msgstr ""
-
 #. 096
 msgid "Brunei Darussalam"
-msgstr ""
-
-#. 316
-msgid "Guam"
 msgstr ""
 
 #. 454
 msgid "Malawi"
 msgstr ""
 
-#. 772
-msgid "Tokelau"
-msgstr ""
-
 msgid "_Vehicle"
-msgstr ""
-
-#. Android resource: @strings/no
-msgid "No"
 msgstr ""
 
 msgid "Map follows Vehicle"
 msgstr ""
 
-msgid "Poitou-Charentes"
-msgstr ""
-
 msgid "Arkansas"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_zoom_in
-msgid "Zoom in"
 msgstr ""

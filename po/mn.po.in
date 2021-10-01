@@ -79,36 +79,19 @@ msgstr[1] ""
 msgid "right"
 msgstr "Баруун"
 
-#. 044
-msgid "Bahamas"
-msgstr ""
-
 #. 334
 msgid "Heard Island and McDonald Islands"
-msgstr ""
-
-#. 516
-msgid "Namibia"
 msgstr ""
 
 #. 776
 msgid "Tonga"
 msgstr ""
 
-msgid "Increase zoom level"
-msgstr ""
-
 #, c-format
 msgid "Route %4.0fkm    %02d:%02d ETA"
 msgstr ""
 
-msgid "Height Profile"
-msgstr ""
-
 msgid "Bayern"
-msgstr ""
-
-msgid "Maryland"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_exit_navit

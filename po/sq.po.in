@@ -532,35 +532,17 @@ msgstr "Bolivi"
 msgid "Bonaire, Sint Eustatius and Saba"
 msgstr "Bonaire, Sint Eustatius dhe Saba"
 
-#. 328
-msgid "Guyana"
-msgstr ""
-
 #. 458
 msgid "Malaysia"
-msgstr ""
-
-#. 795
-msgid "Turkmenistan"
 msgstr ""
 
 msgid "Decrease zoom level"
 msgstr ""
 
-msgid "3D"
-msgstr ""
-
 msgid "Maps"
 msgstr ""
 
-msgid "Rhone-Alpes"
-msgstr ""
-
 msgid "Florida"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_download_maps
-msgid "Download maps"
 msgstr ""
 
 #, c-format

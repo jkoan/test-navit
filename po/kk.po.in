@@ -58,35 +58,18 @@ msgstr "Оңға"
 msgid "Exit"
 msgstr "Шығу"
 
-#. 120
-msgid "Cameroon"
-msgstr ""
-
 #. 832
 msgid "Jersey"
-msgstr ""
-
-#. 258
-msgid "French Polynesia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
 msgid "Cut Bookmark"
 msgstr ""
 
-msgid "partial match"
-msgstr ""
-
 msgid "Nordrhein-westfalen"
-msgstr ""
-
-msgid "Utah"
 msgstr ""
 
 #. Android resource: @strings/address_search_loading_results

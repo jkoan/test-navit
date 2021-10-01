@@ -174,36 +174,18 @@ msgstr "चारों ओर मोड़ %1$s"
 msgid "Exit"
 msgstr "Nikas"
 
-#. 120
-msgid "Cameroon"
-msgstr ""
-
 #. 832
 msgid "Jersey"
-msgstr ""
-
-#. 258
-msgid "French Polynesia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
 msgid "Distance(m)"
 msgstr "दूरी"
 
-#. Authors
-msgid "By"
-msgstr ""
-
 msgid "Corse"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "car_avoid_tolls"

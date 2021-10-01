@@ -241,38 +241,20 @@ msgstr "Wechselstube"
 msgid "Exit"
 msgstr "Ausfahrt"
 
-#. 120
-msgid "Cameroon"
-msgstr ""
-
 #. 832
 msgid "Jersey"
-msgstr ""
-
-#. 258
-msgid "French Polynesia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "_Fullscreen"
-msgstr ""
-
 #. Pastes the Bookmark
 msgid "Paste bookmark"
 msgstr ""
 
-msgid "Display"
-msgstr ""
-
 #. Android resource: @strings/restore_failed
 msgid "Restore failed"
-msgstr ""
-
-#. Android resource: @strings/schleswig_holstein
-msgid "Schleswig-Holstein"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

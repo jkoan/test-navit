@@ -45,41 +45,20 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-msgid "Visit before..."
-msgstr ""
-
 #. 262
 msgid "Djibouti"
-msgstr ""
-
-#. 410
-msgid "Korea, Republic of"
 msgstr ""
 
 #. 600
 msgid "Paraguay"
 msgstr ""
 
-msgid "* Unknown, add is_in tags to those cities"
-msgstr ""
-
 msgid "Car parking"
-msgstr ""
-
-#. Adds the Bookmark folders
-msgid "Add Bookmark folder"
 msgstr ""
 
 msgid "Whole Planet"
 msgstr ""
 
-msgid "Buckinghamshire"
-msgstr ""
-
 #. Android resource: @strings/map_download_eta
 msgid "ETA"
-msgstr ""
-
-#. Android resource: @strings/failed_to_restore
-msgid "Failed to restore"
 msgstr ""

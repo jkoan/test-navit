@@ -82,36 +82,18 @@ msgstr "چەپ"
 msgid "Exit"
 msgstr "Exit"
 
-#. 120
-msgid "Cameroon"
-msgstr ""
-
 #. 832
 msgid "Jersey"
-msgstr ""
-
-#. 258
-msgid "French Polynesia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
 msgid "Distance(m)"
 msgstr "Dûrahî:"
 
-#. Authors
-msgid "By"
-msgstr ""
-
 msgid "Corse"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "car_avoid_tolls"

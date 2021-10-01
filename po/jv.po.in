@@ -531,30 +531,14 @@ msgstr "Jepang"
 msgid "Kenya"
 msgstr "Kenya"
 
-#. 616
-msgid "Poland"
-msgstr ""
-
 #. 876
 msgid "Wallis and Futuna"
-msgstr ""
-
-msgid "Enable/disable automatic zoom level changing"
 msgstr ""
 
 msgid "Delete Bookmark"
 msgstr ""
 
-msgid ""
-"Current map location %s is not available\n"
-"Please restart Navit after you attach an SD card or select a different map "
-"location."
-msgstr ""
-
 msgid "Sachsen"
-msgstr ""
-
-msgid "downloading"
 msgstr ""
 
 #. Android resource: @strings/choose_an_action

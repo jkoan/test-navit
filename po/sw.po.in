@@ -498,10 +498,6 @@ msgstr "Namibia"
 msgid "Netherlands"
 msgstr "Uholanzi"
 
-#. 804
-msgid "Ukraine"
-msgstr ""
-
 #. Strings from navit_shipped.xml
 msgid "Map Point"
 msgstr "eneo kwenye ramani"
@@ -643,9 +639,6 @@ msgstr "menyu kuu"
 
 msgid "House number"
 msgstr "namba ya nyumba"
-
-msgid "Brandenburg"
-msgstr ""
 
 msgid "Colorado"
 msgstr ""

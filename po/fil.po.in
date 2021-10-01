@@ -203,38 +203,20 @@ msgstr "ng marahan "
 msgid "Exit"
 msgstr "Labasan"
 
-#. 120
-msgid "Cameroon"
-msgstr ""
-
 #. 832
 msgid "Jersey"
-msgstr ""
-
-#. 258
-msgid "French Polynesia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-msgid "_Fullscreen"
-msgstr ""
-
 #. Pastes the Bookmark
 msgid "Paste bookmark"
 msgstr ""
 
-msgid "Display"
-msgstr ""
-
 #. Android resource: @strings/restore_failed
 msgid "Restore failed"
-msgstr ""
-
-#. Android resource: @strings/schleswig_holstein
-msgid "Schleswig-Holstein"
 msgstr ""
 
 #, c-format
