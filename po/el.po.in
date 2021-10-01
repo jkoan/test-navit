@@ -220,19 +220,9 @@ msgstr "τότε συγχώνευση%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Συγχώνευση %1$s%2$s"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -1333,10 +1323,6 @@ msgstr "Ζιμπάμπουε"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "* Άγνωστη, προσθέστε ετικέτες is_in σε αυτές τις πόλεις"
 
-#, c-format
-msgid "Using config file '%s'\n"
-msgstr ""
-
 msgid "unknown street"
 msgstr "άγνωστος δρόμος"
 
@@ -1513,18 +1499,11 @@ msgstr "Ταξί"
 msgid "Shopping"
 msgstr "Αγορές"
 
-#, c-format
-msgid "Set map to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a category"
 msgstr "Επιλέξτε μια κατηγορία"
 
 msgid "Select a distance to look for (km)"
 msgstr "Επιλέξτε μια ακτίνα αναζήτησης από το κέντρο της οθόνης"
-
-msgid "Direction"
-msgstr ""
 
 msgid "Distance(m)"
 msgstr "Απόσταση"
@@ -1613,9 +1592,6 @@ msgstr "Διαγραφή Σελιδοδείκτη"
 msgid "Bookmarks"
 msgstr "Σελιδοδείκτες"
 
-msgid "Delete Folder"
-msgstr ""
-
 #. Adds the Bookmark folders
 msgid "Add Bookmark folder"
 msgstr "Πρόσθεση φακέλου Σελιδοδείκτη"
@@ -1627,9 +1603,6 @@ msgstr "Επικόληση σελιδοδείκτη"
 #, c-format
 msgid "Bookmark %s"
 msgstr "Σελιδοδείκτης %s"
-
-msgid "Download Enabled"
-msgstr ""
 
 msgid "Show Satellite Status"
 msgstr "Εμφάνιση Κατάστασης Δορυφόρων"
@@ -1689,9 +1662,6 @@ msgstr "Και όλη την ομάδα του Navit"
 msgid "members and contributors."
 msgstr "μέλη και συνεισφέροντες"
 
-msgid "Enter coordinates, for example:"
-msgstr ""
-
 msgid "Vehicle"
 msgstr "Όχημα"
 
@@ -1740,17 +1710,8 @@ msgstr "Κύριο Μενού"
 msgid "House number"
 msgstr "Αριθμός σπιτιού"
 
-#. warning told
-msgid "Look out! Camera!"
-msgstr ""
-
 #. Android resource: @strings/address_search_towns
 msgid "Towns"
-msgstr ""
-
-msgid ""
-"Sorry, we currently do not support maps above 3.8G on Android, please select "
-"a smaller one."
 msgstr ""
 
 msgid ""
@@ -1758,97 +1719,49 @@ msgid ""
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Asia"
-msgstr ""
-
 msgid "Oceania"
-msgstr ""
-
-msgid "Europe"
 msgstr ""
 
 msgid "Alsace"
 msgstr ""
 
-msgid "Bourgogne"
-msgstr ""
-
 msgid "Corse"
-msgstr ""
-
-msgid "Languedoc-Roussillon"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Provence-Alpes-Cote-d-Azur"
-msgstr ""
-
 msgid "Mittelfranken"
-msgstr ""
-
-msgid "Oberpfalz"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "Mecklenburg-Vorpommern"
-msgstr ""
-
 msgid "Saarland"
-msgstr ""
-
-msgid "Thueringen"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "East yorkshire with hull"
-msgstr ""
-
 msgid "Lancashire"
-msgstr ""
-
-msgid "Oxfordshire"
 msgstr ""
 
 msgid "Suffolk"
 msgstr ""
 
-msgid "Wales"
-msgstr ""
-
 msgid "Hawaii"
-msgstr ""
-
-msgid "Michigan"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "District of Columbia"
-msgstr ""
-
 msgid "Mississippi"
-msgstr ""
-
-msgid "West Virginia"
 msgstr ""
 
 msgid "Colorado"
 msgstr ""
 
-msgid "Nevada"
-msgstr ""
-
 msgid "South+Middle America"
-msgstr ""
-
-msgid "Media selected for map storage is not available"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -1902,54 +1815,27 @@ msgstr "Λειτουργία παραθύρων"
 msgid "Description"
 msgstr "Περιγραφή"
 
-msgid "NMEA Data"
-msgstr ""
-
 msgid "horse"
 msgstr "άλογο"
 
-#. Android resource: @strings/notification_event_default
-msgid "Navit running"
-msgstr ""
-
 #. Android resource: @strings/initial_info_box_more_info
 msgid "More info"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_toggle_poi
-msgid "Toggle POIs"
 msgstr ""
 
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/map_no_fix
-msgid "No location. Reopen after location fix."
-msgstr ""
-
 #. Android resource: @strings/address_partial_match
 msgid "Match partial address"
-msgstr ""
-
-#. Android resource: @strings/address_search_loading_results
-msgid "Loading search results"
 msgstr ""
 
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
 msgstr ""
 
-#. Android resource: @strings/failed_to_create_backup_directory
-msgid "Failed to create backup directory"
-msgstr ""
-
 #. Android resource: @strings/backup_successful
 msgid "Backup successful"
-msgstr ""
-
-#. Android resource: @strings/select_backup
-msgid "Select backup"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

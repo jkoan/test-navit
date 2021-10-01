@@ -1611,10 +1611,6 @@ msgstr "Posterunek policji"
 msgid "Taxi"
 msgstr "Postój taksówek"
 
-#, c-format
-msgid "Set destination to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a category"
 msgstr "Wybierz kategorię"
 
@@ -2039,14 +2035,8 @@ msgstr "Lotaryngia"
 msgid "Picardie"
 msgstr "Pikardia"
 
-msgid "Baden-Wuerttemberg"
-msgstr ""
-
 msgid "Bayern"
 msgstr "Bawaria"
-
-msgid "Oberfranken"
-msgstr ""
 
 msgid "Schwaben"
 msgstr "Szwabia"
@@ -2102,13 +2092,7 @@ msgstr "Kumbria"
 msgid "Essex"
 msgstr "Essex"
 
-msgid "Leicestershire"
-msgstr ""
-
 msgid "Shropshire"
-msgstr ""
-
-msgid "Surrey"
 msgstr ""
 
 msgid "Scotland"

@@ -75,10 +75,6 @@ msgid "sixth exit"
 msgstr "šesti izhod"
 
 #, c-format
-msgid "in %d.%d miles"
-msgstr ""
-
-#, c-format
 msgid "one mile"
 msgid_plural "%d miles"
 msgstr[0] ""
@@ -205,19 +201,9 @@ msgstr "potem združite%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Združitev %1$s%2$s"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -1310,10 +1296,6 @@ msgstr "Zimbabve"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "*Neznan dodatek  v oznakah za ta mesta"
 
-#, c-format
-msgid "Using config file '%s'\n"
-msgstr ""
-
 #. Safe cast: attr_generic_set_attr does not modify its parameter.
 msgid "Unnamed vehicle"
 msgstr ""
@@ -1439,27 +1421,14 @@ msgstr "Celozaslonski način"
 msgid "Data"
 msgstr "Podatki"
 
-msgid "Hotel"
-msgstr ""
-
 msgid "Hospital"
-msgstr ""
-
-msgid "Police"
 msgstr ""
 
 msgid "Select a search radius from screen center"
 msgstr ""
 
-#, c-format
-msgid "Set next visit to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a distance to look for (km)"
 msgstr "Izberite radij iskanja s središča zaslona"
-
-msgid "Direction"
-msgstr ""
 
 msgid "Distance(m)"
 msgstr "Razdalja"
@@ -1518,35 +1487,20 @@ msgstr "Prikaz lastnosti"
 msgid "View on map"
 msgstr "Prikaz na zemljevidu"
 
-msgid "Copy Bookmark"
-msgstr ""
-
 msgid "Delete waypoint"
 msgstr ""
 
 msgid "Bookmarks"
 msgstr "Zaznamki"
 
-msgid "Delete Folder"
-msgstr ""
-
 #, c-format
 msgid "Bookmark %s"
 msgstr "Zaznamuj %s"
 
-msgid "Download Enabled"
-msgstr ""
-
 msgid " Azimuth "
 msgstr ""
 
-msgid "pedestrian"
-msgstr ""
-
 msgid "Show Satellite status"
-msgstr ""
-
-msgid "About Navit"
 msgstr ""
 
 msgid "Waypoints"
@@ -1582,111 +1536,56 @@ msgstr "Nazaj na zemljevid"
 msgid "Main Menu"
 msgstr "Glavni meni"
 
-msgid "Return to route!"
-msgstr ""
-
 #. Android resource: @strings/address_search_button
 msgid "Search"
-msgstr ""
-
-msgid "Downloaded maps"
 msgstr ""
 
 msgid "filenamePath"
 msgstr ""
 
-msgid "Canary Islands"
-msgstr ""
-
 msgid "UAE+Other"
-msgstr ""
-
-msgid "New South Wales"
 msgstr ""
 
 msgid "BeNeLux"
 msgstr ""
 
-msgid "Basse-Normandie"
-msgstr ""
-
 msgid "Champagne-Ardenne"
-msgstr ""
-
-msgid "Ile-de-France"
 msgstr ""
 
 msgid "Midi-Pyrenees"
 msgstr ""
 
-msgid "Poitou-Charentes"
-msgstr ""
-
 msgid "Bayern"
-msgstr ""
-
-msgid "Oberfranken"
 msgstr ""
 
 msgid "Berlin"
 msgstr ""
 
-msgid "Hessen"
-msgstr ""
-
 msgid "Rheinland-Pfalz"
-msgstr ""
-
-msgid "Schleswig-Holstein"
 msgstr ""
 
 msgid "Scandinavia"
 msgstr ""
 
-msgid "Cumbria"
-msgstr ""
-
 msgid "Kent"
-msgstr ""
-
-msgid "Nottinghamshire"
 msgstr ""
 
 msgid "South yorkshire"
 msgstr ""
 
-msgid "Scotland"
-msgstr ""
-
 msgid "Alaska"
-msgstr ""
-
-msgid "Midwest"
 msgstr ""
 
 msgid "Massachusetts"
 msgstr ""
 
-msgid "Arkansas"
-msgstr ""
-
 msgid "Maryland"
-msgstr ""
-
-msgid "Virginia"
 msgstr ""
 
 msgid "California"
 msgstr ""
 
-msgid "New Mexico"
-msgstr ""
-
 msgid "Washington State"
-msgstr ""
-
-#. Android resource: @strings/map_download_ready
-msgid "ready"
 msgstr ""
 
 msgid "Error writing map!"
@@ -1722,54 +1621,27 @@ msgstr "Celozaslonski način"
 msgid "Window Mode"
 msgstr "Okenski način"
 
-msgid "Satellite Status"
-msgstr ""
-
 msgid "car_pedantic"
-msgstr ""
-
-#. Android resource: @strings/notification_ticker
-msgid "Navit started"
 msgstr ""
 
 #. Android resource: @strings/initial_info_box_OK
 msgid "OK"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_download_maps
-msgid "Download maps"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_set_map_location
 msgid "Set map location"
-msgstr ""
-
-#. Android resource: @strings/map_download_download_aborted
-msgid "Map download aborted"
 msgstr ""
 
 #. Android resource: @strings/address_enter_destination
 msgid "Enter destination"
 msgstr ""
 
-#. Android resource: @strings/address_search_getting_results
-msgid "Getting search results"
-msgstr ""
-
 #. Android resource: @strings/address_search_set_destination
 msgid "Setting destination to:"
 msgstr ""
 
-#. Android resource: @strings/restoring
-msgid "Restoring..."
-msgstr ""
-
 #. Android resource: @strings/failed_to_restore
 msgid "Failed to restore"
-msgstr ""
-
-#. Android resource: @strings/restore_failed
-msgid "Restore failed"
 msgstr ""
 
 #. Android resource: @strings/TTS_title_data_missing

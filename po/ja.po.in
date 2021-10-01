@@ -72,10 +72,6 @@ msgid "sixth exit"
 msgstr "6番出口"
 
 #, c-format
-msgid "in %d.%d miles"
-msgstr ""
-
-#, c-format
 msgid "one mile"
 msgid_plural "%d miles"
 msgstr[0] ""
@@ -185,19 +181,9 @@ msgstr "とすると、マージ%1$s。"
 msgid "Merge %1$s%2$s|left"
 msgstr "マージ%1$s%2$sの場合"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -270,9 +256,6 @@ msgstr "km"
 
 msgid "m"
 msgstr "m"
-
-msgid "Roadbook"
-msgstr ""
 
 msgid "Set as position"
 msgstr "現在地として設定"
@@ -1220,21 +1203,11 @@ msgstr "ザンビア"
 msgid "Zimbabwe"
 msgstr "ジンバブエ"
 
-#, c-format
-msgid "Error parsing config file '%s': %s\n"
-msgstr ""
-
 msgid "unknown street"
-msgstr ""
-
-msgid "Car"
 msgstr ""
 
 msgid "Country"
 msgstr "国"
-
-msgid "Street"
-msgstr ""
 
 msgid "Enter Destination"
 msgstr "目的地を入力"
@@ -1272,17 +1245,11 @@ msgstr "ズームイン"
 msgid "_Recalculate"
 msgstr "再計算"
 
-msgid "Opens address search dialog"
-msgstr ""
-
 msgid "_Stop Navigation"
 msgstr "案内中止"
 
 msgid "Test"
 msgstr "テスト"
-
-msgid "_Lock on Road"
-msgstr ""
 
 msgid "Show/hide route description"
 msgstr ""
@@ -1290,27 +1257,14 @@ msgstr ""
 msgid "_Fullscreen"
 msgstr "全画面表示"
 
-msgid "Restaurant. Fast food"
-msgstr ""
-
 msgid "Bank"
-msgstr ""
-
-msgid "School"
 msgstr ""
 
 msgid "Shopping"
 msgstr ""
 
-#, c-format
-msgid "Set map to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a distance to look for (km)"
 msgstr "画面中央から検索半径を選択"
-
-msgid "Direction"
-msgstr ""
 
 msgid "Distance(m)"
 msgstr "距離"
@@ -1339,21 +1293,11 @@ msgstr "西"
 msgid "NW"
 msgstr "北西"
 
-msgid "OT"
-msgstr ""
-
 #, c-format
 msgid "Waypoint %s"
 msgstr ""
 
-#. Android resource: @strings/address_search_streets
-msgid "Streets"
-msgstr ""
-
 msgid "POIs"
-msgstr ""
-
-msgid "Cut Bookmark"
 msgstr ""
 
 msgid "Delete Bookmark"
@@ -1362,52 +1306,26 @@ msgstr ""
 msgid "Bookmarks"
 msgstr "ブックマーク"
 
-msgid "Delete Folder"
-msgstr ""
-
 #, c-format
 msgid "Download %s"
-msgstr ""
-
-msgid "Download completely"
 msgstr ""
 
 msgid "Show NMEA Data"
 msgstr ""
 
-#, c-format
-msgid "Current profile: %s"
-msgstr ""
-
 msgid "Show NMEA data"
-msgstr ""
-
-#. Authors
-msgid "By"
 msgstr ""
 
 msgid "Enter Coordinates"
 msgstr ""
 
-msgid "Rules"
-msgstr ""
-
 msgid "Plan with Waypoints"
-msgstr ""
-
-msgid "Route Description"
 msgstr ""
 
 msgid "Former Destinations"
 msgstr "前の目的地"
 
-msgid "Back to map"
-msgstr ""
-
 msgid "Prev"
-msgstr ""
-
-msgid "partial match"
 msgstr ""
 
 msgid ""
@@ -1416,134 +1334,65 @@ msgid ""
 "location."
 msgstr ""
 
-msgid "Cancel"
-msgstr ""
-
 msgid "Africa"
-msgstr ""
-
-msgid "Taiwan"
 msgstr ""
 
 msgid "Victoria"
 msgstr ""
 
-msgid "Azores"
-msgstr ""
-
 msgid "Auvergne"
-msgstr ""
-
-msgid "Centre"
 msgstr ""
 
 msgid "Haute-Normandie"
 msgstr ""
 
-msgid "Lorraine"
-msgstr ""
-
 msgid "Picardie"
-msgstr ""
-
-msgid "Baden-Wuerttemberg"
 msgstr ""
 
 msgid "Oberbayern"
 msgstr ""
 
-msgid "Unterfranken"
-msgstr ""
-
 msgid "Hamburg"
-msgstr ""
-
-msgid "Nordrhein-westfalen"
 msgstr ""
 
 msgid "Sachsen"
 msgstr ""
 
-msgid "Galicia"
-msgstr ""
-
 msgid "Cambridgeshire"
-msgstr ""
-
-msgid "Herefordshire"
 msgstr ""
 
 msgid "Norfolk"
 msgstr ""
 
-msgid "Somerset"
-msgstr ""
-
 msgid "Wiltshire"
-msgstr ""
-
-msgid "North America"
 msgstr ""
 
 msgid " (except Alaska and Hawaii)"
 msgstr ""
 
-msgid "Northeast"
-msgstr ""
-
 msgid "South"
-msgstr ""
-
-msgid "Louisiana"
 msgstr ""
 
 msgid "Texas"
 msgstr ""
 
-msgid "Arizona"
-msgstr ""
-
 msgid "Montana"
 msgstr ""
 
-msgid "Utah"
-msgstr ""
-
 msgid "downloading"
-msgstr ""
-
-msgid "Error downloading map!"
 msgstr ""
 
 #. Android resource: @strings/map_download_title
 msgid "Map download"
 msgstr ""
 
-msgid "Settings"
-msgstr ""
-
 msgid "Route"
 msgstr "ルート"
-
-msgid ""
-"Former\n"
-"Destinations"
-msgstr ""
 
 msgid "Fullscreen"
 msgstr "全画面表示"
 
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Strings from android/res/values/strings.xml
-#. Android resource: @strings/yes
-msgid "Yes"
 msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
@@ -1558,40 +1407,20 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_zoom_out
-msgid "Zoom out"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_backup_restore
 msgid "Backup / Restore"
-msgstr ""
-
-#. Android resource: @strings/map_download_download_error
-msgid "Error downloading map."
 msgstr ""
 
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
 
-#. Android resource: @strings/address_search_not_found
-msgid "Address not found"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
 msgstr ""
 
-#. Android resource: @strings/backing_up
-msgid "Backing up..."
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/backup_not_found
-msgid "Backup not found"
 msgstr ""
 
 #. Android resource: @strings/restore

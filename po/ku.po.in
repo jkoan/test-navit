@@ -36,9 +36,6 @@ msgstr "پێنجەم"
 msgid "sixth"
 msgstr "شەشەم"
 
-msgid "third exit"
-msgstr ""
-
 #, c-format
 msgid "%d feet"
 msgstr ""
@@ -75,17 +72,9 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|masculine form"
-msgstr ""
-
-msgid "When possible, please turn around"
 msgstr ""
 
 #. TRANSLATORS: %s is the distance to the roundabout
@@ -96,19 +85,9 @@ msgstr ""
 msgid "now"
 msgstr "ئێستا"
 
-#. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "then merge%1$s|left"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
 #, c-format
 msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then continue straight%1$s"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -124,355 +103,174 @@ msgstr "ڕاست"
 msgid "left"
 msgstr "چەپ"
 
-#, c-format
-msgid "after %i roads"
-msgstr ""
-
 #. TRANSLATORS: Right U-turn, the stuff after | doesn't have to be included.
 msgid "then make a U-turn|right"
-msgstr ""
-
-#. TRANSLATORS: the arg. is distance
-#, c-format
-msgid "You have reached your destination %s"
 msgstr ""
 
 msgid "Exit"
 msgstr "Exit"
 
-msgid "km"
-msgstr ""
-
 msgid "Destination Time"
-msgstr ""
-
-msgid "Set as position"
 msgstr ""
 
 #, c-format
 msgid "Screen coord : %d %d"
 msgstr ""
 
-#. 028
-msgid "Antigua and Barbuda"
-msgstr ""
-
 #. 530
 msgid "Netherlands Antilles"
-msgstr ""
-
-#. 016
-msgid "American Samoa"
 msgstr ""
 
 #. 248
 msgid "Aland Islands"
 msgstr ""
 
-#. 050
-msgid "Bangladesh"
-msgstr ""
-
 #. 048
 msgid "Bahrain"
-msgstr ""
-
-#. 060
-msgid "Bermuda"
 msgstr ""
 
 #. 076
 msgid "Brazil"
 msgstr ""
 
-#. 072
-msgid "Botswana"
-msgstr ""
-
 #. 166
 msgid "Cocos (Keeling) Islands"
-msgstr ""
-
-#. 756
-msgid "Switzerland"
 msgstr ""
 
 #. 120
 msgid "Cameroon"
 msgstr ""
 
-#. 192
-msgid "Cuba"
-msgstr ""
-
 #. 196
 msgid "Cyprus"
-msgstr ""
-
-#. 208
-msgid "Denmark"
 msgstr ""
 
 #. 218
 msgid "Ecuador"
 msgstr ""
 
-#. 232
-msgid "Eritrea"
-msgstr ""
-
 #. 242
 msgid "Fiji"
-msgstr ""
-
-#. 250
-msgid "France"
 msgstr ""
 
 #. 268
 msgid "Georgia"
 msgstr ""
 
-#. 292
-msgid "Gibraltar"
-msgstr ""
-
 #. 312
 msgid "Guadeloupe"
-msgstr ""
-
-#. 320
-msgid "Guatemala"
 msgstr ""
 
 #. 344
 msgid "Hong Kong"
 msgstr ""
 
-#. 332
-msgid "Haiti"
-msgstr ""
-
 #. 376
 msgid "Israel"
-msgstr ""
-
-#. 368
-msgid "Iraq"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 404
-msgid "Kenya"
-msgstr ""
-
 #. 174
 msgid "Comoros"
-msgstr ""
-
-#. 414
-msgid "Kuwait"
 msgstr ""
 
 #. 422
 msgid "Lebanon"
 msgstr ""
 
-#. 430
-msgid "Liberia"
-msgstr ""
-
 #. 428
 msgid "Latvia"
-msgstr ""
-
-#. 498
-msgid "Moldova, Republic of"
 msgstr ""
 
 #. 584
 msgid "Marshall Islands"
 msgstr ""
 
-#. 496
-msgid "Mongolia"
-msgstr ""
-
 #. 478
 msgid "Mauritania"
-msgstr ""
-
-#. 462
-msgid "Maldives"
 msgstr ""
 
 #. 508
 msgid "Mozambique"
 msgstr ""
 
-#. 574
-msgid "Norfolk Island"
-msgstr ""
-
 #. 578
 msgid "Norway"
-msgstr ""
-
-#. 554
-msgid "New Zealand"
 msgstr ""
 
 #. 258
 msgid "French Polynesia"
 msgstr ""
 
-#. 616
-msgid "Poland"
-msgstr ""
-
 #. 275
 msgid "Palestinian Territory, Occupied"
-msgstr ""
-
-#. 634
-msgid "Qatar"
 msgstr ""
 
 #. 643
 msgid "Russian Federation"
 msgstr ""
 
-#. 690
-msgid "Seychelles"
-msgstr ""
-
 #. 654
 msgid "Saint Helena"
-msgstr ""
-
-#. 694
-msgid "Sierra Leone"
 msgstr ""
 
 #. 740
 msgid "Suriname"
 msgstr ""
 
-#. 534
-msgid "Sint Maarten (Dutch part)"
-msgstr ""
-
 #. 148
 msgid "Chad"
-msgstr ""
-
-#. 762
-msgid "Tajikistan"
 msgstr ""
 
 #. 788
 msgid "Tunisia"
 msgstr ""
 
-#. 798
-msgid "Tuvalu"
-msgstr ""
-
 #. 800
 msgid "Uganda"
-msgstr ""
-
-#. 860
-msgid "Uzbekistan"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-#. 876
-msgid "Wallis and Futuna"
-msgstr ""
-
 #. 710
 msgid "South Africa"
-msgstr ""
-
-msgid ""
-"navit usage:\n"
-"navit [options] [configfile]\n"
-"\t-c <file>: use <file> as config file, instead of using the default file.\n"
-"\t-d <n>: set the global debug output level to <n> (0=error, 1=warning, "
-"2=info, 3=debug).\n"
-"\tSettings from config file will still take effect where they set a higher "
-"level.\n"
-"\t-h: print this usage info and exit.\n"
-"\t-v: print the version and exit.\n"
 msgstr ""
 
 #, c-format
 msgid "Error: No configuration found in config file '%s'\n"
 msgstr ""
 
-msgid "Failed to write bookmarks file"
-msgstr ""
-
 msgid "Iso3"
-msgstr ""
-
-msgid "District"
 msgstr ""
 
 msgid "Zip Code"
 msgstr ""
 
-msgid "Bookmark"
-msgstr ""
-
 msgid "_Former Destinations"
-msgstr ""
-
-msgid "_Projection"
 msgstr ""
 
 msgid "Zoom_In"
 msgstr ""
 
-msgid "_Info"
-msgstr ""
-
 msgid "Opens POI search dialog"
-msgstr ""
-
-msgid "Quit the application"
 msgstr ""
 
 msgid "Switches map orientation to the north or the vehicle"
 msgstr ""
 
-msgid "Enable/disable automatic zoom level changing"
-msgstr ""
-
 msgid "Restaurant"
-msgstr ""
-
-msgid "Fuel station"
 msgstr ""
 
 msgid "Train station"
 msgstr ""
 
-msgid "Taxi"
-msgstr ""
-
 #, c-format
 msgid "Set destination to %ld, %ld \n"
-msgstr ""
-
-msgid "Select a category"
 msgstr ""
 
 msgid "Category"
@@ -481,77 +279,39 @@ msgstr ""
 msgid "Distance(m)"
 msgstr "Dûrahî:"
 
-msgid "NE"
-msgstr ""
-
 msgid "SW"
-msgstr ""
-
-msgid "2D"
 msgstr ""
 
 msgid "Route 0000km  0+00:00 ETA"
 msgstr ""
 
-msgid "View in Browser"
-msgstr ""
-
 msgid "View Attributes"
-msgstr ""
-
-msgid "Remove search results from the map"
 msgstr ""
 
 msgid "Rename Bookmark"
 msgstr ""
 
-msgid "Bookmarks"
-msgstr ""
-
 msgid "Delete Folder"
 msgstr ""
 
-#, c-format
-msgid "Download %s"
-msgstr ""
-
 msgid "Download completely"
-msgstr ""
-
-msgid "Show NMEA Data"
 msgstr ""
 
 #, c-format
 msgid "Current profile: %s"
 msgstr ""
 
-msgid "Show NMEA data"
-msgstr ""
-
 #. Authors
 msgid "By"
-msgstr ""
-
-msgid "Enter Coordinates"
 msgstr ""
 
 msgid "Rules"
 msgstr ""
 
-msgid "Plan with Waypoints"
-msgstr ""
-
 msgid "Route Description"
 msgstr ""
 
-msgid "Message"
-msgstr ""
-
 msgid "House number"
-msgstr ""
-
-#. warning told
-msgid "Look out! Camera!"
 msgstr ""
 
 #. Android resource: @strings/address_search_towns
@@ -559,136 +319,65 @@ msgid "Towns"
 msgstr ""
 
 msgid ""
-"Sorry, we currently do not support maps above 3.8G on Android, please select "
-"a smaller one."
-msgstr ""
-
-msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
-msgstr ""
-
-msgid "Asia"
 msgstr ""
 
 msgid "Oceania"
 msgstr ""
 
-msgid "Europe"
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Bourgogne"
 msgstr ""
 
 msgid "Corse"
 msgstr ""
 
-msgid "Languedoc-Roussillon"
-msgstr ""
-
 msgid "Nord-pas-de-Calais"
-msgstr ""
-
-msgid "Provence-Alpes-Cote-d-Azur"
 msgstr ""
 
 msgid "Mittelfranken"
 msgstr ""
 
-msgid "Oberpfalz"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Mecklenburg-Vorpommern"
 msgstr ""
 
 msgid "Saarland"
 msgstr ""
 
-msgid "Thueringen"
-msgstr ""
-
 msgid "England"
-msgstr ""
-
-msgid "East yorkshire with hull"
 msgstr ""
 
 msgid "Lancashire"
 msgstr ""
 
-msgid "Oxfordshire"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Wales"
 msgstr ""
 
 msgid "Hawaii"
 msgstr ""
 
-msgid "Michigan"
-msgstr ""
-
 msgid "Vermont"
-msgstr ""
-
-msgid "District of Columbia"
 msgstr ""
 
 msgid "Mississippi"
 msgstr ""
 
-msgid "West Virginia"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "Nevada"
 msgstr ""
 
 msgid "South+Middle America"
 msgstr ""
 
-msgid "Media selected for map storage is not available"
-msgstr ""
-
 msgid "Map download aborted!"
-msgstr ""
-
-msgid "Main menu"
 msgstr ""
 
 msgid "Route"
 msgstr ""
 
-msgid ""
-"Former\n"
-"Destinations"
-msgstr ""
-
 msgid "Fullscreen"
 msgstr ""
 
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Strings from android/res/values/strings.xml
-#. Android resource: @strings/yes
-msgid "Yes"
 msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
@@ -703,40 +392,20 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_zoom_out
-msgid "Zoom out"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_backup_restore
 msgid "Backup / Restore"
-msgstr ""
-
-#. Android resource: @strings/map_download_download_error
-msgid "Error downloading map."
 msgstr ""
 
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
 
-#. Android resource: @strings/address_search_not_found
-msgid "Address not found"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
 msgstr ""
 
-#. Android resource: @strings/backing_up
-msgid "Backing up..."
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/backup_not_found
-msgid "Backup not found"
 msgstr ""
 
 #. Android resource: @strings/restore

@@ -247,11 +247,6 @@ msgstr "a csomópontnál"
 msgid "at exit"
 msgstr "a kijáratnál"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "jobbra"
@@ -1616,10 +1611,6 @@ msgstr "Taxi"
 
 msgid "Shopping"
 msgstr "Bevásárlás"
-
-#, c-format
-msgid "Set map to %ld, %ld \n"
-msgstr ""
 
 msgid "POI search"
 msgstr "POI keresés"

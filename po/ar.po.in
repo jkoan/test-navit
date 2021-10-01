@@ -148,11 +148,6 @@ msgstr[3] "بعد %d كلم"
 msgstr[4] "بعد %d كلم"
 msgstr[5] "بعد %d كلم"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 msgid "onto the motorway ramp"
 msgstr "على الطريق السريع المنحدر"
 
@@ -237,11 +232,6 @@ msgstr "عند التبادل"
 
 msgid "at exit"
 msgstr "عند المخرج"
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -1591,20 +1581,11 @@ msgstr "ملء الشاشة"
 msgid "Data"
 msgstr "المعطيات"
 
-msgid "Hotel"
-msgstr ""
-
 msgid "Hospital"
-msgstr ""
-
-msgid "Police"
 msgstr ""
 
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-msgid " "
 msgstr ""
 
 msgid "Visit Before"
@@ -1926,9 +1907,6 @@ msgstr "الوصف"
 msgid "Satellite Status"
 msgstr "حالة القمر الأصطناعي"
 
-msgid "car_pedantic"
-msgstr ""
-
 msgid "horse"
 msgstr "خيل/فرس"
 
@@ -2185,10 +2163,6 @@ msgstr "الألزاس"
 msgid "Centre"
 msgstr "الوسط"
 
-#. Android resource: @strings/champagne_ardenne
-msgid "Champagne-Ardenne"
-msgstr ""
-
 #. Android resource: @strings/corse
 msgid "Corse"
 msgstr "كورسيكا"
@@ -2196,10 +2170,6 @@ msgstr "كورسيكا"
 #. Android resource: @strings/ile_de_france
 msgid "Ile-de-France"
 msgstr "عاصمة فرنسا و ضواحيها"
-
-#. Android resource: @strings/midi_pyrenees
-msgid "Midi-Pyrenees"
-msgstr ""
 
 #. Android resource: @strings/picardie
 msgid "Picardie"

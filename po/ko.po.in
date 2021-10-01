@@ -107,11 +107,6 @@ msgid "in one kilometer"
 msgid_plural "in %d kilometers"
 msgstr[0] "%d 킬로미터 후에"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|masculine form"
@@ -143,19 +138,9 @@ msgstr "곧"
 msgid "now"
 msgstr "지금"
 
-#. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "then merge%1$s|left"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
 #, c-format
 msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then continue straight%1$s"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -192,11 +177,6 @@ msgstr "%i 도로 이후에"
 msgid "Turn %1$s%2$s %3$s%4$s"
 msgstr "%3$s%4$s %1$s%2$s 회전 하세요"
 
-#. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|right"
-msgstr ""
-
 msgid "then you have reached your destination."
 msgstr "목적지에 도착하였습니다."
 
@@ -216,9 +196,6 @@ msgstr "km"
 
 msgid "m"
 msgstr "m"
-
-msgid "Roadbook"
-msgstr ""
 
 msgid "Set as position"
 msgstr "지점으로설정"
@@ -1194,14 +1171,7 @@ msgstr "잠비아"
 msgid "Zimbabwe"
 msgstr "짐바브웨"
 
-#, c-format
-msgid "Error parsing config file '%s': %s\n"
-msgstr ""
-
 msgid "unknown street"
-msgstr ""
-
-msgid "Car"
 msgstr ""
 
 msgid "Country"
@@ -1255,9 +1225,6 @@ msgstr "줌인"
 msgid "_Recalculate"
 msgstr "재계산"
 
-msgid "Opens address search dialog"
-msgstr ""
-
 msgid "_Stop Navigation"
 msgstr "안내중지"
 
@@ -1267,35 +1234,19 @@ msgstr "테스트"
 msgid "_Quit"
 msgstr "종료"
 
-msgid "_Keep orientation to the North"
-msgstr ""
-
 msgid "_Autozoom"
 msgstr ""
 
 msgid "_Fullscreen"
 msgstr "전체화면"
 
-msgid "Restaurant. Fast food"
-msgstr ""
-
 msgid "Bank"
-msgstr ""
-
-msgid "School"
 msgstr ""
 
 msgid "Shopping"
 msgstr ""
 
-#, c-format
-msgid "Set map to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a distance to look for (km)"
-msgstr ""
-
-msgid "Direction"
 msgstr ""
 
 msgid "Distance(m)"
@@ -1325,21 +1276,11 @@ msgstr "서"
 msgid "NW"
 msgstr "북서"
 
-msgid "OT"
-msgstr ""
-
 #, c-format
 msgid "Waypoint %s"
 msgstr "경유지 %s"
 
-#. Android resource: @strings/address_search_streets
-msgid "Streets"
-msgstr ""
-
 msgid "POIs"
-msgstr ""
-
-msgid "Cut Bookmark"
 msgstr ""
 
 msgid "Delete Bookmark"
@@ -1348,52 +1289,26 @@ msgstr ""
 msgid "Bookmarks"
 msgstr "북마크"
 
-msgid "Delete Folder"
-msgstr ""
-
 #, c-format
 msgid "Download %s"
-msgstr ""
-
-msgid "Download completely"
 msgstr ""
 
 msgid "Show NMEA Data"
 msgstr ""
 
-#, c-format
-msgid "Current profile: %s"
-msgstr ""
-
 msgid "Show NMEA data"
-msgstr ""
-
-#. Authors
-msgid "By"
 msgstr ""
 
 msgid "Enter Coordinates"
 msgstr ""
 
-msgid "Rules"
-msgstr ""
-
 msgid "Plan with Waypoints"
-msgstr ""
-
-msgid "Route Description"
 msgstr ""
 
 msgid "Former Destinations"
 msgstr "이전목적지"
 
-msgid "Back to map"
-msgstr ""
-
 msgid "Prev"
-msgstr ""
-
-msgid "partial match"
 msgstr ""
 
 msgid ""
@@ -1402,134 +1317,65 @@ msgid ""
 "location."
 msgstr ""
 
-msgid "Cancel"
-msgstr ""
-
 msgid "Africa"
-msgstr ""
-
-msgid "Taiwan"
 msgstr ""
 
 msgid "Victoria"
 msgstr ""
 
-msgid "Azores"
-msgstr ""
-
 msgid "Auvergne"
-msgstr ""
-
-msgid "Centre"
 msgstr ""
 
 msgid "Haute-Normandie"
 msgstr ""
 
-msgid "Lorraine"
-msgstr ""
-
 msgid "Picardie"
-msgstr ""
-
-msgid "Baden-Wuerttemberg"
 msgstr ""
 
 msgid "Oberbayern"
 msgstr ""
 
-msgid "Unterfranken"
-msgstr ""
-
 msgid "Hamburg"
-msgstr ""
-
-msgid "Nordrhein-westfalen"
 msgstr ""
 
 msgid "Sachsen"
 msgstr ""
 
-msgid "Galicia"
-msgstr ""
-
 msgid "Cambridgeshire"
-msgstr ""
-
-msgid "Herefordshire"
 msgstr ""
 
 msgid "Norfolk"
 msgstr ""
 
-msgid "Somerset"
-msgstr ""
-
 msgid "Wiltshire"
-msgstr ""
-
-msgid "North America"
 msgstr ""
 
 msgid " (except Alaska and Hawaii)"
 msgstr ""
 
-msgid "Northeast"
-msgstr ""
-
 msgid "South"
-msgstr ""
-
-msgid "Louisiana"
 msgstr ""
 
 msgid "Texas"
 msgstr ""
 
-msgid "Arizona"
-msgstr ""
-
 msgid "Montana"
 msgstr ""
 
-msgid "Utah"
-msgstr ""
-
 msgid "downloading"
-msgstr ""
-
-msgid "Error downloading map!"
 msgstr ""
 
 #. Android resource: @strings/map_download_title
 msgid "Map download"
 msgstr ""
 
-msgid "Settings"
-msgstr ""
-
 msgid "Route"
 msgstr "경로"
-
-msgid ""
-"Former\n"
-"Destinations"
-msgstr ""
 
 msgid "Fullscreen"
 msgstr "전체화면"
 
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Strings from android/res/values/strings.xml
-#. Android resource: @strings/yes
-msgid "Yes"
 msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
@@ -1544,40 +1390,20 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_zoom_out
-msgid "Zoom out"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_backup_restore
 msgid "Backup / Restore"
-msgstr ""
-
-#. Android resource: @strings/map_download_download_error
-msgid "Error downloading map."
 msgstr ""
 
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
 
-#. Android resource: @strings/address_search_not_found
-msgid "Address not found"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
 msgstr ""
 
-#. Android resource: @strings/backing_up
-msgid "Backing up..."
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/backup_not_found
-msgid "Backup not found"
 msgstr ""
 
 #. Android resource: @strings/restore

@@ -1989,22 +1989,13 @@ msgstr "Vakarų Europa"
 msgid "Azores"
 msgstr "Azorai"
 
-msgid "Auvergne"
-msgstr ""
-
 msgid "Bretagne"
 msgstr "Bretanė"
 
 msgid "Centre"
 msgstr "Centras"
 
-msgid "Haute-Normandie"
-msgstr ""
-
 msgid "Lorraine"
-msgstr ""
-
-msgid "Picardie"
 msgstr ""
 
 msgid "Baden-Wuerttemberg"
@@ -2012,9 +2003,6 @@ msgstr ""
 
 msgid "Bayern"
 msgstr "Bavarija"
-
-msgid "Oberfranken"
-msgstr ""
 
 msgid "Berlin"
 msgstr "Berlynas"
@@ -2027,9 +2015,6 @@ msgstr "Brėmenas"
 
 msgid "Hamburg"
 msgstr "Hamburgas"
-
-msgid "Nordrhein-westfalen"
-msgstr ""
 
 msgid "Sachsen"
 msgstr ""
@@ -2061,9 +2046,6 @@ msgstr "Notingemšyras"
 msgid "Oxfordshire"
 msgstr "Oksfordšyras"
 
-msgid "Suffolk"
-msgstr ""
-
 msgid "Scotland"
 msgstr "Škotija"
 
@@ -2090,9 +2072,6 @@ msgstr " (išskyrus Aliaską ir Havajus)"
 
 msgid "Michigan"
 msgstr "Mičiganas"
-
-msgid "Vermont"
-msgstr ""
 
 msgid "Arkansas"
 msgstr "Arkanzasas"

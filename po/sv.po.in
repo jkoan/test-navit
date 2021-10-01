@@ -80,10 +80,6 @@ msgid "sixth exit"
 msgstr "sjätte utfarten"
 
 #, c-format
-msgid "in %d.%d miles"
-msgstr ""
-
-#, c-format
 msgid "one mile"
 msgid_plural "%d miles"
 msgstr[0] "en engelsk mil"
@@ -1860,9 +1856,6 @@ msgstr "Och alla bakom Navit"
 msgid "members and contributors."
 msgstr "medlemmar och alla som bidragit."
 
-msgid "Enter coordinates, for example:"
-msgstr ""
-
 msgid "Vehicle"
 msgstr "Fordon"
 
@@ -1990,24 +1983,8 @@ msgstr "Ja"
 msgid "Cancel"
 msgstr "Avbryt"
 
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_zoom_out
 msgid "Zoom out"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_backup_restore
-msgid "Backup / Restore"
 msgstr ""
 
 #. Android resource: @strings/map_download_title
@@ -2018,42 +1995,20 @@ msgstr ""
 msgid "ready"
 msgstr "klar"
 
-#. Android resource: @strings/map_download_oversize
-msgid ""
-"Sorry, we currently do not support maps above 3.8G on Android, please select "
-"a smaller one."
-msgstr ""
-
 #. Android resource: @strings/map_download_medium_unavailable
 msgid "Media selected for map storage is not available"
-msgstr ""
-
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
 msgstr ""
 
 #. Android resource: @strings/address_search_getting_results
 msgid "Getting search results"
 msgstr ""
 
-#. Android resource: @strings/address_search_set_destination
-msgid "Setting destination to:"
-msgstr ""
-
 #. Android resource: @strings/backing_up
 msgid "Backing up..."
 msgstr ""
 
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
-msgstr ""
-
 #. Android resource: @strings/backup_not_found
 msgid "Backup not found"
-msgstr ""
-
-#. Android resource: @strings/restore
-msgid "Restore"
 msgstr ""
 
 #. Android resource: @strings/africa
@@ -2071,10 +2026,6 @@ msgstr "Taiwan"
 #. Android resource: @strings/korea
 msgid "Korea"
 msgstr "Korea"
-
-#. Android resource: @strings/victoria
-msgid "Victoria"
-msgstr ""
 
 #. Android resource: @strings/new_south_wales
 msgid "New South Wales"
@@ -2187,10 +2138,6 @@ msgstr "Bayern"
 #. Android resource: @strings/mittelfranken
 msgid "Mittelfranken"
 msgstr "Mittelfranken"
-
-#. Android resource: @strings/oberpfalz
-msgid "Oberpfalz"
-msgstr ""
 
 #. Android resource: @strings/berlin
 msgid "Berlin"

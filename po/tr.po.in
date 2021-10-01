@@ -137,11 +137,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "%d kilometrede"
 msgstr[1] "%d kilometrede"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: motorway ramp refers to the slip road for entering a motorway.
 msgid "onto the motorway ramp"
 msgstr "rampada"
@@ -195,11 +190,6 @@ msgstr "şimdi"
 msgid "then"
 msgstr "sonra"
 
-#. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Merge %1$s%2$s|left"
-msgstr ""
-
 msgid "on your left"
 msgstr "solunuzda"
 
@@ -209,11 +199,6 @@ msgstr "kesişiminde"
 
 msgid "at exit"
 msgstr "çıkışta"
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -243,11 +228,6 @@ msgstr "%i yol sonra"
 #, c-format
 msgid "Turn %1$s%2$s %3$s%4$s"
 msgstr "Dönüş %1$s%2$s %3$s%4$s"
-
-#. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|right"
-msgstr ""
 
 #. An empty placeholder that we can use in the future for
 #. * some motorway commands that are now suppressed but we
@@ -1928,13 +1908,7 @@ msgstr "Korsika"
 msgid "Haute-Normandie"
 msgstr "Yukarı Normandiya"
 
-msgid "Lorraine"
-msgstr ""
-
 msgid "Picardie"
-msgstr ""
-
-msgid "Baden-Wuerttemberg"
 msgstr ""
 
 msgid "Niederbayern"
@@ -1942,9 +1916,6 @@ msgstr "Aşağı Bavyera"
 
 msgid "Oberbayern"
 msgstr "Yukarı Bavyera"
-
-msgid "Unterfranken"
-msgstr ""
 
 msgid "Berlin"
 msgstr "Berlin"
@@ -1976,13 +1947,7 @@ msgstr "İskandinavya"
 msgid "England"
 msgstr "İngiltere"
 
-msgid "East yorkshire with hull"
-msgstr ""
-
 msgid "Lancashire"
-msgstr ""
-
-msgid "Oxfordshire"
 msgstr ""
 
 msgid "Suffolk"
@@ -2015,9 +1980,6 @@ msgstr "Kuzeydoğu"
 msgid "South"
 msgstr "Güney"
 
-msgid "Louisiana"
-msgstr ""
-
 msgid "Texas"
 msgstr "Teksas"
 
@@ -2035,9 +1997,6 @@ msgstr "Kaliforniya"
 
 msgid "Colorado"
 msgstr "Kolorado"
-
-msgid "Nevada"
-msgstr ""
 
 msgid "South+Middle America"
 msgstr "Güney+Orta Amerika"

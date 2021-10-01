@@ -26,14 +26,7 @@ msgstr "మొదటి"
 msgid "second"
 msgstr "క్షణం"
 
-msgid "sixth"
-msgstr ""
-
 msgid "third exit"
-msgstr ""
-
-#, c-format
-msgid "%d feet"
 msgstr ""
 
 #, c-format
@@ -68,17 +61,9 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|masculine form"
-msgstr ""
-
-msgid "When possible, please turn around"
 msgstr ""
 
 #. TRANSLATORS: %s is the distance to the roundabout
@@ -92,19 +77,9 @@ msgstr "త్వరలో"
 msgid "now"
 msgstr "ఇప్పుడు"
 
-#. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "then merge%1$s|left"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
 #, c-format
 msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then continue straight%1$s"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -123,11 +98,6 @@ msgstr "ఎడమ"
 #. TRANSLATORS: as in "turn easily right"
 msgid "easily "
 msgstr "తేలికగా "
-
-#. TRANSLATORS: the first arg. is strength, the second is direction, the third is distance, the fourth is destination
-#, c-format
-msgid "Turn %1$s%2$s %3$s%4$s"
-msgstr ""
 
 #. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
 #, c-format
@@ -153,10 +123,6 @@ msgstr "కిమీ"
 
 msgid "Time"
 msgstr "సమయం"
-
-#, c-format
-msgid "Waypoint %d"
-msgstr ""
 
 msgid "Add as bookmark"
 msgstr ""
@@ -193,10 +159,6 @@ msgstr "అంటార్కిటికా"
 msgid "Argentina"
 msgstr "అర్జెంటీనా"
 
-#. 533
-msgid "Aruba"
-msgstr ""
-
 #. 052
 msgid "Barbados"
 msgstr ""
@@ -212,10 +174,6 @@ msgstr "బెల్జియం"
 #. 100
 msgid "Bulgaria"
 msgstr "బల్గేరియా"
-
-#. 652
-msgid "Saint Barthelemy"
-msgstr ""
 
 #. 060
 msgid "Bermuda"
@@ -365,10 +323,6 @@ msgstr "జాంబియా"
 msgid "Greece"
 msgstr "గ్రీస్"
 
-#. 624
-msgid "Guinea-Bissau"
-msgstr ""
-
 #. 328
 msgid "Guyana"
 msgstr "గయానా"
@@ -425,10 +379,6 @@ msgstr "కెన్యా"
 msgid "Cambodia"
 msgstr "కాంబోడియా"
 
-#. 408
-msgid "Korea, Democratic People's Republic of"
-msgstr ""
-
 #. 414
 msgid "Kuwait"
 msgstr "కువైట్"
@@ -448,10 +398,6 @@ msgstr "లెబనాన్"
 #. 144
 msgid "Sri Lanka"
 msgstr "శ్రీలంక"
-
-#. 442
-msgid "Luxembourg"
-msgstr ""
 
 #. 428
 msgid "Latvia"
@@ -476,10 +422,6 @@ msgstr "మియన్మార్"
 #. 496
 msgid "Mongolia"
 msgstr "మంగోలియా"
-
-#. 478
-msgid "Mauritania"
-msgstr ""
 
 #. 470
 msgid "Malta"
@@ -541,10 +483,6 @@ msgstr "పాకిస్తాన్"
 msgid "Poland"
 msgstr "పోలాండ్"
 
-#. 275
-msgid "Palestinian Territory, Occupied"
-msgstr ""
-
 #. 620
 msgid "Portugal"
 msgstr "పోర్చుగల్"
@@ -593,10 +531,6 @@ msgstr "స్లొవేకియా"
 msgid "Somalia"
 msgstr "సోమాలియా"
 
-#. 222
-msgid "El Salvador"
-msgstr ""
-
 #. 748
 msgid "Swaziland"
 msgstr "స్వాజిలాండ్"
@@ -612,10 +546,6 @@ msgstr "థాయిలాండ్"
 #. 762
 msgid "Tajikistan"
 msgstr "తజకిస్తాన్"
-
-#. 788
-msgid "Tunisia"
-msgstr ""
 
 #. 798
 msgid "Tuvalu"
@@ -649,10 +579,6 @@ msgstr "వెనిజులా"
 msgid "Viet Nam"
 msgstr "వియత్నాం"
 
-#. 887
-msgid "Yemen"
-msgstr ""
-
 #. 710
 msgid "South Africa"
 msgstr "దక్షిణ ఆఫ్రికా"
@@ -665,14 +591,7 @@ msgstr "జాంబియా"
 msgid "Zimbabwe"
 msgstr "జింబాబ్వే"
 
-#, c-format
-msgid "Error parsing config file '%s': %s\n"
-msgstr ""
-
 msgid "unknown street"
-msgstr ""
-
-msgid "Car"
 msgstr ""
 
 msgid "Country"
@@ -714,20 +633,11 @@ msgstr "కూర్పు"
 msgid "_Vehicle"
 msgstr "వాహనం"
 
-msgid "Increase zoom level"
-msgstr ""
-
 msgid "_Info"
 msgstr "సమాచారం"
 
-msgid "Opens POI search dialog"
-msgstr ""
-
 msgid "Test"
 msgstr "పరీక్ష"
-
-msgid "_Lock on Road"
-msgstr ""
 
 msgid "Show/hide route description"
 msgstr ""
@@ -738,77 +648,38 @@ msgstr "నిండు తెర"
 msgid "Data"
 msgstr "దత్తాంశం"
 
-msgid "Hotel"
-msgstr ""
-
 msgid "Hospital"
-msgstr ""
-
-msgid "Police"
 msgstr ""
 
 msgid "Select a search radius from screen center"
 msgstr ""
 
-#, c-format
-msgid "Set next visit to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a POI"
-msgstr ""
-
-msgid "Distance(m)"
 msgstr ""
 
 msgid "NE"
 msgstr ""
 
-msgid "SW"
-msgstr ""
-
 msgid "2D"
-msgstr ""
-
-msgid "Route 0000km  0+00:00 ETA"
 msgstr ""
 
 msgid "View in Browser"
 msgstr ""
 
-msgid "View Attributes"
-msgstr ""
-
 msgid "Remove search results from the map"
-msgstr ""
-
-msgid "Rename Bookmark"
 msgstr ""
 
 msgid "Bookmarks"
 msgstr "పేజీకలు"
 
-msgid "Delete Folder"
-msgstr ""
-
 #, c-format
 msgid "Download %s"
-msgstr ""
-
-msgid "Download completely"
 msgstr ""
 
 msgid "Show NMEA Data"
 msgstr ""
 
-#, c-format
-msgid "Current profile: %s"
-msgstr ""
-
 msgid "Show NMEA data"
-msgstr ""
-
-#. Authors
-msgid "By"
 msgstr ""
 
 msgid "Enter Coordinates"
@@ -817,137 +688,67 @@ msgstr ""
 msgid "Vehicle"
 msgstr "వాహనం"
 
-msgid "Map follows Vehicle"
-msgstr ""
-
 msgid "Layout"
 msgstr "కూర్పు"
 
-msgid "Former Destinations"
-msgstr ""
-
 msgid "Back to map"
-msgstr ""
-
-msgid "Prev"
 msgstr ""
 
 msgid "partial match"
 msgstr ""
 
-msgid ""
-"Current map location %s is not available\n"
-"Please restart Navit after you attach an SD card or select a different map "
-"location."
-msgstr ""
-
 msgid "Cancel"
-msgstr ""
-
-msgid "Africa"
 msgstr ""
 
 msgid "Taiwan"
 msgstr ""
 
-msgid "Victoria"
-msgstr ""
-
 msgid "Azores"
-msgstr ""
-
-msgid "Auvergne"
 msgstr ""
 
 msgid "Centre"
 msgstr ""
 
-msgid "Haute-Normandie"
-msgstr ""
-
 msgid "Lorraine"
-msgstr ""
-
-msgid "Picardie"
 msgstr ""
 
 msgid "Baden-Wuerttemberg"
 msgstr ""
 
-msgid "Oberbayern"
-msgstr ""
-
 msgid "Unterfranken"
-msgstr ""
-
-msgid "Hamburg"
 msgstr ""
 
 msgid "Nordrhein-westfalen"
 msgstr ""
 
-msgid "Sachsen"
-msgstr ""
-
 msgid "Galicia"
-msgstr ""
-
-msgid "Cambridgeshire"
 msgstr ""
 
 msgid "Herefordshire"
 msgstr ""
 
-msgid "Norfolk"
-msgstr ""
-
 msgid "Somerset"
-msgstr ""
-
-msgid "Wiltshire"
 msgstr ""
 
 msgid "North America"
 msgstr ""
 
-msgid " (except Alaska and Hawaii)"
-msgstr ""
-
 msgid "Northeast"
-msgstr ""
-
-msgid "South"
 msgstr ""
 
 msgid "Louisiana"
 msgstr ""
 
-msgid "Texas"
-msgstr ""
-
 msgid "Arizona"
-msgstr ""
-
-msgid "Montana"
 msgstr ""
 
 msgid "Utah"
 msgstr ""
 
-msgid "downloading"
-msgstr ""
-
 msgid "Error downloading map!"
 msgstr ""
 
-#. Android resource: @strings/map_download_title
-msgid "Map download"
-msgstr ""
-
 msgid "Settings"
-msgstr ""
-
-msgid "Quit"
 msgstr ""
 
 msgid ""
@@ -958,17 +759,7 @@ msgstr ""
 msgid "Fullscreen"
 msgstr "నిండు తెర"
 
-msgid ""
-"Drop next \n"
-"Waypoint"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Strings from android/res/values/strings.xml
-#. Android resource: @strings/yes
-msgid "Yes"
 msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
@@ -983,40 +774,20 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_zoom_out
-msgid "Zoom out"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_backup_restore
 msgid "Backup / Restore"
-msgstr ""
-
-#. Android resource: @strings/map_download_download_error
-msgid "Error downloading map."
 msgstr ""
 
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
 
-#. Android resource: @strings/address_search_not_found
-msgid "Address not found"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
 msgstr ""
 
-#. Android resource: @strings/backing_up
-msgid "Backing up..."
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/backup_not_found
-msgid "Backup not found"
 msgstr ""
 
 #. Android resource: @strings/restore

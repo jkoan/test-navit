@@ -1677,10 +1677,6 @@ msgstr "Магазин"
 msgid "Select a search radius from screen center"
 msgstr "Расстояние от центра экрана (км)"
 
-#, c-format
-msgid "Set next visit to %ld, %ld \n"
-msgstr ""
-
 msgid "POI search"
 msgstr "Поиск POI"
 

@@ -58,10 +58,6 @@ msgid "sixth exit"
 msgstr "шосты выхад"
 
 #, c-format
-msgid "in %d.%d miles"
-msgstr ""
-
-#, c-format
 msgid "one mile"
 msgid_plural "%d miles"
 msgstr[0] ""
@@ -103,11 +99,6 @@ msgstr[0] "%d кіламетр"
 msgstr[1] ""
 msgstr[2] ""
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|masculine form"
@@ -116,30 +107,15 @@ msgstr ""
 msgid "When possible, please turn around"
 msgstr "Развярніцеся, калі будзе магчымасць"
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 msgid "soon"
 msgstr "скора"
 
 msgid "now"
 msgstr "зараз"
 
-#. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "then merge%1$s|left"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
 #, c-format
 msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then continue straight%1$s"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -159,10 +135,6 @@ msgstr "налева"
 msgid "strongly "
 msgstr "мацней "
 
-#. TRANSLATORS: Left U-turn, the stuff after | doesn't have to be included.
-msgid "then make a U-turn|left"
-msgstr ""
-
 #. TRANSLATORS: the arg. is distance. Left U-turn, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Make a U-turn %1$s|left"
@@ -172,9 +144,6 @@ msgstr "Развярніцеся %1$s"
 #, c-format
 msgid "Make a U-turn %1$s|right"
 msgstr "Развярніцеся %1$s"
-
-msgid "Interchange"
-msgstr ""
 
 msgid "Exit"
 msgstr "Выхад"
@@ -194,10 +163,6 @@ msgstr "м"
 
 msgid "Time"
 msgstr "Час"
-
-#, c-format
-msgid "Waypoint %d"
-msgstr ""
 
 msgid "Add as bookmark"
 msgstr "Дадаць як закладку"
@@ -1276,9 +1241,6 @@ msgstr "Зімбабвэ"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "Невядома, дадайце is_in тэгі да гэтых гарадоў"
 
-msgid "Failed to write bookmarks file"
-msgstr ""
-
 msgid "Car"
 msgstr "Аўтамабіль"
 
@@ -1318,19 +1280,10 @@ msgstr "Карта"
 msgid "Destination"
 msgstr "Прызначэнне"
 
-msgid "_Bookmarks"
-msgstr ""
-
 msgid "_Vehicle"
 msgstr ""
 
-msgid "Increase zoom level"
-msgstr ""
-
 msgid "Set _destination"
-msgstr ""
-
-msgid "_Stop Navigation"
 msgstr ""
 
 msgid "Test"
@@ -1342,29 +1295,17 @@ msgstr "_Quit"
 msgid "Quit the application"
 msgstr "Выхад з дастасаваньня"
 
-msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
 msgid "Enable/disable automatic zoom level changing"
 msgstr ""
 
 msgid "Data"
 msgstr "Дадзеныя"
 
-msgid "Hotel"
-msgstr ""
-
 msgid "Hospital"
-msgstr ""
-
-msgid "Police"
 msgstr ""
 
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-msgid " "
 msgstr ""
 
 msgid "Visit Before"
@@ -1407,9 +1348,6 @@ msgstr "3D"
 msgid "Help"
 msgstr "Даведка"
 
-msgid "Item type"
-msgstr ""
-
 #. Android resource: @strings/address_search_streets
 msgid "Streets"
 msgstr "Вуліцы"
@@ -1420,9 +1358,6 @@ msgstr "Нумары дамоў"
 msgid "View on map"
 msgstr "Праглядзець на мапе"
 
-msgid "Copy Bookmark"
-msgstr ""
-
 msgid "Rename Bookmark"
 msgstr "Перайменаваць закладку"
 
@@ -1432,14 +1367,8 @@ msgstr "Выдаліць закладку"
 msgid "Bookmarks"
 msgstr "Закладкі"
 
-msgid "Delete Folder"
-msgstr ""
-
 #, c-format
 msgid "Download %s"
-msgstr ""
-
-msgid "Download completely"
 msgstr ""
 
 msgid "Show Satellite Status"
@@ -1474,23 +1403,14 @@ msgstr "Дадаць закладку"
 msgid "Rename"
 msgstr "Перайменаваць"
 
-msgid "members and contributors."
-msgstr ""
-
 msgid "Enter coordinates, for example:"
 msgstr ""
 
 msgid "Rules"
 msgstr "Правілы"
 
-msgid "Plan with Waypoints"
-msgstr ""
-
 msgid "Maps"
 msgstr "Мапы"
-
-msgid "Show Locale"
-msgstr ""
 
 msgid "Message"
 msgstr "Паведамленне"
@@ -1506,10 +1426,6 @@ msgstr "Галоўнае меню"
 
 msgid "House number"
 msgstr "Нумар дому"
-
-#. warning told
-msgid "Look out! Camera!"
-msgstr ""
 
 msgid ""
 "Show\n"
@@ -1534,41 +1450,23 @@ msgstr "Выйсці"
 msgid "Actions"
 msgstr "Дзеянні"
 
-msgid "Display"
-msgstr ""
-
 msgid "Fullscreen"
 msgstr "Поўнаэкранны рэжым"
 
 msgid "Description"
 msgstr "Апісанне"
 
-msgid "car_avoid_tolls"
-msgstr ""
-
 #. Strings from android/res/values/strings.xml
 #. Android resource: @strings/yes
 msgid "Yes"
-msgstr ""
-
-#. Android resource: @strings/initial_info_box_title
-msgid "Welcome to Navit"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_zoom_in
 msgid "Zoom in"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_exit_navit
-msgid "Exit Navit"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
-msgstr ""
-
-#. Android resource: @strings/map_download_ready
-msgid "ready"
 msgstr ""
 
 #. Android resource: @strings/map_download_oversize
@@ -1577,152 +1475,76 @@ msgid ""
 "a smaller one."
 msgstr ""
 
-#. Android resource: @strings/map_download_medium_unavailable
-msgid "Media selected for map storage is not available"
-msgstr ""
-
 #. Android resource: @strings/address_partial_match
 msgid "Match partial address"
-msgstr ""
-
-#. Android resource: @strings/address_search_getting_results
-msgid "Getting search results"
 msgstr ""
 
 #. Android resource: @strings/address_search_set_destination
 msgid "Setting destination to:"
 msgstr ""
 
-#. Android resource: @strings/backing_up
-msgid "Backing up..."
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/backup_not_found
-msgid "Backup not found"
 msgstr ""
 
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr ""
 
-#. Android resource: @strings/africa
-msgid "Africa"
-msgstr ""
-
 #. Android resource: @strings/korea
 msgid "Korea"
-msgstr ""
-
-#. Android resource: @strings/victoria
-msgid "Victoria"
 msgstr ""
 
 #. Android resource: @strings/azores
 msgid "Azores"
 msgstr ""
 
-#. Android resource: @strings/auvergne
-msgid "Auvergne"
-msgstr ""
-
 #. Android resource: @strings/basse_normandie
 msgid "Basse-Normandie"
-msgstr ""
-
-#. Android resource: @strings/haute_normandie
-msgid "Haute-Normandie"
 msgstr ""
 
 #. Android resource: @strings/lorraine
 msgid "Lorraine"
 msgstr ""
 
-#. Android resource: @strings/picardie
-msgid "Picardie"
-msgstr ""
-
 #. Android resource: @strings/baden_wuerttemberg
 msgid "Baden-Wuerttemberg"
-msgstr ""
-
-#. Android resource: @strings/oberbayern
-msgid "Oberbayern"
 msgstr ""
 
 #. Android resource: @strings/unterfranken
 msgid "Unterfranken"
 msgstr ""
 
-#. Android resource: @strings/hamburg
-msgid "Hamburg"
-msgstr ""
-
 #. Android resource: @strings/nordrhein_westfalen
 msgid "Nordrhein-westfalen"
-msgstr ""
-
-#. Android resource: @strings/sachsen
-msgid "Sachsen"
 msgstr ""
 
 #. Android resource: @strings/galicia
 msgid "Galicia"
 msgstr ""
 
-#. Android resource: @strings/cambridgeshire
-msgid "Cambridgeshire"
-msgstr ""
-
 #. Android resource: @strings/herefordshire
 msgid "Herefordshire"
-msgstr ""
-
-#. Android resource: @strings/norfolk
-msgid "Norfolk"
 msgstr ""
 
 #. Android resource: @strings/somerset
 msgid "Somerset"
 msgstr ""
 
-#. Android resource: @strings/wiltshire
-msgid "Wiltshire"
-msgstr ""
-
 #. Android resource: @strings/north_america
 msgid "North America"
-msgstr ""
-
-#. Android resource: @strings/midwest
-msgid "Midwest"
 msgstr ""
 
 #. Android resource: @strings/massachusetts
 msgid "Massachusetts"
 msgstr ""
 
-#. Android resource: @strings/arkansas
-msgid "Arkansas"
-msgstr ""
-
 #. Android resource: @strings/maryland
 msgid "Maryland"
 msgstr ""
 
-#. Android resource: @strings/virginia
-msgid "Virginia"
-msgstr ""
-
 #. Android resource: @strings/california
 msgid "California"
-msgstr ""
-
-#. Android resource: @strings/new_mexico
-msgid "New Mexico"
 msgstr ""
 
 #. Android resource: @strings/washington_state

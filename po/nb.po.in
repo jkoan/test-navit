@@ -126,11 +126,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "om en kilometer"
 msgstr[1] "om %d kilometer"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: motorway ramp refers to the slip road for entering a motorway.
 msgid "onto the motorway ramp"
 msgstr "ut på akselerasjonsfeltet"
@@ -226,11 +221,6 @@ msgstr "avkjøring"
 
 msgid "at exit"
 msgstr "Ved utgang"
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -1349,10 +1339,6 @@ msgstr "Zimbabwe"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "Ukjent, legg is_in-tagger til de byene."
 
-#, c-format
-msgid "Using config file '%s'\n"
-msgstr ""
-
 msgid "unknown street"
 msgstr "Ukjent adresse"
 
@@ -1531,10 +1517,6 @@ msgstr "Drosje"
 
 msgid "Shopping"
 msgstr "Handleområde"
-
-#, c-format
-msgid "Set map to %ld, %ld \n"
-msgstr ""
 
 msgid "Select a category"
 msgstr "Velg en kategori"
@@ -1718,9 +1700,6 @@ msgstr "Og alle i Navit teamet"
 msgid "members and contributors."
 msgstr "medlemmer og bidragsytere."
 
-msgid "Enter coordinates, for example:"
-msgstr ""
-
 msgid "Vehicle"
 msgstr "Kjøretøy"
 
@@ -1772,15 +1751,9 @@ msgstr "Neste."
 msgid "Prev"
 msgstr "Forrige"
 
-msgid "partial match"
-msgstr ""
-
 #. Android resource: @strings/address_search_button
 msgid "Search"
 msgstr "Søk"
-
-msgid "Downloaded maps"
-msgstr ""
 
 msgid "Cancel"
 msgstr "Avbryt."
@@ -1842,9 +1815,6 @@ msgstr "Midtstill"
 msgid "Corse"
 msgstr "Corse"
 
-msgid "Languedoc-Roussillon"
-msgstr ""
-
 msgid "Limousin"
 msgstr "Limousin"
 
@@ -1857,14 +1827,8 @@ msgstr "Picardie"
 msgid "Poitou-Charentes"
 msgstr "Poitou-Charentes"
 
-msgid "Bayern"
-msgstr ""
-
 msgid "Mittelfranken"
 msgstr "Mittelfranken"
-
-msgid "Oberpfalz"
-msgstr ""
 
 msgid "Berlin"
 msgstr "Berlin"
@@ -1877,9 +1841,6 @@ msgstr "Bremen"
 
 msgid "Hamburg"
 msgstr "Hamburg"
-
-msgid "Nordrhein-westfalen"
-msgstr ""
 
 msgid "Saarland"
 msgstr "Saarland"
@@ -2107,9 +2068,6 @@ msgstr "Vindusmodus"
 msgid "Description"
 msgstr "Beskrivelse"
 
-msgid "NMEA Data"
-msgstr ""
-
 msgid "horse"
 msgstr "hest"
 
@@ -2121,18 +2079,6 @@ msgstr "Lastebil"
 msgid "Yes"
 msgstr "Ja."
 
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_zoom_in
 msgid "Zoom in"
 msgstr "Zoom inn"
@@ -2141,16 +2087,8 @@ msgstr "Zoom inn"
 msgid "Zoom out"
 msgstr "Zoom ut"
 
-#. Android resource: @strings/optionsmenu_backup_restore
-msgid "Backup / Restore"
-msgstr ""
-
 #. Android resource: @strings/map_download_download_error
 msgid "Error downloading map."
-msgstr ""
-
-#. Android resource: @strings/address_search_title
-msgid "Address search"
 msgstr ""
 
 #. Android resource: @strings/address_search_searching
@@ -2176,12 +2114,6 @@ msgstr "Gjenoppretter..."
 #. Android resource: @strings/backup_failed
 msgid "Backup failed"
 msgstr "Sikkerhetskopiering feilet"
-
-#. Android resource: @strings/restore_successful_please_restart_navit
-msgid ""
-"Restore Successful\n"
-"Please restart Navit"
-msgstr ""
 
 #. Android resource: @strings/backup
 msgid "Backup"

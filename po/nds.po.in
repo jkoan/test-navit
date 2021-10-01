@@ -132,11 +132,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "in einem Kilometer"
 msgstr[1] "in %d Kilometern"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
 #. TRANSLATORS: motorway ramp refers to the slip road for entering a motorway.
 msgid "onto the motorway ramp"
 msgstr "auf die Auffahrt"
@@ -190,19 +185,9 @@ msgstr "jetzt"
 msgid "then"
 msgstr "dann"
 
-#. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Merge %1$s%2$s|left"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
 #, c-format
 msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
@@ -238,11 +223,6 @@ msgstr "nach %i Straßen"
 #, c-format
 msgid "Turn %1$s%2$s %3$s%4$s"
 msgstr "In %3$s %1$s%2$s %4$s abbiegen"
-
-#. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|right"
-msgstr ""
 
 msgid "then you have reached your destination."
 msgstr "Dann haben Sie Ihr Ziel erreicht"
@@ -1283,10 +1263,6 @@ msgstr "Simbabwe"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "* Unbekannt, fügen sie is_in Tags zu diesen Städten hinzu"
 
-#, c-format
-msgid "Using config file '%s'\n"
-msgstr ""
-
 #. Safe cast: attr_generic_set_attr does not modify its parameter.
 msgid "Unnamed vehicle"
 msgstr ""
@@ -1383,9 +1359,6 @@ msgstr "Neu berechnen"
 msgid "_Info"
 msgstr "Information"
 
-msgid "Opens POI search dialog"
-msgstr ""
-
 msgid "_Stop Navigation"
 msgstr "Navigation beenden"
 
@@ -1410,26 +1383,13 @@ msgstr "Vollbild"
 msgid "Data"
 msgstr "Daten"
 
-msgid "Hotel"
-msgstr ""
-
 msgid "Hospital"
-msgstr ""
-
-msgid "Police"
 msgstr ""
 
 msgid "Select a search radius from screen center"
 msgstr ""
 
-#, c-format
-msgid "Set next visit to %ld, %ld \n"
-msgstr ""
-
 msgid "Select a POI"
-msgstr ""
-
-msgid "Distance(m)"
 msgstr ""
 
 msgid "N"
@@ -1516,9 +1476,6 @@ msgstr "Lesezeichen löschen"
 msgid "Bookmarks"
 msgstr "Lesezeichen"
 
-msgid "Delete Folder"
-msgstr ""
-
 #. Pastes the Bookmark
 msgid "Paste bookmark"
 msgstr "Lesezeichen einfügen"
@@ -1526,9 +1483,6 @@ msgstr "Lesezeichen einfügen"
 #, c-format
 msgid "Bookmark %s"
 msgstr "Lesezeichen %s"
-
-msgid "Download Enabled"
-msgstr ""
 
 msgid "Show Satellite Status"
 msgstr "Satellitenstatus anzeigen"
@@ -1585,9 +1539,6 @@ msgstr "Und dem gesamten Navit-Team"
 msgid "members and contributors."
 msgstr "Mitglieder und Beitragende"
 
-msgid "Enter coordinates, for example:"
-msgstr ""
-
 msgid "Vehicle"
 msgstr "Fahrzeug"
 
@@ -1633,17 +1584,8 @@ msgstr "Hauptmenü"
 msgid "House number"
 msgstr "Huisnummer"
 
-#. warning told
-msgid "Look out! Camera!"
-msgstr ""
-
 #. Android resource: @strings/address_search_towns
 msgid "Towns"
-msgstr ""
-
-msgid ""
-"Sorry, we currently do not support maps above 3.8G on Android, please select "
-"a smaller one."
 msgstr ""
 
 msgid ""
@@ -1651,97 +1593,49 @@ msgid ""
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Asia"
-msgstr ""
-
 msgid "Oceania"
-msgstr ""
-
-msgid "Europe"
 msgstr ""
 
 msgid "Alsace"
 msgstr ""
 
-msgid "Bourgogne"
-msgstr ""
-
 msgid "Corse"
-msgstr ""
-
-msgid "Languedoc-Roussillon"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Provence-Alpes-Cote-d-Azur"
-msgstr ""
-
 msgid "Mittelfranken"
-msgstr ""
-
-msgid "Oberpfalz"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "Mecklenburg-Vorpommern"
-msgstr ""
-
 msgid "Saarland"
-msgstr ""
-
-msgid "Thueringen"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "East yorkshire with hull"
-msgstr ""
-
 msgid "Lancashire"
-msgstr ""
-
-msgid "Oxfordshire"
 msgstr ""
 
 msgid "Suffolk"
 msgstr ""
 
-msgid "Wales"
-msgstr ""
-
 msgid "Hawaii"
-msgstr ""
-
-msgid "Michigan"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "District of Columbia"
-msgstr ""
-
 msgid "Mississippi"
-msgstr ""
-
-msgid "West Virginia"
 msgstr ""
 
 msgid "Colorado"
 msgstr ""
 
-msgid "Nevada"
-msgstr ""
-
 msgid "South+Middle America"
-msgstr ""
-
-msgid "Media selected for map storage is not available"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -1797,54 +1691,27 @@ msgstr "Fenstermodus"
 msgid "Description"
 msgstr "Beschreibung"
 
-msgid "NMEA Data"
-msgstr ""
-
 msgid "horse"
 msgstr "Pferd"
 
-#. Android resource: @strings/notification_event_default
-msgid "Navit running"
-msgstr ""
-
 #. Android resource: @strings/initial_info_box_more_info
 msgid "More info"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_toggle_poi
-msgid "Toggle POIs"
 msgstr ""
 
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/map_no_fix
-msgid "No location. Reopen after location fix."
-msgstr ""
-
 #. Android resource: @strings/address_partial_match
 msgid "Match partial address"
-msgstr ""
-
-#. Android resource: @strings/address_search_loading_results
-msgid "Loading search results"
 msgstr ""
 
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
 msgstr ""
 
-#. Android resource: @strings/failed_to_create_backup_directory
-msgid "Failed to create backup directory"
-msgstr ""
-
 #. Android resource: @strings/backup_successful
 msgid "Backup successful"
-msgstr ""
-
-#. Android resource: @strings/select_backup
-msgid "Select backup"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

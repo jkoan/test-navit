@@ -222,18 +222,8 @@ msgstr "tad apvieno%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Apvienošana %1$s%2$s"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 msgid "at exit"
 msgstr "nobrauktuvē"
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -2008,14 +1998,8 @@ msgstr "Šampanja-Ardene"
 msgid "Corse"
 msgstr "Korse"
 
-msgid "Languedoc-Roussillon"
-msgstr ""
-
 msgid "Limousin"
 msgstr "Limuzīns"
-
-msgid "Pays-de-la-Loire"
-msgstr ""
 
 msgid "Rhone-Alpes"
 msgstr ""
@@ -2025,9 +2009,6 @@ msgstr "Bajerna"
 
 msgid "Mittelfranken"
 msgstr "Mitelfarkena"
-
-msgid "Oberpfalz"
-msgstr ""
 
 msgid "Schwaben"
 msgstr "Švābene"
@@ -2046,9 +2027,6 @@ msgstr "Hamburga"
 
 msgid "Hessen"
 msgstr "Hessene"
-
-msgid "Rheinland-Pfalz"
-msgstr ""
 
 msgid "Schleswig-Holstein"
 msgstr ""
@@ -2082,9 +2060,6 @@ msgstr "Oksfordšīre"
 
 msgid "Somerset"
 msgstr "Somerseta"
-
-msgid "Wiltshire"
-msgstr ""
 
 msgid "Scotland"
 msgstr "Skotija"
@@ -2175,9 +2150,6 @@ msgstr "Nevada"
 
 msgid "Oregon"
 msgstr "Oregona"
-
-msgid "Guyane Francaise"
-msgstr ""
 
 msgid "downloading"
 msgstr "lejupielādē"
