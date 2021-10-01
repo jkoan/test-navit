@@ -125,29 +125,14 @@ msgid_plural "in %d kilometers"
 msgstr[0] "ഒരു കിലോമീറ്ററില്‍"
 msgstr[1] "%d കിലോമീറ്ററില്‍"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Systematic Street Name 3: Separator (Space if required), 4: Street Name
-#, c-format
-msgid "%1$sonto the %2$s%3$s%4$s"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
 #, c-format
 msgid "%1$sonto %2$s"
 msgstr ""
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|masculine form"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
-msgstr ""
-
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Neuter form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%1$sonto %2$s|neuter form"
 msgstr ""
 
 #. TRANSLATORS: motorway ramp refers to the slip road for entering a motorway.
@@ -182,22 +167,12 @@ msgstr "%s-ല്‍  %s -ലേക്ക് തിരിയുക"
 msgid "When possible, please turn around"
 msgstr "സാധിക്കുന്നിടത്ത് വച്ച്,തിരിച്ചു പോവുക"
 
-#. TRANSLATORS: the argument is the destination to follow
-#, c-format
-msgid "towards %s"
-msgstr ""
-
 #, c-format
 msgid "Follow the road for the next %s"
 msgstr "ഈ വഴിയിലുടെ  അടുത്ത %s  പോവുക"
 
 msgid "Enter the roundabout soon"
 msgstr "റൗണ്ടാനയിലേക്ക് ഉടനെ കയറുക"
-
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
 
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
@@ -210,17 +185,9 @@ msgstr "അല്പസമയത്തിനുള്ളില്‍"
 msgid "now"
 msgstr "ഇപ്പോള്‍"
 
-msgid "then"
-msgstr ""
-
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|right"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Merge %1$s%2$s|right"
 msgstr ""
 
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
@@ -228,15 +195,7 @@ msgstr ""
 msgid "then merge%1$s|left"
 msgstr ""
 
-#. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Merge %1$s%2$s|left"
-msgstr ""
-
 msgid "on your left"
-msgstr ""
-
-msgid "on your right"
 msgstr ""
 
 #. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
@@ -244,16 +203,8 @@ msgstr ""
 msgid "Take exit %1$s %2$s %3$s"
 msgstr ""
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: as in "Keep right at interchange 42 Greenmond-West"
 msgid "at interchange"
-msgstr ""
-
-msgid "at exit"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -261,29 +212,14 @@ msgstr ""
 msgid "then continue straight%1$s"
 msgstr ""
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep right%1$s"
 msgstr ""
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep left%1$s"
-msgstr ""
-
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
 msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
@@ -315,37 +251,14 @@ msgstr "%i വഴികൾക്കു ശേഷം"
 msgid "Turn %1$s%2$s %3$s%4$s"
 msgstr "%4$s ലേക്ക്  %3$s %2$s %1$s തിരിയുക"
 
-#. TRANSLATORS: Left U-turn, the stuff after | doesn't have to be included.
-msgid "then make a U-turn|left"
-msgstr ""
-
 #. TRANSLATORS: the arg. is distance. Left U-turn, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Make a U-turn %1$s|left"
 msgstr ""
 
-#. TRANSLATORS: Right U-turn, the stuff after | doesn't have to be included.
-msgid "then make a U-turn|right"
-msgstr ""
-
 #. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Make a U-turn %1$s|right"
-msgstr ""
-
-#. An empty placeholder that we can use in the future for
-#. * some motorway commands that are now suppressed but we
-#. * can in some cases make it say here :
-#. * 'follow destination blabla' without any further driving instructions,
-#. * in cases where relevant destination info is available.
-#. * Even if there is no driving command to be announced, in some cases
-#. * there is an overhead roadsign in preparation of an upcoming road-split,
-#. * and then we can give useful info to the driver.
-#. *
-#. *  UNTESTED !
-#. *
-#.
-msgid "follow"
 msgstr ""
 
 msgid "then you have reached your destination."
@@ -355,10 +268,6 @@ msgstr "അപ്പോള്‍ നിങ്ങള്‍ ലക്ഷ്യത�
 #, c-format
 msgid "You have reached your destination %s"
 msgstr "നിങ്ങള്‍ %s ലക്ഷ്യത്തിലെത്തിയിരിക്കുന്നു"
-
-#. TRANSLATORS: Exit as a noun, as in "Exit 43 Greenmound-East"
-msgid "Interchange"
-msgstr ""
 
 msgid "Exit"
 msgstr "പുറത്തേക്ക്"
@@ -1418,18 +1327,6 @@ msgstr "സിംബാബ്‌വെ"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "* അറിയില്ല, ദയവായി is_in  ടാഗ് സിറ്റികളില്‍ ചേര്‍ക്കുക"
 
-msgid ""
-"navit usage:\n"
-"navit [options] [configfile]\n"
-"\t-c <file>: use <file> as config file, instead of using the default file.\n"
-"\t-d <n>: set the global debug output level to <n> (0=error, 1=warning, "
-"2=info, 3=debug).\n"
-"\tSettings from config file will still take effect where they set a higher "
-"level.\n"
-"\t-h: print this usage info and exit.\n"
-"\t-v: print the version and exit.\n"
-msgstr ""
-
 #. We have not found an existing config file from all possibilities
 msgid "No config file navit.xml, navit.xml.local found\n"
 msgstr "കോണ്‍ഫിഗറേഷന്‍ ഫയലുകള്‍ (navit.xml, navit.xml.local) കാണുന്നില്ല\n"
@@ -2014,19 +1911,8 @@ msgstr "പട്ടണങ്ങള്‍"
 msgid "Map data (c) OpenStreetMap contributors, ODBL"
 msgstr "ഭൂപട വിവരങ്ങള്‍ (3) ഓപ്പണ്‍സ്റ്റ്രീറ്റ് മാപ്"
 
-msgid ""
-"Current map location %s is not available\n"
-"Please restart Navit after you attach an SD card or select a different map "
-"location."
-msgstr ""
-
 msgid "Downloaded maps"
 msgstr "ഡൗണ്‍ലോഡ് ചെയ്ത ഭൂപടങ്ങള്‍"
-
-msgid ""
-"Sorry, we currently do not support maps above 3.8G on Android, please select "
-"a smaller one."
-msgstr ""
 
 #. Android resource: @strings/position_popup_drive_here
 msgid "Route to here"
@@ -2034,9 +1920,6 @@ msgstr "ഇവിടെ വരെയുള്ള വഴി കാട്ടുക
 
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
-
-msgid "filenamePath"
-msgstr ""
 
 msgid ""
 "New location set to %s\n"
@@ -2413,9 +2296,6 @@ msgstr "ഡൌണ്‍ലോഡ്‌ ചെയ്തുകൊണ്ടിര�
 msgid "ready"
 msgstr "തയ്യാര്‍"
 
-msgid "Media selected for map storage is not available"
-msgstr ""
-
 #. Android resource: @strings/map_download_not_enough_free_space
 msgid "Not enough free space"
 msgstr "ആവശ്യത്തിന് സ്ഥലമില്ലാ"
@@ -2603,10 +2483,6 @@ msgstr "നാവിറ്റില്‍ നിന്നും പുറത്�
 msgid "Backup / Restore"
 msgstr "സൂക്ഷിക്കുക/പുനസ്ഥാപിക്കുക"
 
-#. Android resource: @strings/optionsmenu_set_map_location
-msgid "Set map location"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr "ഈ ഭൂപടം മായിച്ചു കളയുക"
@@ -2732,10 +2608,6 @@ msgstr "പകര്‍പ്പ് സൂക്ഷിക്കുക"
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr "പുനഃസ്ഥാപിക്കുക"
-
-#. Android resource: @strings/TTS_title_data_missing
-msgid "System text to speech engine data is missing"
-msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data
 msgid ""

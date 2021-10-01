@@ -1760,9 +1760,6 @@ msgstr "幫助"
 msgid "Waypoint %s"
 msgstr "航點 %s"
 
-msgid "Select waypoint to insert the new one before"
-msgstr ""
-
 msgid "View in Browser"
 msgstr "列表顯示"
 
@@ -2015,12 +2012,6 @@ msgstr "鄉鎮市區"
 
 msgid "Map data (c) OpenStreetMap contributors, ODBL"
 msgstr "圖資 (c) OpenStreetMap 創作群, ODBL"
-
-msgid ""
-"Current map location %s is not available\n"
-"Please restart Navit after you attach an SD card or select a different map "
-"location."
-msgstr ""
 
 msgid "Downloaded maps"
 msgstr "下載地圖"

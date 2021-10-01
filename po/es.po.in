@@ -1573,9 +1573,6 @@ msgstr "_Fijar destino"
 msgid "Opens address search dialog"
 msgstr "Abre el dialogo de busqueda de dirección"
 
-msgid "_POI search"
-msgstr ""
-
 msgid "Opens POI search dialog"
 msgstr "Abre la búsqueda de puntos de interés"
 
@@ -1991,9 +1988,6 @@ msgstr "¡Atención! Radar"
 #. warning told
 msgid "Please decrease your speed"
 msgstr "Por favor, disminuya su velocidad"
-
-msgid "filenamePath"
-msgstr ""
 
 msgid "Vehicle Position"
 msgstr "Posición del vehículo"
