@@ -1581,10 +1581,6 @@ msgstr "ملء الشاشة"
 msgid "Data"
 msgstr "المعطيات"
 
-#, c-format
-msgid "POI %s. %s"
-msgstr ""
-
 msgid "N"
 msgstr "ش."
 

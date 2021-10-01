@@ -154,11 +154,6 @@ msgstr "ලඟදීම"
 msgid "now"
 msgstr "දැන්"
 
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "දකුණ"
@@ -1312,9 +1307,6 @@ msgstr "සක්‍රීය/ අක්‍රීය කරන්න ස්ව�
 msgid "Data"
 msgstr "දත්ත"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "N"
 msgstr "උ"
 
@@ -1517,33 +1509,16 @@ msgstr "ප්‍රධාන මෙනුව"
 msgid "House number"
 msgstr "ගෘහ අංකය"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Nord-pas-de-Calais"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Suffolk"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "Map download aborted!"
 msgstr ""
 
 msgid "Vehicle Position"
@@ -1599,19 +1574,8 @@ msgstr "විස්තරය"
 msgid "horse"
 msgstr "අශ්ව"
 
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
 msgstr ""
 
 #, c-format

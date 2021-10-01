@@ -58,21 +58,11 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 msgid "soon"
 msgstr "త్వరలో"
 
 msgid "now"
 msgstr "ఇప్పుడు"
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -613,20 +603,11 @@ msgstr "నిండు తెర"
 msgid "Data"
 msgstr "దత్తాంశం"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "NE"
-msgstr ""
-
-msgid "View in Browser"
 msgstr ""
 
 msgid "Bookmarks"
 msgstr "పేజీకలు"
-
-msgid "Show NMEA Data"
-msgstr ""
 
 msgid "Enter Coordinates"
 msgstr ""
@@ -637,31 +618,16 @@ msgstr "వాహనం"
 msgid "Layout"
 msgstr "కూర్పు"
 
-msgid "partial match"
-msgstr ""
-
 msgid "Taiwan"
-msgstr ""
-
-msgid "Centre"
 msgstr ""
 
 msgid "Baden-Wuerttemberg"
 msgstr ""
 
-msgid "Nordrhein-westfalen"
-msgstr ""
-
 msgid "Herefordshire"
 msgstr ""
 
-msgid "North America"
-msgstr ""
-
 msgid "Louisiana"
-msgstr ""
-
-msgid "Utah"
 msgstr ""
 
 msgid "Settings"
@@ -670,22 +636,6 @@ msgstr ""
 msgid "Fullscreen"
 msgstr "నిండు తెర"
 
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
-msgstr ""
-
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
 msgstr ""

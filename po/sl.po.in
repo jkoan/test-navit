@@ -1412,9 +1412,6 @@ msgstr "Celozaslonski način"
 msgid "Data"
 msgstr "Podatki"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "Select a distance to look for (km)"
 msgstr "Izberite radij iskanja s središča zaslona"
 
@@ -1482,9 +1479,6 @@ msgstr "Zaznamki"
 msgid "Bookmark %s"
 msgstr "Zaznamuj %s"
 
-msgid "Show Satellite status"
-msgstr ""
-
 msgid "Vehicle"
 msgstr "Vozilo"
 
@@ -1515,31 +1509,16 @@ msgstr "Nazaj na zemljevid"
 msgid "Main Menu"
 msgstr "Glavni meni"
 
-msgid "filenamePath"
-msgstr ""
-
 msgid "BeNeLux"
-msgstr ""
-
-msgid "Midi-Pyrenees"
 msgstr ""
 
 msgid "Berlin"
 msgstr ""
 
-msgid "Scandinavia"
-msgstr ""
-
 msgid "South yorkshire"
 msgstr ""
 
-msgid "Massachusetts"
-msgstr ""
-
 msgid "California"
-msgstr ""
-
-msgid "Error writing map!"
 msgstr ""
 
 msgid "Vehicle Position"
@@ -1572,16 +1551,8 @@ msgstr "Celozaslonski način"
 msgid "Window Mode"
 msgstr "Okenski način"
 
-#. Android resource: @strings/initial_info_box_OK
-msgid "OK"
-msgstr ""
-
 #. Android resource: @strings/address_enter_destination
 msgid "Enter destination"
-msgstr ""
-
-#. Android resource: @strings/failed_to_restore
-msgid "Failed to restore"
 msgstr ""
 
 #, c-format

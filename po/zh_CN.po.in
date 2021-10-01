@@ -1429,9 +1429,6 @@ msgstr "全屏"
 msgid "Data"
 msgstr "数据"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "Select a distance to look for (km)"
 msgstr "从屏幕中心选择一个搜索半径"
 
@@ -1640,33 +1637,16 @@ msgstr "主菜单"
 msgid "House number"
 msgstr "房屋编号（门牌号）"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Nord-pas-de-Calais"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Suffolk"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "Map download aborted!"
 msgstr ""
 
 msgid "Vehicle Position"
@@ -1718,19 +1698,8 @@ msgstr "描述"
 msgid "horse"
 msgstr "骑马"
 
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
 msgstr ""
 
 #, c-format

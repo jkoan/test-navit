@@ -171,11 +171,6 @@ msgstr "അല്പസമയത്തിനുള്ളില്‍"
 msgid "now"
 msgstr "ഇപ്പോള്‍"
 
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "വലത്തോട്ട്"

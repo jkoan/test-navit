@@ -187,11 +187,6 @@ msgstr "сад"
 msgid "then"
 msgstr "потом"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "десно"

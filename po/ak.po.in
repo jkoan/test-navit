@@ -22,10 +22,6 @@ msgid "second"
 msgstr "sima"
 
 #, c-format
-msgid "%d meters"
-msgstr ""
-
-#, c-format
 msgid "one mile"
 msgid_plural "%d miles"
 msgstr[0] ""
@@ -49,159 +45,79 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then continue straight%1$s"
 msgstr ""
 
-#. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|right"
-msgstr ""
-
 msgid "Visit before..."
-msgstr ""
-
-#. 032
-msgid "Argentina"
 msgstr ""
 
 #. 652
 msgid "Saint Barthelemy"
 msgstr ""
 
-#. 178
-msgid "Congo"
-msgstr ""
-
 #. 262
 msgid "Djibouti"
-msgstr ""
-
-#. 234
-msgid "Faroe Islands"
 msgstr ""
 
 #. 239
 msgid "South Georgia and the South Sandwich Islands"
 msgstr ""
 
-#. 086
-msgid "British Indian Ocean Territory"
-msgstr ""
-
 #. 410
 msgid "Korea, Republic of"
-msgstr ""
-
-#. 492
-msgid "Monaco"
 msgstr ""
 
 #. 480
 msgid "Mauritius"
 msgstr ""
 
-#. 570
-msgid "Niue"
-msgstr ""
-
 #. 600
 msgid "Paraguay"
-msgstr ""
-
-#. 703
-msgid "Slovakia"
 msgstr ""
 
 #. 764
 msgid "Thailand"
 msgstr ""
 
-#. 858
-msgid "Uruguay"
-msgstr ""
-
 msgid "* Unknown, add is_in tags to those cities"
-msgstr ""
-
-msgid "Town"
 msgstr ""
 
 msgid "_Layout"
 msgstr ""
 
-msgid "_Quit"
-msgstr ""
-
 msgid "Car parking"
 msgstr ""
 
-msgid "POI search"
-msgstr ""
-
 msgid "W"
-msgstr ""
-
-msgid "Set as position (and deactivate vehicle)"
 msgstr ""
 
 #. Adds the Bookmark folders
 msgid "Add Bookmark folder"
 msgstr ""
 
-#, c-format
-msgid "Change profile to: %s"
-msgstr ""
-
 msgid "Lock on road"
-msgstr ""
-
-msgid "Next"
 msgstr ""
 
 msgid "Whole Planet"
 msgstr ""
 
-msgid "Aquitaine"
-msgstr ""
-
 msgid "Pays-de-la-Loire"
-msgstr ""
-
-msgid "Bremen"
 msgstr ""
 
 msgid "Buckinghamshire"
 msgstr ""
 
-msgid "Surrey"
-msgstr ""
-
 msgid "Pacific"
-msgstr ""
-
-msgid "Idaho"
 msgstr ""
 
 #. Android resource: @strings/map_download_eta
 msgid "ETA"
 msgstr ""
 
-msgid "Window Mode"
-msgstr ""
-
 #. Android resource: @strings/initial_info_box_OK
 msgid "OK"
-msgstr ""
-
-#. Android resource: @strings/address_enter_destination
-msgid "Enter destination"
 msgstr ""
 
 #. Android resource: @strings/failed_to_restore

@@ -48,11 +48,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Continue straight %1$s%2$s%3$s"
@@ -65,59 +60,28 @@ msgstr "ڕاست"
 msgid "Exit"
 msgstr "دەرچوون"
 
-#, c-format
-msgid "Screen coord : %d %d"
-msgstr ""
-
 #. 248
 msgid "Aland Islands"
-msgstr ""
-
-#. 076
-#. Android resource: @strings/brazil
-msgid "Brazil"
 msgstr ""
 
 #. 120
 msgid "Cameroon"
 msgstr ""
 
-#. 218
-#. Android resource: @strings/ecuador
-msgid "Ecuador"
-msgstr ""
-
 #. 268
 msgid "Georgia"
-msgstr ""
-
-#. 344
-msgid "Hong Kong"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 422
-msgid "Lebanon"
-msgstr ""
-
 #. 584
 msgid "Marshall Islands"
 msgstr ""
 
-#. 508
-msgid "Mozambique"
-msgstr ""
-
 #. 258
 msgid "French Polynesia"
-msgstr ""
-
-#. 643
-#. Android resource: @strings/russian_federation
-msgid "Russian Federation"
 msgstr ""
 
 #. 740
@@ -125,102 +89,47 @@ msgstr ""
 msgid "Suriname"
 msgstr ""
 
-#. 788
-msgid "Tunisia"
-msgstr ""
-
 #. 092
 msgid "Virgin Islands, British"
-msgstr ""
-
-#. Strings from navit_shipped.xml
-msgid "Map Point"
 msgstr ""
 
 msgid "Destination"
 msgstr ""
 
-msgid "Set _destination"
-msgstr ""
-
 msgid "_Fullscreen"
 msgstr ""
 
-msgid "Shopping"
-msgstr ""
-
 msgid "W"
-msgstr ""
-
-msgid "POIs"
 msgstr ""
 
 #. Pastes the Bookmark
 msgid "Paste bookmark"
 msgstr ""
 
-msgid "Set as active"
-msgstr ""
-
 msgid "Northing"
 msgstr ""
 
-msgid "Prev"
-msgstr ""
-
 msgid "Display"
-msgstr ""
-
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
 msgstr ""
 
 #. Android resource: @strings/map_download_download_error
 msgid "Error downloading map."
 msgstr ""
 
-#. Android resource: @strings/address_search_loading_results
-msgid "Loading search results"
-msgstr ""
-
 #. Android resource: @strings/restore_failed
 msgid "Restore failed"
-msgstr ""
-
-#. Android resource: @strings/new_south_wales
-msgid "New South Wales"
 msgstr ""
 
 #. Android resource: @strings/ile_de_france
 msgid "Ile-de-France"
 msgstr ""
 
-#. Android resource: @strings/oberfranken
-msgid "Oberfranken"
-msgstr ""
-
 #. Android resource: @strings/schleswig_holstein
 msgid "Schleswig-Holstein"
 msgstr ""
 
-#. Android resource: @strings/nottinghamshire
-msgid "Nottinghamshire"
-msgstr ""
-
 #. Android resource: @strings/michigan
 msgid "Michigan"
-msgstr ""
-
-#. Android resource: @strings/west_virginia
-msgid "West Virginia"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

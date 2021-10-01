@@ -532,118 +532,59 @@ msgstr "Bolivi"
 msgid "Bonaire, Sint Eustatius and Saba"
 msgstr "Bonaire, Sint Eustatius dhe Saba"
 
-#. 152
-msgid "Chile"
-msgstr ""
-
 #. 012
 msgid "Algeria"
-msgstr ""
-
-#. 308
-msgid "Grenada"
 msgstr ""
 
 #. 328
 msgid "Guyana"
 msgstr ""
 
-#. 380
-msgid "Italy"
-msgstr ""
-
 #. 418
 msgid "Lao People's Democratic Republic"
-msgstr ""
-
-#. 450
-msgid "Madagascar"
 msgstr ""
 
 #. 458
 msgid "Malaysia"
 msgstr ""
 
-#. 604
-msgid "Peru"
-msgstr ""
-
 #. 688
 msgid "Serbia"
-msgstr ""
-
-#. 706
-msgid "Somalia"
 msgstr ""
 
 #. 795
 msgid "Turkmenistan"
 msgstr ""
 
-#. 862
-msgid "Venezuela"
-msgstr ""
-
 #, c-format
 msgid "Using config file '%s'\n"
-msgstr ""
-
-msgid "Enter Destination"
 msgstr ""
 
 msgid "Decrease zoom level"
 msgstr ""
 
-msgid "_Keep orientation to the North"
-msgstr ""
-
 msgid "Cinema"
-msgstr ""
-
-msgid " "
 msgstr ""
 
 msgid "3D"
 msgstr ""
 
-msgid "Show results on the map"
-msgstr ""
-
 msgid "Map Download"
-msgstr ""
-
-msgid "Add Bookmark"
 msgstr ""
 
 msgid "Maps"
 msgstr ""
 
-#. warning told
-msgid "Please decrease your speed"
-msgstr ""
-
 msgid "Korea"
-msgstr ""
-
-msgid "Bretagne"
 msgstr ""
 
 msgid "Rhone-Alpes"
 msgstr ""
 
-msgid "Niedersachsen"
-msgstr ""
-
 msgid "Essex"
 msgstr ""
 
-msgid "Crete"
-msgstr ""
-
 msgid "Florida"
-msgstr ""
-
-msgid "Oregon"
 msgstr ""
 
 msgid ""
@@ -651,15 +592,8 @@ msgid ""
 "Map"
 msgstr ""
 
-msgid "Satellite Status"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_download_maps
 msgid "Download maps"
-msgstr ""
-
-#. Android resource: @strings/address_search_getting_results
-msgid "Getting search results"
 msgstr ""
 
 #. Android resource: @strings/restore_failed

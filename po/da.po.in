@@ -1860,48 +1860,24 @@ msgstr "hest"
 msgid "Truck"
 msgstr "Lastbil"
 
-#. Android resource: @strings/position_popup_drive_here
-msgid "Route to here"
-msgstr ""
-
 #. Android resource: @strings/address_enter_destination
 msgid "Enter destination"
-msgstr ""
-
-#. Android resource: @strings/backup_failed
-msgid "Backup failed"
 msgstr ""
 
 #. Android resource: @strings/taiwan
 msgid "Taiwan"
 msgstr ""
 
-#. Android resource: @strings/bourgogne
-msgid "Bourgogne"
-msgstr ""
-
 #. Android resource: @strings/rhone_alpes
 msgid "Rhone-Alpes"
-msgstr ""
-
-#. Android resource: @strings/niedersachsen
-msgid "Niedersachsen"
 msgstr ""
 
 #. Android resource: @strings/essex
 msgid "Essex"
 msgstr ""
 
-#. Android resource: @strings/crete
-msgid "Crete"
-msgstr ""
-
 #. Android resource: @strings/louisiana
 msgid "Louisiana"
-msgstr ""
-
-#. Android resource: @strings/utah
-msgid "Utah"
 msgstr ""
 
 #, c-format

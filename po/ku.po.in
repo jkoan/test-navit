@@ -68,18 +68,8 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 msgid "now"
 msgstr "ئێستا"
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -92,84 +82,42 @@ msgstr "چەپ"
 msgid "Exit"
 msgstr "Exit"
 
-#, c-format
-msgid "Screen coord : %d %d"
-msgstr ""
-
 #. 248
 msgid "Aland Islands"
-msgstr ""
-
-#. 076
-msgid "Brazil"
 msgstr ""
 
 #. 120
 msgid "Cameroon"
 msgstr ""
 
-#. 218
-msgid "Ecuador"
-msgstr ""
-
 #. 268
 msgid "Georgia"
-msgstr ""
-
-#. 344
-msgid "Hong Kong"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 422
-msgid "Lebanon"
-msgstr ""
-
 #. 584
 msgid "Marshall Islands"
-msgstr ""
-
-#. 508
-msgid "Mozambique"
 msgstr ""
 
 #. 258
 msgid "French Polynesia"
 msgstr ""
 
-#. 643
-msgid "Russian Federation"
-msgstr ""
-
 #. 740
 msgid "Suriname"
-msgstr ""
-
-#. 788
-msgid "Tunisia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'\n"
-msgstr ""
-
 msgid "Zip Code"
 msgstr ""
 
-msgid "Zoom_In"
-msgstr ""
-
 msgid "Switches map orientation to the north or the vehicle"
-msgstr ""
-
-msgid "Train station"
 msgstr ""
 
 msgid "Category"
@@ -178,64 +126,32 @@ msgstr ""
 msgid "Distance(m)"
 msgstr "Dûrahî:"
 
-msgid "Route 0000km  0+00:00 ETA"
-msgstr ""
-
 msgid "Rename Bookmark"
-msgstr ""
-
-msgid "Download completely"
 msgstr ""
 
 #. Authors
 msgid "By"
 msgstr ""
 
-msgid "Route Description"
-msgstr ""
-
 #. Android resource: @strings/address_search_towns
 msgid "Towns"
-msgstr ""
-
-msgid "Oceania"
 msgstr ""
 
 msgid "Corse"
 msgstr ""
 
-msgid "Mittelfranken"
-msgstr ""
-
 msgid "Saarland"
-msgstr ""
-
-msgid "Lancashire"
 msgstr ""
 
 msgid "Hawaii"
 msgstr ""
 
-msgid "Mississippi"
-msgstr ""
-
 msgid "South+Middle America"
-msgstr ""
-
-msgid "Route"
 msgstr ""
 
 msgid "car_avoid_tolls"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_backup_restore
-msgid "Backup / Restore"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
-msgstr ""
-
-#. Android resource: @strings/restore
-msgid "Restore"
 msgstr ""

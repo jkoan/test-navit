@@ -1983,17 +1983,9 @@ msgstr "Ja"
 msgid "Cancel"
 msgstr "Avbryt"
 
-#. Android resource: @strings/map_download_title
-msgid "Map download"
-msgstr ""
-
 #. Android resource: @strings/map_download_ready
 msgid "ready"
 msgstr "klar"
-
-#. Android resource: @strings/address_search_getting_results
-msgid "Getting search results"
-msgstr ""
 
 #. Android resource: @strings/backup_not_found
 msgid "Backup not found"

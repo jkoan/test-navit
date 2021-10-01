@@ -150,11 +150,6 @@ msgstr "como"
 msgid "then"
 msgstr "tando"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "destra"
@@ -377,10 +372,6 @@ msgstr "Francia"
 msgid "United Kingdom"
 msgstr "Inghilterra"
 
-#. 624
-msgid "Guinea-Bissau"
-msgstr ""
-
 #. 191
 msgid "Croatia"
 msgstr "Croatzia"
@@ -404,10 +395,6 @@ msgstr "Iran, Repubblica Islamica"
 #. 380
 msgid "Italy"
 msgstr "Italia"
-
-#. 418
-msgid "Lao People's Democratic Republic"
-msgstr ""
 
 #. 422
 msgid "Lebanon"
@@ -509,10 +496,6 @@ msgstr "Tailandia"
 msgid "Turkey"
 msgstr "Turchia"
 
-#. 704
-msgid "Viet Nam"
-msgstr ""
-
 #. 710
 msgid "South Africa"
 msgstr "Sud Africa"
@@ -604,9 +587,6 @@ msgstr "Usa/Doga su zoom automaticu"
 
 msgid "Data"
 msgstr "Data"
-
-msgid "Select a search radius from screen center"
-msgstr ""
 
 msgid "Distance(m)"
 msgstr "Distantzia"
@@ -813,33 +793,16 @@ msgstr "Menu Printzipale"
 msgid "House number"
 msgstr "Numeru Civicu"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Nord-pas-de-Calais"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Suffolk"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "Map download aborted!"
 msgstr ""
 
 msgid "Vehicle Position"
@@ -895,19 +858,8 @@ msgstr "Descritzione"
 msgid "horse"
 msgstr "A cavaddu"
 
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
 msgstr ""
 
 #, c-format

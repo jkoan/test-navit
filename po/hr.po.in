@@ -166,11 +166,6 @@ msgstr "sada"
 msgid "then"
 msgstr "onda"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "desno"
@@ -1379,9 +1374,6 @@ msgstr "_Cijeli zaslon"
 msgid "Data"
 msgstr "Podaci"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "Distance(m)"
 msgstr "Udaljenost"
 
@@ -1587,33 +1579,16 @@ msgstr "Glavni meni"
 msgid "House number"
 msgstr "Kućni broj"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Nord-pas-de-Calais"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Suffolk"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "Map download aborted!"
 msgstr ""
 
 msgid "Vehicle Position"
@@ -1669,19 +1644,8 @@ msgstr "Opis"
 msgid "horse"
 msgstr "konj"
 
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
 msgstr ""
 
 #, c-format

@@ -109,11 +109,6 @@ msgstr "ในไม่ช้า"
 msgid "now"
 msgstr "เดี๋ยวนี้"
 
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "ขวา"
@@ -1226,9 +1221,6 @@ msgstr "แสดงผลเต็มจอภาพ"
 msgid "Data"
 msgstr "ข้อมูล"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "Distance(m)"
 msgstr "ระยะทาง:"
 
@@ -1263,14 +1255,8 @@ msgstr "เส้นทาง %4.0f กม. %02d:%02d ETA"
 msgid "Route 0000km  0+00:00 ETA"
 msgstr "เส้นทาง 0000km 0+00:00 ETA"
 
-msgid "Rename Bookmark"
-msgstr ""
-
 msgid "Bookmarks"
 msgstr "บุ๊กมาร์ก"
-
-msgid "Show NMEA Data"
-msgstr ""
 
 msgid "Enter Coordinates"
 msgstr ""
@@ -1287,34 +1273,16 @@ msgstr "การจัดเรียง"
 msgid "Former Destinations"
 msgstr "ก่อนถึง ที่หมาย"
 
-msgid ""
-"Current map location %s is not available\n"
-"Please restart Navit after you attach an SD card or select a different map "
-"location."
-msgstr ""
-
 msgid "Victoria"
-msgstr ""
-
-msgid "Haute-Normandie"
 msgstr ""
 
 msgid "Oberbayern"
 msgstr ""
 
-msgid "Sachsen"
-msgstr ""
-
 msgid "Norfolk"
 msgstr ""
 
-msgid " (except Alaska and Hawaii)"
-msgstr ""
-
 msgid "Texas"
-msgstr ""
-
-msgid "downloading"
 msgstr ""
 
 msgid "Route"
@@ -1326,22 +1294,6 @@ msgstr "แสดง"
 msgid "Fullscreen"
 msgstr "แสดงผลเต็มจอภาพ"
 
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
-msgstr ""
-
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
 msgstr ""

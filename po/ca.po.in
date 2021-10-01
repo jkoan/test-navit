@@ -1850,48 +1850,24 @@ msgstr "Descripció"
 msgid "horse"
 msgstr "cavall"
 
-#. Android resource: @strings/optionsmenu_set_map_location
-msgid "Set map location"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
-msgstr ""
-
-#. Android resource: @strings/failed_to_create_backup_directory
-msgid "Failed to create backup directory"
 msgstr ""
 
 #. Android resource: @strings/asia
 msgid "Asia"
 msgstr ""
 
-#. Android resource: @strings/bretagne
-msgid "Bretagne"
-msgstr ""
-
 #. Android resource: @strings/provence_alpes_cote_d_azur
 msgid "Provence-Alpes-Cote-d-Azur"
-msgstr ""
-
-#. Android resource: @strings/mecklenburg_vorpommern
-msgid "Mecklenburg-Vorpommern"
 msgstr ""
 
 #. Android resource: @strings/east_yorkshire_with_hull
 msgid "East yorkshire with hull"
 msgstr ""
 
-#. Android resource: @strings/wales
-msgid "Wales"
-msgstr ""
-
 #. Android resource: @strings/florida
 msgid "Florida"
-msgstr ""
-
-#. Android resource: @strings/oregon
-msgid "Oregon"
 msgstr ""
 
 #, c-format

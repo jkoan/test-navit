@@ -108,11 +108,6 @@ msgstr "скора"
 msgid "now"
 msgstr "зараз"
 
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "направа"
@@ -1270,9 +1265,6 @@ msgstr "Карта"
 msgid "Destination"
 msgstr "Прызначэнне"
 
-msgid "Set _destination"
-msgstr ""
-
 msgid "Test"
 msgstr "Праверка"
 
@@ -1284,10 +1276,6 @@ msgstr "Выхад з дастасаваньня"
 
 msgid "Data"
 msgstr "Дадзеныя"
-
-#, c-format
-msgid "POI %s. %s"
-msgstr ""
 
 msgid "N"
 msgstr "N"
@@ -1422,50 +1410,26 @@ msgstr "Поўнаэкранны рэжым"
 msgid "Description"
 msgstr "Апісанне"
 
-#. Android resource: @strings/optionsmenu_zoom_in
-msgid "Zoom in"
-msgstr ""
-
 #. Android resource: @strings/map_download_oversize
 msgid ""
 "Sorry, we currently do not support maps above 3.8G on Android, please select "
 "a smaller one."
 msgstr ""
 
-#. Android resource: @strings/address_search_set_destination
-msgid "Setting destination to:"
-msgstr ""
-
 #. Android resource: @strings/restore
 msgid "Restore"
-msgstr ""
-
-#. Android resource: @strings/azores
-msgid "Azores"
 msgstr ""
 
 #. Android resource: @strings/lorraine
 msgid "Lorraine"
 msgstr ""
 
-#. Android resource: @strings/unterfranken
-msgid "Unterfranken"
-msgstr ""
-
 #. Android resource: @strings/galicia
 msgid "Galicia"
 msgstr ""
 
-#. Android resource: @strings/somerset
-msgid "Somerset"
-msgstr ""
-
 #. Android resource: @strings/massachusetts
 msgid "Massachusetts"
-msgstr ""
-
-#. Android resource: @strings/california
-msgid "California"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

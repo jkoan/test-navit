@@ -75,11 +75,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Continue straight %1$s%2$s%3$s"
@@ -89,149 +84,75 @@ msgstr ""
 msgid "right"
 msgstr "Баруун"
 
-#. Android resource: @strings/position_popup_title
-msgid "Position"
-msgstr ""
-
 #. 020
 msgid "Andorra"
-msgstr ""
-
-#. 031
-msgid "Azerbaijan"
 msgstr ""
 
 #. 044
 msgid "Bahamas"
 msgstr ""
 
-#. 156
-msgid "China"
-msgstr ""
-
 #. 233
 msgid "Estonia"
-msgstr ""
-
-#. 254
-msgid "French Guiana"
 msgstr ""
 
 #. 334
 msgid "Heard Island and McDonald Islands"
 msgstr ""
 
-#. 388
-msgid "Jamaica"
-msgstr ""
-
 #. 662
 msgid "Saint Lucia"
-msgstr ""
-
-#. 807
-msgid "Macedonia, the former Yugoslav Republic of"
 msgstr ""
 
 #. 516
 msgid "Namibia"
 msgstr ""
 
-#. 598
-msgid "Papua New Guinea"
-msgstr ""
-
 #. 646
 msgid "Rwanda"
-msgstr ""
-
-#. 728
-msgid "South Sudan"
 msgstr ""
 
 #. 776
 msgid "Tonga"
 msgstr ""
 
-#. 850
-msgid "Virgin Islands, U.S."
-msgstr ""
-
 msgid ""
 "Internal initialization failed, exiting. Check previous error messages.\n"
-msgstr ""
-
-msgid "City"
 msgstr ""
 
 msgid "Increase zoom level"
 msgstr ""
 
-msgid "_Roadbook"
-msgstr ""
-
 msgid "School"
-msgstr ""
-
-msgid "Direction"
 msgstr ""
 
 #, c-format
 msgid "Route %4.0fkm    %02d:%02d ETA"
 msgstr ""
 
-msgid "Copy Bookmark"
-msgstr ""
-
 msgid "Download Enabled"
-msgstr ""
-
-msgid "About Navit"
 msgstr ""
 
 msgid "Height Profile"
 msgstr ""
 
-#. Android resource: @strings/address_search_button
-msgid "Search"
-msgstr ""
-
 msgid "UAE+Other"
-msgstr ""
-
-msgid "Champagne-Ardenne"
 msgstr ""
 
 msgid "Bayern"
 msgstr ""
 
-msgid "Rheinland-Pfalz"
-msgstr ""
-
 msgid "Kent"
-msgstr ""
-
-msgid "Alaska"
 msgstr ""
 
 msgid "Maryland"
 msgstr ""
 
-msgid "Washington State"
-msgstr ""
-
 msgid "Tools"
-msgstr ""
-
-msgid "car_shortest"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_exit_navit
 msgid "Exit Navit"
-msgstr ""
-
-#. Android resource: @strings/address_search_no_results
-msgid "No results found"
 msgstr ""
 
 #. Android resource: @strings/backup

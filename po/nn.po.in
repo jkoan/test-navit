@@ -116,11 +116,6 @@ msgstr "snart"
 msgid "now"
 msgstr "no"
 
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "høgre"
@@ -1235,9 +1230,6 @@ msgstr "Heile skjermen"
 msgid "Data"
 msgstr "Data"
 
-msgid "Select a search radius from screen center"
-msgstr ""
-
 msgid "N"
 msgstr "N"
 
@@ -1337,33 +1329,16 @@ msgstr "Hovudmenyen"
 msgid "House number"
 msgstr "Husnummer"
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Nord-pas-de-Calais"
 msgstr ""
 
 msgid "Brandenburg"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Suffolk"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "Map download aborted!"
 msgstr ""
 
 msgid "Main menu"
@@ -1407,14 +1382,6 @@ msgstr "Heile skjermen"
 msgid "Description"
 msgstr "Beskriving"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/address_partial_match
 msgid "Match partial address"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""

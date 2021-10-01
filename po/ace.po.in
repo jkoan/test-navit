@@ -16,17 +16,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
-msgid "sixth exit"
-msgstr ""
-
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name
 #, c-format
 msgid "%1$sonto %2$s"
-msgstr ""
-
-#. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
-#, c-format
-msgid "Leave the roundabout at the %1$s %2$s"
 msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
@@ -34,149 +26,75 @@ msgstr ""
 msgid "then keep right%1$s"
 msgstr ""
 
-msgid "then you have reached your destination."
-msgstr ""
-
 msgid "Set as destination"
-msgstr ""
-
-#. 040
-msgid "Austria"
 msgstr ""
 
 #. 096
 msgid "Brunei Darussalam"
 msgstr ""
 
-#. 384
-msgid "Cote d'Ivoire"
-msgstr ""
-
 #. 212
 msgid "Dominica"
-msgstr ""
-
-#. 266
-msgid "Gabon"
 msgstr ""
 
 #. 316
 msgid "Guam"
 msgstr ""
 
-#. 364
-msgid "Iran, Islamic Republic of"
-msgstr ""
-
 #. 136
 msgid "Cayman Islands"
-msgstr ""
-
-#. 499
-msgid "Montenegro"
 msgstr ""
 
 #. 454
 msgid "Malawi"
 msgstr ""
 
-#. 512
-msgid "Oman"
-msgstr ""
-
 #. 638
 msgid "Reunion"
-msgstr ""
-
-#. 674
-msgid "San Marino"
 msgstr ""
 
 #. 772
 msgid "Tokelau"
 msgstr ""
 
-#. 336
-msgid "Holy See (Vatican City State)"
-msgstr ""
-
 #. We have not found an existing config file from all possibilities
 msgid "No config file navit.xml, navit.xml.local found\n"
-msgstr ""
-
-msgid "Street"
 msgstr ""
 
 msgid "_Vehicle"
 msgstr ""
 
-msgid "Show position _cursor"
-msgstr ""
-
 msgid "Bank"
-msgstr ""
-
-msgid "Select a distance to look for (km)"
 msgstr ""
 
 #. Android resource: @strings/no
 msgid "No"
 msgstr ""
 
-msgid "View on map"
-msgstr ""
-
 #, c-format
 msgid "Bookmark %s"
-msgstr ""
-
-msgid "Show Satellite status"
 msgstr ""
 
 msgid "Map follows Vehicle"
 msgstr ""
 
-msgid "Return to route!"
-msgstr ""
-
 msgid "Canary Islands"
-msgstr ""
-
-msgid "Basse-Normandie"
 msgstr ""
 
 msgid "Poitou-Charentes"
 msgstr ""
 
-msgid "Hessen"
-msgstr ""
-
 msgid "Cumbria"
-msgstr ""
-
-msgid "Scotland"
 msgstr ""
 
 msgid "Arkansas"
 msgstr ""
 
-msgid "New Mexico"
-msgstr ""
-
 msgid "Vehicle Position"
-msgstr ""
-
-msgid ""
-"Drop last \n"
-"Waypoint"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_zoom_in
 msgid "Zoom in"
-msgstr ""
-
-#. Android resource: @strings/address_search_searching
-msgid "Searching..."
 msgstr ""
 
 #. Android resource: @strings/restore_successful_please_restart_navit

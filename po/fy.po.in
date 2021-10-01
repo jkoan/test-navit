@@ -57,18 +57,8 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: %s is the distance to the roundabout
-#, c-format
-msgid "Enter the roundabout %s"
-msgstr ""
-
 msgid "now"
 msgstr "no"
-
-#. TRANSLATORS: the arg. is where to do the maneuver
-#, c-format
-msgid "then keep left%1$s"
-msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
@@ -81,132 +71,66 @@ msgstr "links"
 msgid "Exit"
 msgstr "ofslúte"
 
-#, c-format
-msgid "Screen coord : %d %d"
-msgstr ""
-
 #. 248
 msgid "Aland Islands"
-msgstr ""
-
-#. 076
-msgid "Brazil"
 msgstr ""
 
 #. 120
 msgid "Cameroon"
 msgstr ""
 
-#. 218
-msgid "Ecuador"
-msgstr ""
-
 #. 268
 msgid "Georgia"
-msgstr ""
-
-#. 344
-msgid "Hong Kong"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 422
-msgid "Lebanon"
-msgstr ""
-
 #. 584
 msgid "Marshall Islands"
-msgstr ""
-
-#. 508
-msgid "Mozambique"
 msgstr ""
 
 #. 258
 msgid "French Polynesia"
 msgstr ""
 
-#. 643
-msgid "Russian Federation"
-msgstr ""
-
 #. 740
 msgid "Suriname"
-msgstr ""
-
-#. 788
-msgid "Tunisia"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-#, c-format
-msgid "Error: No configuration found in config file '%s'\n"
-msgstr ""
-
 msgid "Zip Code"
-msgstr ""
-
-msgid "Zoom_In"
 msgstr ""
 
 msgid "Switches map orientation to the north or the vehicle"
 msgstr ""
 
-msgid "Train station"
-msgstr ""
-
 msgid "Category"
-msgstr ""
-
-msgid "OT"
 msgstr ""
 
 msgid "Cut Bookmark"
 msgstr ""
 
-msgid "Active"
-msgstr ""
-
 msgid "Rename"
-msgstr ""
-
-msgid "Layout"
 msgstr ""
 
 msgid "partial match"
 msgstr ""
 
-msgid "Taiwan"
-msgstr ""
-
 msgid "Centre"
-msgstr ""
-
-msgid "Baden-Wuerttemberg"
 msgstr ""
 
 msgid "Nordrhein-westfalen"
 msgstr ""
 
-msgid "Herefordshire"
-msgstr ""
-
 msgid "North America"
 msgstr ""
 
-msgid "Louisiana"
-msgstr ""
-
 msgid "Utah"
-msgstr ""
-
-msgid "Settings"
 msgstr ""
 
 msgid "NMEA Data"
@@ -215,17 +139,6 @@ msgstr ""
 msgid "horse"
 msgstr "hynder"
 
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
 msgstr ""

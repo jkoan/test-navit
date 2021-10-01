@@ -1246,9 +1246,6 @@ msgstr "テスト"
 msgid "_Fullscreen"
 msgstr "全画面表示"
 
-msgid "Shopping"
-msgstr ""
-
 msgid "Select a distance to look for (km)"
 msgstr "画面中央から検索半径を選択"
 
@@ -1279,14 +1276,8 @@ msgstr "西"
 msgid "NW"
 msgstr "北西"
 
-msgid "POIs"
-msgstr ""
-
 msgid "Bookmarks"
 msgstr "ブックマーク"
-
-msgid "Show NMEA Data"
-msgstr ""
 
 msgid "Enter Coordinates"
 msgstr ""
@@ -1294,34 +1285,16 @@ msgstr ""
 msgid "Former Destinations"
 msgstr "前の目的地"
 
-msgid ""
-"Current map location %s is not available\n"
-"Please restart Navit after you attach an SD card or select a different map "
-"location."
-msgstr ""
-
 msgid "Victoria"
-msgstr ""
-
-msgid "Haute-Normandie"
 msgstr ""
 
 msgid "Oberbayern"
 msgstr ""
 
-msgid "Sachsen"
-msgstr ""
-
 msgid "Norfolk"
 msgstr ""
 
-msgid " (except Alaska and Hawaii)"
-msgstr ""
-
 msgid "Texas"
-msgstr ""
-
-msgid "downloading"
 msgstr ""
 
 msgid "Route"
@@ -1330,24 +1303,8 @@ msgstr "ルート"
 msgid "Fullscreen"
 msgstr "全画面表示"
 
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
-msgstr ""
-
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
 msgstr ""
 
 #, c-format
