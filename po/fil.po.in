@@ -203,10 +203,6 @@ msgstr "ng marahan "
 msgid "Exit"
 msgstr "Labasan"
 
-#. Android resource: @strings/restore_failed
-msgid "Restore failed"
-msgstr ""
-
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"
 #~ msgstr "pagkatapos ay lumabas sa rotonda sa may %1$s %2$s"

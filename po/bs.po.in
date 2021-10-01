@@ -121,10 +121,6 @@ msgstr "Десно"
 msgid "Exit"
 msgstr "Izlaz"
 
-#. Android resource: @strings/restore_failed
-msgid "Restore failed"
-msgstr ""
-
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
 msgid "Distance(m)"
 msgstr "Razdaljina"
