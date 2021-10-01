@@ -174,15 +174,8 @@ msgstr "चारों ओर मोड़ %1$s"
 msgid "Exit"
 msgstr "Nikas"
 
-#. 092
-msgid "Virgin Islands, British"
-msgstr ""
-
 msgid "Distance(m)"
 msgstr "दूरी"
-
-msgid "car_avoid_tolls"
-msgstr ""
 
 #, c-format
 #~ msgid "then leave the roundabout at the %1$s %2$s"

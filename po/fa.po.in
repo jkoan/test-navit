@@ -404,14 +404,8 @@ msgstr "اکوادور"
 msgid "Estonia"
 msgstr "استونی"
 
-msgid "School"
-msgstr ""
-
 msgid "Distance(m)"
 msgstr "فاصله"
-
-msgid "car_avoid_tolls"
-msgstr ""
 
 #, c-format
 msgid "%d m"
