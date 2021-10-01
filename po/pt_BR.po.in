@@ -2960,12 +2960,6 @@ msgstr "Guiana Francesa"
 #~ msgid "Set map to %ld, %ld \n"
 #~ msgstr "Definir mapa para o %ld, %ld \n"
 
-#~ msgid "Select a distance to look for (km)"
-#~ msgstr "Selecione a distância para pesquisar (km)"
-
-#~ msgid "Distance(m)"
-#~ msgstr "Distância (m)"
-
 #~ msgid ""
 #~ "Drop last \n"
 #~ "Waypoint"
