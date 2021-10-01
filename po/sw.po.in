@@ -5,7 +5,6 @@
 # HinzundKunz https://launchpad.net/~martin-tlustos
 # KaZeR https://launchpad.net/~kazer
 # Michael von Glasow https://launchpad.net/~michael-vonglasow
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
@@ -200,9 +199,6 @@ msgstr ""
 msgid "Enter the roundabout %s"
 msgstr ""
 
-msgid "then enter the roundabout"
-msgstr ""
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -304,10 +300,6 @@ msgstr ""
 
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
-msgstr ""
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
 msgstr ""
 
 #, c-format
@@ -1963,12 +1955,6 @@ msgstr "Mpangilio"
 msgid "Height Profile"
 msgstr ""
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
-
 msgid "Route Description"
 msgstr "maelekezo ya njia"
 
@@ -2499,9 +2485,6 @@ msgid "Fullscreen"
 msgstr "Skrini-yote"
 
 msgid "Window Mode"
-msgstr ""
-
-msgid "Layers"
 msgstr ""
 
 msgid "Description"

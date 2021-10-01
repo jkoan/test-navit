@@ -2,71 +2,72 @@
 # Copyright (C) 2006-2019 The Navit Team
 # This file is distributed under the same license as the navit package.
 # Many thanks to the contributors of this translation:
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2010-05-18 08:49+0000\n"
-"Last-Translator: \n"
-"Language-Team: German (Switzerland) <de_CH@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German (Switzerland) <https://hosted.weblate.org/projects/"
+"navit-test/navit-core/de_CH/>\n"
+"Language: de_CH\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: de_CH\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
-msgstr ""
+msgstr "Ausführen aus dem Quellverzeichnis\n"
 
 #, c-format
 msgid "setting '%s' to '%s'\n"
-msgstr ""
+msgstr "Einstellung '%s' auf '%s'\n"
 
 #. TRANSLATORS: the following counts refer to streets
 msgid "zeroth"
-msgstr ""
+msgstr "nullte"
 
 msgid "first"
-msgstr ""
+msgstr "erste"
 
 msgid "second"
-msgstr ""
+msgstr "zweite"
 
 msgid "third"
-msgstr ""
+msgstr "dritte"
 
 msgid "fourth"
-msgstr ""
+msgstr "vierte"
 
 msgid "fifth"
-msgstr ""
+msgstr "fünfte"
 
 msgid "sixth"
-msgstr ""
+msgstr "sechste"
 
 #. TRANSLATORS: the following counts refer to roundabout exits
 msgid "zeroth exit"
-msgstr ""
+msgstr "nullter Ausgang"
 
 msgid "first exit"
-msgstr ""
+msgstr "erste Ausfahrt"
 
 msgid "second exit"
-msgstr ""
+msgstr "zweite Ausfahrt"
 
 msgid "third exit"
-msgstr ""
+msgstr "dritte Ausfahrt"
 
 msgid "fourth exit"
-msgstr ""
+msgstr "vierte Ausfahrt"
 
 msgid "fifth exit"
-msgstr ""
+msgstr "fünfte Ausfahrt"
 
 msgid "sixth exit"
-msgstr ""
+msgstr "sechste Ausfahrt"
 
 #, c-format
 msgid "%d feet"
@@ -98,30 +99,30 @@ msgstr[1] ""
 
 #, c-format
 msgid "%d meters"
-msgstr ""
+msgstr "%d Zähler"
 
 #, c-format
 msgid "in %d meters"
-msgstr ""
+msgstr "in %d Metern"
 
 #, c-format
 msgid "%d.%d kilometers"
-msgstr ""
+msgstr "%d.%d Kilometer"
 
 #, c-format
 msgid "in %d.%d kilometers"
-msgstr ""
+msgstr "in %d.%d Kilometer"
 
 #, c-format
 msgid "one kilometer"
 msgid_plural "%d kilometers"
-msgstr[0] ""
+msgstr[0] "ein Kilometer"
 msgstr[1] ""
 
 #, c-format
 msgid "in one kilometer"
 msgid_plural "in %d kilometers"
-msgstr[0] ""
+msgstr[0] "in einem Kilometer"
 msgstr[1] ""
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Systematic Street Name 3: Separator (Space if required), 4: Street Name
@@ -137,20 +138,20 @@ msgstr ""
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
-msgstr ""
+msgstr "%1$sauf %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
-msgstr ""
+msgstr "%1$sauf %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Neuter form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|neuter form"
-msgstr ""
+msgstr "%1$sauf %2$s"
 
 msgid "onto the motorway ramp"
-msgstr ""
+msgstr "auf die Autobahnauffahrt"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name
 #, c-format
@@ -160,25 +161,25 @@ msgstr ""
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|masculine form"
-msgstr ""
+msgstr "%sin %s%s%s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|feminine form"
-msgstr ""
+msgstr "%sin %s%s%s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Neuter form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%sinto %s%s%s|neuter form"
-msgstr ""
+msgstr "%sin %s%s%s"
 
 #. TRANSLATORS: gives the name of the next road to turn into (into the E17)
 #, c-format
 msgid "%sinto the %s"
-msgstr ""
+msgstr "%sin die %s"
 
 msgid "When possible, please turn around"
-msgstr ""
+msgstr "Wenn möglich, drehen Sie sich bitte um"
 
 #. TRANSLATORS: the argument is the destination to follow
 #, c-format
@@ -187,7 +188,7 @@ msgstr ""
 
 #, c-format
 msgid "Follow the road for the next %s"
-msgstr ""
+msgstr "Folgen Sie der Straße bis zum nächsten %s"
 
 msgid "Enter the roundabout soon"
 msgstr ""
@@ -197,19 +198,16 @@ msgstr ""
 msgid "Enter the roundabout %s"
 msgstr ""
 
-msgid "then enter the roundabout"
-msgstr ""
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
 msgstr ""
 
 msgid "soon"
-msgstr ""
+msgstr "bald"
 
 msgid "now"
-msgstr ""
+msgstr "jetzt"
 
 msgid "then"
 msgstr ""
@@ -217,22 +215,22 @@ msgstr ""
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|right"
-msgstr ""
+msgstr "dann merge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|right"
-msgstr ""
+msgstr "Zusammenführen %1$s%2$s"
 
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|left"
-msgstr ""
+msgstr "dann merge%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|left"
-msgstr ""
+msgstr "Zusammenführen %1$s%2$s"
 
 msgid "on your left"
 msgstr ""
@@ -289,54 +287,50 @@ msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
-msgstr ""
+msgstr "rechts"
 
 #. TRANSLATORS: "left" as in "turn left"
 msgid "left"
-msgstr ""
+msgstr "links"
 
 #. TRANSLATORS: as in "turn easily right"
 msgid "easily "
-msgstr ""
+msgstr "einfach "
 
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
-msgstr ""
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr ""
+msgstr "stark "
 
 #, c-format
 msgid "Take the %1$s road to the %2$s"
-msgstr ""
+msgstr "Nehmen Sie die Straße %1$s zur %2$s"
 
 #, c-format
 msgid "after %i roads"
-msgstr ""
+msgstr "nach %i Straßen"
 
 #. TRANSLATORS: the first arg. is strength, the second is direction, the third is distance, the fourth is destination
 #, c-format
 msgid "Turn %1$s%2$s %3$s%4$s"
-msgstr ""
+msgstr "Drehen %1$s%2$s %3$s%4$s"
 
 #. TRANSLATORS: Left U-turn, the stuff after | doesn't have to be included.
 msgid "then make a U-turn|left"
-msgstr ""
+msgstr "dann umdrehen"
 
 #. TRANSLATORS: the arg. is distance. Left U-turn, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Make a U-turn %1$s|left"
-msgstr ""
+msgstr "Wenden Sie %1$s"
 
 #. TRANSLATORS: Right U-turn, the stuff after | doesn't have to be included.
 msgid "then make a U-turn|right"
-msgstr ""
+msgstr "dann umdrehen"
 
 #. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Make a U-turn %1$s|right"
-msgstr ""
+msgstr "Wenden Sie %1$s"
 
 #. An empty placeholder that we can use in the future for
 #. * some motorway commands that are now suppressed but we
@@ -354,18 +348,18 @@ msgid "follow"
 msgstr ""
 
 msgid "then you have reached your destination."
-msgstr ""
+msgstr "dann haben Sie Ihr Ziel erreicht."
 
 #. TRANSLATORS: the arg. is distance
 #, c-format
 msgid "You have reached your destination %s"
-msgstr ""
+msgstr "Sie haben Ihr Ziel erreicht %s"
 
 msgid "Interchange"
-msgstr ""
+msgstr "Wechselstube"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ausfahrt"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -377,13 +371,7 @@ msgstr ""
 msgid "Length"
 msgstr ""
 
-msgid "mi"
-msgstr ""
-
 msgid "km"
-msgstr ""
-
-msgid "feet"
 msgstr ""
 
 msgid "m"
@@ -1532,26 +1520,6 @@ msgid ""
 "\t-v: print the version and exit.\n"
 msgstr ""
 
-#. We have not found an existing config file from all possibilities
-msgid "No config file navit.xml, navit.xml.local found"
-msgstr ""
-
-#, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr ""
-
-#, c-format
-msgid "Using config file '%s'"
-msgstr ""
-
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-
-msgid ""
-"Internal initialization failed, exiting. Check previous error messages."
-msgstr ""
-
 msgid "unknown street"
 msgstr ""
 
@@ -1690,9 +1658,6 @@ msgstr ""
 msgid "_Lock on Road"
 msgstr ""
 
-msgid "_Follow Vehicle"
-msgstr ""
-
 msgid "_Keep orientation to the North"
 msgstr ""
 
@@ -1762,28 +1727,8 @@ msgstr ""
 msgid "Shopping"
 msgstr ""
 
-#. Input is in kilometers
-msgid "Select a search radius from screen center in km"
-msgstr ""
-
-#. Input is in miles.
-msgid "Select a search radius from screen center in miles"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-#, c-format
-msgid "Set destination to %ld, %ld "
-msgstr ""
-
-#, c-format
-msgid "Set map to %ld, %ld "
-msgstr ""
-
-#, c-format
-msgid "Set next visit to %ld, %ld "
 msgstr ""
 
 msgid "POI search"
@@ -1802,9 +1747,6 @@ msgid "Category"
 msgstr ""
 
 msgid "Direction"
-msgstr ""
-
-msgid "Distance"
 msgstr ""
 
 msgid "Name"
@@ -1848,10 +1790,6 @@ msgid "3D"
 msgstr ""
 
 msgid "OT"
-msgstr ""
-
-#, c-format
-msgid "Route %4.1f%s    %02d:%02d ETA"
 msgstr ""
 
 msgid "Route 0000km  0+00:00 ETA"
@@ -2062,19 +2000,10 @@ msgstr ""
 msgid "Height Profile"
 msgstr ""
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
-
 msgid "Route Description"
 msgstr ""
 
 msgid "Show Locale"
-msgstr ""
-
-msgid "Network info"
 msgstr ""
 
 msgid "Former Destinations"
@@ -2166,29 +2095,7 @@ msgstr ""
 msgid "Window Mode"
 msgstr ""
 
-msgid "Auto zoom"
-msgstr ""
-
-msgid "Manual zoom"
-msgstr ""
-
-msgid "Layers"
-msgstr ""
-
-msgid "Zoom to route"
-msgstr ""
-
 msgid "Description"
-msgstr ""
-
-msgid ""
-"Drop last\n"
-"Waypoint"
-msgstr ""
-
-msgid ""
-"Drop next\n"
-"Waypoint"
 msgstr ""
 
 msgid "Satellite Status"
@@ -2331,10 +2238,6 @@ msgstr ""
 msgid "Maps containing current location"
 msgstr ""
 
-#. Android resource: @strings/maps_installed
-msgid "Installed maps"
-msgstr ""
-
 #. Android resource: @strings/map_downloading
 msgid "downloading"
 msgstr ""
@@ -2345,18 +2248,6 @@ msgstr ""
 
 #. Android resource: @strings/map_download_error_writing_map
 msgid "Error writing map!"
-msgstr ""
-
-#. Android resource: @strings/map_location_changed
-#, c-format
-msgid "New location set to %s Restart Navit to apply the changes."
-msgstr ""
-
-#. Android resource: @strings/map_location_unavailable
-#, c-format
-msgid ""
-"Current map location %s is not available Please restart Navit after you "
-"attach an SD card or select a different map location."
 msgstr ""
 
 #. Android resource: @strings/address_search_title
@@ -2478,16 +2369,6 @@ msgid ""
 "Navit can use any text to speech engine installed on your device. The "
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
-msgstr ""
-
-#. Android resource: @strings/permissions_not_granted
-msgid ""
-"Navit needs permission to access GPS and read the map.\n"
-"If you change your mind please restart Navit and grant the permissions"
-msgstr ""
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
 msgstr ""
 
 #. Android resource: @strings/whole_planet
@@ -2846,10 +2727,6 @@ msgstr ""
 msgid "USA"
 msgstr ""
 
-#. Android resource: @strings/except_alaska_and_hawaii
-msgid "(except Alaska and Hawaii)"
-msgstr ""
-
 #. Android resource: @strings/midwest
 msgid "Midwest"
 msgstr ""
@@ -2973,3 +2850,18 @@ msgstr ""
 #. Android resource: @strings/guyane_francaise
 msgid "Guyane Francaise"
 msgstr ""
+
+# TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.
+msgid "Distance(m)"
+msgstr "Entfernung"
+
+msgid "Select a distance to look for (km)"
+msgstr "Wählen Sie einen Suchradius von der Bildschirmmitte aus"
+
+#, c-format
+msgid "in %d m"
+msgstr "in %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"

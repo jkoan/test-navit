@@ -3,19 +3,20 @@
 # This file is distributed under the same license as the navit package.
 # Many thanks to the contributors of this translation:
 # kosar https://launchpad.net/~kosar-belana
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2013-06-22 22:57+0000\n"
-"Last-Translator: kosar <kosar.belana@gmail.com>\n"
-"Language-Team: Kurdish <ku@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Kurdish <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/ku/>\n"
+"Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: ku\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 msgid "Running from source directory\n"
 msgstr ""
@@ -110,7 +111,7 @@ msgstr "%d.%d كیلۆمەتر"
 
 #, c-format
 msgid "in %d.%d kilometers"
-msgstr ""
+msgstr "%d.%d كیلۆمەتر"
 
 #, c-format
 msgid "one kilometer"
@@ -196,9 +197,6 @@ msgstr ""
 #. TRANSLATORS: %s is the distance to the roundabout
 #, c-format
 msgid "Enter the roundabout %s"
-msgstr ""
-
-msgid "then enter the roundabout"
 msgstr ""
 
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
@@ -305,10 +303,6 @@ msgid "strongly "
 msgstr ""
 
 #, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr ""
-
-#, c-format
 msgid "Take the %1$s road to the %2$s"
 msgstr ""
 
@@ -367,7 +361,7 @@ msgid "Interchange"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Exit"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -1704,7 +1698,7 @@ msgid "Direction"
 msgstr ""
 
 msgid "Distance(m)"
-msgstr ""
+msgstr "Dûrahî:"
 
 msgid "Name"
 msgstr ""
@@ -1959,12 +1953,6 @@ msgid "Layout"
 msgstr ""
 
 msgid "Height Profile"
-msgstr ""
-
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
 msgstr ""
 
 msgid "Route Description"
@@ -2497,9 +2485,6 @@ msgid "Fullscreen"
 msgstr ""
 
 msgid "Window Mode"
-msgstr ""
-
-msgid "Layers"
 msgstr ""
 
 msgid "Description"

@@ -3,19 +3,20 @@
 # This file is distributed under the same license as the navit package.
 # Many thanks to the contributors of this translation:
 # nagesh https://launchpad.net/~nageshpachorkar
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2013-02-18 10:23+0000\n"
-"Last-Translator: nagesh <nageshpachorkar@gmail.com>\n"
-"Language-Team: Marathi <mr@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Marathi <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/mr/>\n"
+"Language: mr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: mr\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 msgid "Running from source directory\n"
 msgstr ""
@@ -198,9 +199,6 @@ msgstr ""
 msgid "Enter the roundabout %s"
 msgstr ""
 
-msgid "then enter the roundabout"
-msgstr ""
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -210,7 +208,7 @@ msgid "soon"
 msgstr ""
 
 msgid "now"
-msgstr ""
+msgstr "आत्ता"
 
 msgid "then"
 msgstr ""
@@ -290,11 +288,11 @@ msgstr ""
 
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
-msgstr ""
+msgstr "उजवीकडे"
 
 #. TRANSLATORS: "left" as in "turn left"
 msgid "left"
-msgstr ""
+msgstr "उर्वरित"
 
 #. TRANSLATORS: as in "turn easily right"
 msgid "easily "
@@ -302,10 +300,6 @@ msgstr ""
 
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
-msgstr ""
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
 msgstr ""
 
 #, c-format
@@ -367,7 +361,7 @@ msgid "Interchange"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "बाहेर पडा"
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
@@ -1961,12 +1955,6 @@ msgstr ""
 msgid "Height Profile"
 msgstr ""
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
-
 msgid "Route Description"
 msgstr ""
 
@@ -2497,9 +2485,6 @@ msgid "Fullscreen"
 msgstr ""
 
 msgid "Window Mode"
-msgstr ""
-
-msgid "Layers"
 msgstr ""
 
 msgid "Description"

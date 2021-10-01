@@ -22,19 +22,20 @@
 # marZiano https://launchpad.net/~m3marte
 # pataquets https://launchpad.net/~pataquets
 # singesang https://launchpad.net/~singesang
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.1\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-05-01 17:39+0000\n"
-"Last-Translator: iceman75 <Unknown>\n"
-"Language-Team: Chris Eubank <cteubank@gmail.com>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: es\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 msgid "Running from source directory\n"
 msgstr "Ejecutando desde el directorio fuente\n"
@@ -217,9 +218,6 @@ msgstr "Entre en la próxima rotonda"
 msgid "Enter the roundabout %s"
 msgstr "Entre en la rotonda %s"
 
-msgid "then enter the roundabout"
-msgstr "luego entre en la rotonda"
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -324,10 +322,6 @@ msgid "strongly "
 msgstr "bruscamente "
 
 #, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr "luego tomar la carretera de %1$s a la %2$s"
-
-#, c-format
 msgid "Take the %1$s road to the %2$s"
 msgstr "Tome la %1$s carretera %2$s"
 
@@ -398,14 +392,8 @@ msgstr "Orden"
 msgid "Length"
 msgstr "Longitud"
 
-msgid "mi"
-msgstr "mi"
-
 msgid "km"
 msgstr "km"
-
-msgid "feet"
-msgstr "pies"
 
 msgid "m"
 msgstr "m"
@@ -1471,26 +1459,6 @@ msgstr ""
 "\t-h: muestra este mensaje de ayuda y termina.\n"
 "\t-v: muestra la versión y termina.\n"
 
-#. We have not found an existing config file from all possibilities
-msgid "No config file navit.xml, navit.xml.local found"
-msgstr ""
-
-#, c-format
-msgid "Error parsing config file '%s': %s"
-msgstr ""
-
-#, c-format
-msgid "Using config file '%s'"
-msgstr ""
-
-#, c-format
-msgid "Error: No configuration found in config file '%s'"
-msgstr ""
-
-msgid ""
-"Internal initialization failed, exiting. Check previous error messages."
-msgstr ""
-
 msgid "unknown street"
 msgstr "calle desconocida"
 
@@ -1629,9 +1597,6 @@ msgstr "_Mostrar posición del cursor"
 msgid "_Lock on Road"
 msgstr "_Bloqueo en la ruta"
 
-msgid "_Follow Vehicle"
-msgstr ""
-
 msgid "_Keep orientation to the North"
 msgstr "Mantener _orientación al Norte"
 
@@ -1708,18 +1673,6 @@ msgstr "Distancia del centro de la pantalla"
 msgid "POI %s. %s"
 msgstr "POI %s. %s"
 
-#, c-format
-msgid "Set destination to %ld, %ld "
-msgstr ""
-
-#, c-format
-msgid "Set map to %ld, %ld "
-msgstr ""
-
-#, c-format
-msgid "Set next visit to %ld, %ld "
-msgstr ""
-
 msgid "POI search"
 msgstr "Búsqueda de puntos de interés"
 
@@ -1786,10 +1739,6 @@ msgstr "3D"
 
 msgid "OT"
 msgstr "OT"
-
-#, c-format
-msgid "Route %4.1f%s    %02d:%02d ETA"
-msgstr ""
 
 msgid "Route 0000km  0+00:00 ETA"
 msgstr "Ruta 0000km  0+00:00 TEL"
@@ -1999,22 +1948,11 @@ msgstr "Diseño"
 msgid "Height Profile"
 msgstr "Perfil de altura"
 
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-"por favor, instale un mapa *.heightlines.bin para suministrar información de "
-"altimetría."
-
-msgid "The route must cross at least 2 heightlines"
-msgstr "La ruta cruza al menos 2 curvas de nivel"
-
 msgid "Route Description"
 msgstr "Descripción de ruta"
 
 msgid "Show Locale"
 msgstr "Mostrar locale"
-
-msgid "Network info"
-msgstr "Info. de red"
 
 msgid "Former Destinations"
 msgstr "Destinos anteriores"
@@ -2113,18 +2051,6 @@ msgstr "Pantalla completa"
 
 msgid "Window Mode"
 msgstr "Modo ventana"
-
-msgid "Auto zoom"
-msgstr "Zoom automático"
-
-msgid "Manual zoom"
-msgstr "Zoom manual"
-
-msgid "Layers"
-msgstr "Capas"
-
-msgid "Zoom to route"
-msgstr "Zoom a ruta"
 
 msgid "Description"
 msgstr "Descripción"
@@ -2407,18 +2333,6 @@ msgstr ""
 "Navit puede usar cualquier sintetizador de voz instalado en el dispositivo. "
 "El sintetizador seleccionado actualmente informa de que no puede hablar en "
 "su idioma. ¿Desea ver el diálogo de descarga de voces del sistema?"
-
-#. Android resource: @strings/permissions_not_granted
-msgid ""
-"Navit needs permission to access GPS and read the map.\n"
-"If you change your mind please restart Navit and grant the permissions"
-msgstr ""
-"Navit necesita permiso para acceder al GPS y abrir el mapa.\n"
-"Si cambia de opinión, por favor reinicie Navit y conceda los permisos."
-
-#. Android resource: @strings/permissions_info_box_title
-msgid "One or more ungranted permissions"
-msgstr "Uno o más permisos rechazados"
 
 #, c-format
 #~ msgid "Route %4.0fkm    %02d:%02d ETA"
@@ -2880,3 +2794,11 @@ msgstr "Uno o más permisos rechazados"
 #~ msgid "Error: No configuration found in config file '%s'\n"
 #~ msgstr ""
 #~ "Error: No se encontró la configuración en el archivo de configuración '%s'\n"
+
+#, c-format
+msgid "in %d m"
+msgstr "en %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"

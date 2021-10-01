@@ -9,19 +9,20 @@
 # Ossi Berg https://launchpad.net/~fso-polonez
 # Roadrunner IN https://launchpad.net/~online
 # Timo Jyrinki https://launchpad.net/~timo-jyrinki
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-07-19 03:58+0000\n"
-"Last-Translator: Timo Jyrinki <Unknown>\n"
-"Language-Team: Ossi Berg <o.berg@mail.com>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/fi/>\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: fi\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -144,17 +145,17 @@ msgstr ""
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Masculine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|masculine form"
-msgstr ""
+msgstr "%1$späälle %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Feminine form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|feminine form"
-msgstr ""
+msgstr "%1$späälle %2$s"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name. Neuter form. The stuff after | doesn't have to be included
 #, c-format
 msgid "%1$sonto %2$s|neuter form"
-msgstr ""
+msgstr "%1$späälle %2$s"
 
 #. TRANSLATORS: motorway ramp refers to the slip road for entering a motorway.
 msgid "onto the motorway ramp"
@@ -205,9 +206,6 @@ msgstr "Liity liikenneympyrään pian"
 msgid "Enter the roundabout %s"
 msgstr ""
 
-msgid "then enter the roundabout"
-msgstr ""
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -225,22 +223,22 @@ msgstr "sitten"
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|right"
-msgstr ""
+msgstr "sitten sulauta%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Right merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|right"
-msgstr ""
+msgstr "Yhdistäminen %1$s%2$s"
 
 #. TRANSLATORS: the arg. is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "then merge%1$s|left"
-msgstr ""
+msgstr "sitten sulauta%1$s"
 
 #. TRANSLATORS: the first arg. is distance, the second is the phrase 'onto ...'. Left merge, the stuff after | doesn't have to be included.
 #, c-format
 msgid "Merge %1$s%2$s|left"
-msgstr ""
+msgstr "Yhdistäminen %1$s%2$s"
 
 msgid "on your left"
 msgstr ""
@@ -312,10 +310,6 @@ msgid "strongly "
 msgstr "jyrkästi "
 
 #, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr ""
-
-#, c-format
 msgid "Take the %1$s road to the %2$s"
 msgstr "Valitse %1$s tie suuntaan %2$s"
 
@@ -371,7 +365,7 @@ msgstr "Olet saavuttanut kohteesi %s"
 
 #. TRANSLATORS: Exit as a noun, as in "Exit 43 Greenmound-East"
 msgid "Interchange"
-msgstr ""
+msgstr "Vaihdos"
 
 msgid "Exit"
 msgstr "Poistumistie"
@@ -1701,7 +1695,7 @@ msgid "Select a category"
 msgstr ""
 
 msgid "Select a distance to look for (km)"
-msgstr ""
+msgstr "Valitse hakusäde näytön keskeltä"
 
 msgid "Select a POI"
 msgstr ""
@@ -1716,7 +1710,7 @@ msgid "Direction"
 msgstr ""
 
 msgid "Distance(m)"
-msgstr ""
+msgstr "Etäisyys"
 
 msgid "Name"
 msgstr ""
@@ -1972,12 +1966,6 @@ msgstr "Pohja"
 
 msgid "Height Profile"
 msgstr "Korkeusprofiili"
-
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
 
 msgid "Route Description"
 msgstr "Reitin kuvaus"
@@ -2515,9 +2503,6 @@ msgstr "Koko ruutu"
 msgid "Window Mode"
 msgstr "Ikkunatila"
 
-msgid "Layers"
-msgstr ""
-
 msgid "Description"
 msgstr "Kuvaus"
 
@@ -2753,3 +2738,11 @@ msgid ""
 "currently selected engine reports it is unable to speak in your language. "
 "Should we ask the system to show voice download dialog?"
 msgstr ""
+
+#, c-format
+msgid "in %d m"
+msgstr "vuonna %d m"
+
+#, c-format
+msgid "%d m"
+msgstr "%d m"

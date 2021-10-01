@@ -7,19 +7,20 @@
 # Nadav https://launchpad.net/~nadavz
 # Yaron https://launchpad.net/~sh-yaron
 # rintintin https://launchpad.net/~yonatanhak-gmail
-
 msgid ""
 msgstr ""
 "Project-Id-Version: navit 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-07-19 03:58+0000\n"
-"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <he@li.org>\n"
+"PO-Revision-Date: 2021-09-26 23:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/navit-test/"
+"navit-core/he/>\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: he\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Report-Errors: https://translations.launchpad.net/navit/trunk/+pots/navit\n"
 
 msgid "Running from source directory\n"
@@ -203,9 +204,6 @@ msgstr "הכנס לכיכר הקרובה"
 msgid "Enter the roundabout %s"
 msgstr ""
 
-msgid "then enter the roundabout"
-msgstr ""
-
 #. TRANSLATORS: first arg. is the manieth exit, second arg. is the destination to follow
 #, c-format
 msgid "Leave the roundabout at the %1$s %2$s"
@@ -308,10 +306,6 @@ msgstr "מעט "
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
 msgstr "בצורה חדה "
-
-#, c-format
-msgid "then take the %1$s road to the %2$s"
-msgstr ""
 
 #, c-format
 msgid "Take the %1$s road to the %2$s"
@@ -1709,7 +1703,7 @@ msgid "Direction"
 msgstr ""
 
 msgid "Distance(m)"
-msgstr ""
+msgstr "מרחק"
 
 msgid "Name"
 msgstr ""
@@ -1965,12 +1959,6 @@ msgstr "מערך"
 
 msgid "Height Profile"
 msgstr "פרופיל גובה"
-
-msgid "please install a map *.heightlines.bin to provide elevationdata"
-msgstr ""
-
-msgid "The route must cross at least 2 heightlines"
-msgstr ""
 
 msgid "Route Description"
 msgstr ""
@@ -2507,9 +2495,6 @@ msgstr "מסך מלא"
 
 msgid "Window Mode"
 msgstr "מצב חלון"
-
-msgid "Layers"
-msgstr ""
 
 msgid "Description"
 msgstr "תיאור"
