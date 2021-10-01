@@ -150,11 +150,6 @@ msgstr "como"
 msgid "then"
 msgstr "tando"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Keep left %1$s%2$s%3$s"
@@ -282,17 +277,9 @@ msgstr "Coordinadasa ischermu: %d %d"
 msgid "United Arab Emirates"
 msgstr "Emiratoso Araboso"
 
-#. 010
-msgid "Antarctica"
-msgstr ""
-
 #. 032
 msgid "Argentina"
 msgstr "Arghentina"
-
-#. 052
-msgid "Barbados"
-msgstr ""
 
 #. 056
 msgid "Belgium"
@@ -390,10 +377,6 @@ msgstr "Francia"
 msgid "United Kingdom"
 msgstr "Inghilterra"
 
-#. 270
-msgid "Gambia"
-msgstr ""
-
 #. 624
 msgid "Guinea-Bissau"
 msgstr ""
@@ -421,10 +404,6 @@ msgstr "Iran, Repubblica Islamica"
 #. 380
 msgid "Italy"
 msgstr "Italia"
-
-#. 296
-msgid "Kiribati"
-msgstr ""
 
 #. 418
 msgid "Lao People's Democratic Republic"
@@ -458,10 +437,6 @@ msgstr "Isolasa Marshall"
 msgid "Macedonia, the former Yugoslav Republic of"
 msgstr "Macedonia, Repubblica Yugoslava"
 
-#. 500
-msgid "Montserrat"
-msgstr ""
-
 #. 462
 msgid "Maldives"
 msgstr "Maldive"
@@ -477,10 +452,6 @@ msgstr "Mozambicu"
 #. 540
 msgid "New Caledonia"
 msgstr "Nova Caledonia"
-
-#. 520
-msgid "Nauru"
-msgstr ""
 
 #. 554
 msgid "New Zealand"
@@ -522,10 +493,6 @@ msgstr "Svetzia"
 msgid "Slovakia"
 msgstr "Slovacchia"
 
-#. 222
-msgid "El Salvador"
-msgstr ""
-
 #. 760
 msgid "Syrian Arab Republic"
 msgstr "Repubblica Araba de Siria"
@@ -542,10 +509,6 @@ msgstr "Tailandia"
 msgid "Turkey"
 msgstr "Turchia"
 
-#. 840
-msgid "United States"
-msgstr ""
-
 #. 704
 msgid "Viet Nam"
 msgstr ""
@@ -556,10 +519,6 @@ msgstr "Sud Africa"
 
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "* Inconnottu, pone sa tag is_in in custas zittadese"
-
-#. Safe cast: attr_generic_set_attr does not modify its parameter.
-msgid "Unnamed vehicle"
-msgstr ""
 
 #. Strings from navit_shipped.xml
 msgid "Map Point"
@@ -613,9 +572,6 @@ msgstr "Sintzau"
 msgid "Destination"
 msgstr "Destinatzione"
 
-msgid "_Vehicle"
-msgstr ""
-
 msgid "Decrease zoom level"
 msgstr "Fala su livellu de zoom"
 
@@ -649,13 +605,7 @@ msgstr "Usa/Doga su zoom automaticu"
 msgid "Data"
 msgstr "Data"
 
-msgid "Hospital"
-msgstr ""
-
 msgid "Select a search radius from screen center"
-msgstr ""
-
-msgid "Select a POI"
 msgstr ""
 
 msgid "Distance(m)"
@@ -863,58 +813,30 @@ msgstr "Menu Printzipale"
 msgid "House number"
 msgstr "Numeru Civicu"
 
-#. Android resource: @strings/address_search_towns
-msgid "Towns"
-msgstr ""
-
 msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Oceania"
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Corse"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Mittelfranken"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Saarland"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "Lancashire"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "Mississippi"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "South+Middle America"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -973,24 +895,12 @@ msgstr "Descritzione"
 msgid "horse"
 msgstr "A cavaddu"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

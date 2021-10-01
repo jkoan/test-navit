@@ -38,9 +38,6 @@ msgstr "ที่สี่"
 msgid "fifth"
 msgstr "ที่ห้า"
 
-msgid "sixth exit"
-msgstr ""
-
 #, c-format
 msgid "one mile"
 msgid_plural "%d miles"
@@ -112,11 +109,6 @@ msgstr "ในไม่ช้า"
 msgid "now"
 msgstr "เดี๋ยวนี้"
 
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep left%1$s"
@@ -133,21 +125,6 @@ msgstr "ซ้าย"
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
 msgstr "อย่างเคร่งคัด "
-
-#. An empty placeholder that we can use in the future for
-#. * some motorway commands that are now suppressed but we
-#. * can in some cases make it say here :
-#. * 'follow destination blabla' without any further driving instructions,
-#. * in cases where relevant destination info is available.
-#. * Even if there is no driving command to be announced, in some cases
-#. * there is an overhead roadsign in preparation of an upcoming road-split,
-#. * and then we can give useful info to the driver.
-#. *
-#. *  UNTESTED !
-#. *
-#.
-msgid "follow"
-msgstr ""
 
 #. TRANSLATORS: the arg. is distance
 #, c-format
@@ -1155,9 +1132,6 @@ msgstr "แซมเบีย"
 msgid "Zimbabwe"
 msgstr "ซิมบับเว"
 
-msgid "unknown street"
-msgstr ""
-
 msgid "Car"
 msgstr "รถยนต์"
 
@@ -1246,22 +1220,13 @@ msgstr "ทดสอบ"
 msgid "_Quit"
 msgstr "_ออกจากโปรแกรม"
 
-msgid "_Autozoom"
-msgstr ""
-
 msgid "_Fullscreen"
 msgstr "แสดงผลเต็มจอภาพ"
 
 msgid "Data"
 msgstr "ข้อมูล"
 
-msgid "Hospital"
-msgstr ""
-
 msgid "Select a search radius from screen center"
-msgstr ""
-
-msgid "Select a POI"
 msgstr ""
 
 msgid "Distance(m)"
@@ -1298,23 +1263,13 @@ msgstr "เส้นทาง %4.0f กม. %02d:%02d ETA"
 msgid "Route 0000km  0+00:00 ETA"
 msgstr "เส้นทาง 0000km 0+00:00 ETA"
 
-msgid "View Attributes"
-msgstr ""
-
 msgid "Rename Bookmark"
 msgstr ""
 
 msgid "Bookmarks"
 msgstr "บุ๊กมาร์ก"
 
-#, c-format
-msgid "Download %s"
-msgstr ""
-
 msgid "Show NMEA Data"
-msgstr ""
-
-msgid "Show NMEA data"
 msgstr ""
 
 msgid "Enter Coordinates"
@@ -1332,65 +1287,34 @@ msgstr "การจัดเรียง"
 msgid "Former Destinations"
 msgstr "ก่อนถึง ที่หมาย"
 
-msgid "Prev"
-msgstr ""
-
 msgid ""
 "Current map location %s is not available\n"
 "Please restart Navit after you attach an SD card or select a different map "
 "location."
 msgstr ""
 
-msgid "Africa"
-msgstr ""
-
 msgid "Victoria"
-msgstr ""
-
-msgid "Auvergne"
 msgstr ""
 
 msgid "Haute-Normandie"
 msgstr ""
 
-msgid "Picardie"
-msgstr ""
-
 msgid "Oberbayern"
-msgstr ""
-
-msgid "Hamburg"
 msgstr ""
 
 msgid "Sachsen"
 msgstr ""
 
-msgid "Cambridgeshire"
-msgstr ""
-
 msgid "Norfolk"
-msgstr ""
-
-msgid "Wiltshire"
 msgstr ""
 
 msgid " (except Alaska and Hawaii)"
 msgstr ""
 
-msgid "South"
-msgstr ""
-
 msgid "Texas"
 msgstr ""
 
-msgid "Montana"
-msgstr ""
-
 msgid "downloading"
-msgstr ""
-
-#. Android resource: @strings/map_download_title
-msgid "Map download"
 msgstr ""
 
 msgid "Route"
@@ -1401,9 +1325,6 @@ msgstr "แสดง"
 
 msgid "Fullscreen"
 msgstr "แสดงผลเต็มจอภาพ"
-
-msgid "car_avoid_tolls"
-msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
 msgid ""
@@ -1417,22 +1338,10 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_backup_restore
-msgid "Backup / Restore"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
 
-#. Android resource: @strings/address_search_no_text_entered
-msgid "No text entered"
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/restore
-msgid "Restore"
 msgstr ""

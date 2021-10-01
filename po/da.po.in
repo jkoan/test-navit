@@ -230,11 +230,6 @@ msgstr "Tag den afkørslen %1$s %2$s %3$s"
 msgid "Take the exit %1$s %2$s%3$s"
 msgstr "Tag den afkørslen %1$s %2$s%3$s"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "højre"
@@ -1865,88 +1860,44 @@ msgstr "hest"
 msgid "Truck"
 msgstr "Lastbil"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/position_popup_drive_here
 msgid "Route to here"
-msgstr ""
-
-#. Android resource: @strings/map_download_not_enough_free_space
-msgid "Not enough free space"
 msgstr ""
 
 #. Android resource: @strings/address_enter_destination
 msgid "Enter destination"
 msgstr ""
 
-#. Android resource: @strings/address_search_no_text_entered
-msgid "No text entered"
-msgstr ""
-
 #. Android resource: @strings/backup_failed
 msgid "Backup failed"
-msgstr ""
-
-#. Android resource: @strings/backup
-msgid "Backup"
 msgstr ""
 
 #. Android resource: @strings/taiwan
 msgid "Taiwan"
 msgstr ""
 
-#. Android resource: @strings/western_europe
-msgid "Western Europe"
-msgstr ""
-
 #. Android resource: @strings/bourgogne
 msgid "Bourgogne"
-msgstr ""
-
-#. Android resource: @strings/limousin
-msgid "Limousin"
 msgstr ""
 
 #. Android resource: @strings/rhone_alpes
 msgid "Rhone-Alpes"
 msgstr ""
 
-#. Android resource: @strings/schwaben
-msgid "Schwaben"
-msgstr ""
-
 #. Android resource: @strings/niedersachsen
 msgid "Niedersachsen"
-msgstr ""
-
-#. Android resource: @strings/mallorca
-msgid "Mallorca"
 msgstr ""
 
 #. Android resource: @strings/essex
 msgid "Essex"
 msgstr ""
 
-#. Android resource: @strings/shropshire
-msgid "Shropshire"
-msgstr ""
-
 #. Android resource: @strings/crete
 msgid "Crete"
 msgstr ""
 
-#. Android resource: @strings/northeast
-msgid "Northeast"
-msgstr ""
-
 #. Android resource: @strings/louisiana
 msgid "Louisiana"
-msgstr ""
-
-#. Android resource: @strings/arizona
-msgid "Arizona"
 msgstr ""
 
 #. Android resource: @strings/utah

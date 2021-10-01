@@ -171,11 +171,6 @@ msgstr "അല്പസമയത്തിനുള്ളില്‍"
 msgid "now"
 msgstr "ഇപ്പോള്‍"
 
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep left%1$s"

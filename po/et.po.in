@@ -229,11 +229,6 @@ msgstr "vasakul pool"
 msgid "on your right"
 msgstr "paremal pool"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep right %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "paremale"

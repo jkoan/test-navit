@@ -23,9 +23,6 @@ msgstr ""
 msgid "now"
 msgstr "saiki"
 
-msgid "fifth"
-msgstr ""
-
 msgid "first exit"
 msgstr "metu kapisan"
 
@@ -118,11 +115,6 @@ msgstr "sedhelo maneh"
 
 msgid "then"
 msgstr "terus"
-
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
 
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
@@ -544,148 +536,70 @@ msgstr "Jepang"
 msgid "Kenya"
 msgstr "Kenya"
 
-#. 414
-msgid "Kuwait"
-msgstr ""
-
 #. 430
 msgid "Liberia"
-msgstr ""
-
-#. 498
-msgid "Moldova, Republic of"
 msgstr ""
 
 #. 496
 msgid "Mongolia"
 msgstr ""
 
-#. 462
-msgid "Maldives"
-msgstr ""
-
 #. 574
 msgid "Norfolk Island"
-msgstr ""
-
-#. 554
-msgid "New Zealand"
 msgstr ""
 
 #. 616
 msgid "Poland"
 msgstr ""
 
-#. 634
-msgid "Qatar"
-msgstr ""
-
 #. 690
 msgid "Seychelles"
-msgstr ""
-
-#. 694
-msgid "Sierra Leone"
 msgstr ""
 
 #. 534
 msgid "Sint Maarten (Dutch part)"
 msgstr ""
 
-#. 762
-msgid "Tajikistan"
-msgstr ""
-
 #. 798
 msgid "Tuvalu"
-msgstr ""
-
-#. 860
-msgid "Uzbekistan"
 msgstr ""
 
 #. 876
 msgid "Wallis and Futuna"
 msgstr ""
 
-msgid ""
-"navit usage:\n"
-"navit [options] [configfile]\n"
-"\t-c <file>: use <file> as config file, instead of using the default file.\n"
-"\t-d <n>: set the global debug output level to <n> (0=error, 1=warning, "
-"2=info, 3=debug).\n"
-"\tSettings from config file will still take effect where they set a higher "
-"level.\n"
-"\t-h: print this usage info and exit.\n"
-"\t-v: print the version and exit.\n"
-msgstr ""
-
 msgid "Failed to write bookmarks file"
-msgstr ""
-
-msgid "District"
 msgstr ""
 
 msgid "Bookmark"
 msgstr ""
 
-msgid "_Projection"
-msgstr ""
-
 msgid "_Info"
-msgstr ""
-
-msgid "Quit the application"
 msgstr ""
 
 msgid "Enable/disable automatic zoom level changing"
 msgstr ""
 
-msgid "Fuel station"
-msgstr ""
-
 msgid "Taxi"
 msgstr ""
 
-msgid "Select a category"
-msgstr ""
-
 msgid "Visit Before"
-msgstr ""
-
-msgid "NW"
 msgstr ""
 
 #, c-format
 msgid "Waypoint %s"
 msgstr ""
 
-msgid "POIs"
-msgstr ""
-
 msgid "Delete Bookmark"
-msgstr ""
-
-#. Pastes the Bookmark
-msgid "Paste bookmark"
 msgstr ""
 
 msgid " Elevation "
 msgstr ""
 
-msgid "Set as active"
-msgstr ""
-
 msgid "members and contributors."
 msgstr ""
 
-msgid "Northing"
-msgstr ""
-
 msgid "Former Destinations"
-msgstr ""
-
-msgid "Prev"
 msgstr ""
 
 msgid ""
@@ -694,85 +608,42 @@ msgid ""
 "location."
 msgstr ""
 
-msgid "Africa"
-msgstr ""
-
 msgid "Victoria"
-msgstr ""
-
-msgid "Auvergne"
 msgstr ""
 
 msgid "Haute-Normandie"
 msgstr ""
 
-msgid "Picardie"
-msgstr ""
-
 msgid "Oberbayern"
-msgstr ""
-
-msgid "Hamburg"
 msgstr ""
 
 msgid "Sachsen"
 msgstr ""
 
-msgid "Cambridgeshire"
-msgstr ""
-
 msgid "Norfolk"
-msgstr ""
-
-msgid "Wiltshire"
 msgstr ""
 
 msgid " (except Alaska and Hawaii)"
 msgstr ""
 
-msgid "South"
-msgstr ""
-
 msgid "Texas"
-msgstr ""
-
-msgid "Montana"
 msgstr ""
 
 msgid "downloading"
 msgstr ""
 
-#. Android resource: @strings/map_download_title
-msgid "Map download"
-msgstr ""
-
 msgid "Quit"
 msgstr ""
 
-msgid "Description"
-msgstr ""
-
 msgid "horse"
-msgstr ""
-
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
 msgstr ""
 
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

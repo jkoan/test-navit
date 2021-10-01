@@ -1983,10 +1983,6 @@ msgstr "Ja"
 msgid "Cancel"
 msgstr "Avbryt"
 
-#. Android resource: @strings/optionsmenu_zoom_out
-msgid "Zoom out"
-msgstr ""
-
 #. Android resource: @strings/map_download_title
 msgid "Map download"
 msgstr ""
@@ -1995,24 +1991,12 @@ msgstr ""
 msgid "ready"
 msgstr "klar"
 
-#. Android resource: @strings/map_download_medium_unavailable
-msgid "Media selected for map storage is not available"
-msgstr ""
-
 #. Android resource: @strings/address_search_getting_results
 msgid "Getting search results"
 msgstr ""
 
-#. Android resource: @strings/backing_up
-msgid "Backing up..."
-msgstr ""
-
 #. Android resource: @strings/backup_not_found
 msgid "Backup not found"
-msgstr ""
-
-#. Android resource: @strings/africa
-msgid "Africa"
 msgstr ""
 
 #. Android resource: @strings/asia

@@ -34,10 +34,6 @@ msgid "sixth"
 msgstr "sechste"
 
 #, c-format
-msgid "%d feet"
-msgstr ""
-
-#, c-format
 msgid "one mile"
 msgid_plural "%d miles"
 msgstr[0] ""
@@ -61,11 +57,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%sinto %s%s%s|masculine form"
-msgstr ""
-
 #. TRANSLATORS: %s is the distance to the roundabout
 #, c-format
 msgid "Enter the roundabout %s"
@@ -73,11 +64,6 @@ msgstr ""
 
 msgid "now"
 msgstr "no"
-
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
@@ -92,273 +78,135 @@ msgstr "rjochts"
 msgid "left"
 msgstr "links"
 
-#. TRANSLATORS: Right U-turn, the stuff after | doesn't have to be included.
-msgid "then make a U-turn|right"
-msgstr ""
-
 msgid "Exit"
 msgstr "ofslúte"
 
-msgid "Destination Time"
-msgstr ""
-
 #, c-format
 msgid "Screen coord : %d %d"
-msgstr ""
-
-#. 530
-msgid "Netherlands Antilles"
 msgstr ""
 
 #. 248
 msgid "Aland Islands"
 msgstr ""
 
-#. 048
-msgid "Bahrain"
-msgstr ""
-
 #. 076
 msgid "Brazil"
-msgstr ""
-
-#. 166
-msgid "Cocos (Keeling) Islands"
 msgstr ""
 
 #. 120
 msgid "Cameroon"
 msgstr ""
 
-#. 196
-msgid "Cyprus"
-msgstr ""
-
 #. 218
 msgid "Ecuador"
-msgstr ""
-
-#. 242
-msgid "Fiji"
 msgstr ""
 
 #. 268
 msgid "Georgia"
 msgstr ""
 
-#. 312
-msgid "Guadeloupe"
-msgstr ""
-
 #. 344
 msgid "Hong Kong"
-msgstr ""
-
-#. 376
-msgid "Israel"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 174
-msgid "Comoros"
-msgstr ""
-
 #. 422
 msgid "Lebanon"
-msgstr ""
-
-#. 428
-msgid "Latvia"
 msgstr ""
 
 #. 584
 msgid "Marshall Islands"
 msgstr ""
 
-#. 478
-msgid "Mauritania"
-msgstr ""
-
 #. 508
 msgid "Mozambique"
-msgstr ""
-
-#. 578
-msgid "Norway"
 msgstr ""
 
 #. 258
 msgid "French Polynesia"
 msgstr ""
 
-#. 275
-msgid "Palestinian Territory, Occupied"
-msgstr ""
-
 #. 643
 msgid "Russian Federation"
-msgstr ""
-
-#. 654
-msgid "Saint Helena"
 msgstr ""
 
 #. 740
 msgid "Suriname"
 msgstr ""
 
-#. 148
-msgid "Chad"
-msgstr ""
-
 #. 788
 msgid "Tunisia"
-msgstr ""
-
-#. 800
-msgid "Uganda"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-#. 710
-msgid "South Africa"
-msgstr ""
-
 #, c-format
 msgid "Error: No configuration found in config file '%s'\n"
-msgstr ""
-
-msgid "Iso3"
 msgstr ""
 
 msgid "Zip Code"
 msgstr ""
 
-msgid "_Former Destinations"
-msgstr ""
-
 msgid "Zoom_In"
-msgstr ""
-
-msgid "Opens POI search dialog"
 msgstr ""
 
 msgid "Switches map orientation to the north or the vehicle"
 msgstr ""
 
-msgid "Restaurant"
-msgstr ""
-
 msgid "Train station"
-msgstr ""
-
-#, c-format
-msgid "Set destination to %ld, %ld \n"
 msgstr ""
 
 msgid "Category"
 msgstr ""
 
-msgid "SE"
-msgstr ""
-
 msgid "OT"
-msgstr ""
-
-#. Android resource: @strings/address_search_streets
-msgid "Streets"
 msgstr ""
 
 msgid "Cut Bookmark"
 msgstr ""
 
-msgid "Save waypoints"
-msgstr ""
-
 msgid "Active"
-msgstr ""
-
-msgid "bike"
 msgstr ""
 
 msgid "Rename"
 msgstr ""
 
-msgid "Enter coordinates, for example:"
-msgstr ""
-
 msgid "Layout"
-msgstr ""
-
-msgid "Back to map"
 msgstr ""
 
 msgid "partial match"
 msgstr ""
 
-msgid "Cancel"
-msgstr ""
-
 msgid "Taiwan"
-msgstr ""
-
-msgid "Azores"
 msgstr ""
 
 msgid "Centre"
 msgstr ""
 
-msgid "Lorraine"
-msgstr ""
-
 msgid "Baden-Wuerttemberg"
-msgstr ""
-
-msgid "Unterfranken"
 msgstr ""
 
 msgid "Nordrhein-westfalen"
 msgstr ""
 
-msgid "Galicia"
-msgstr ""
-
 msgid "Herefordshire"
-msgstr ""
-
-msgid "Somerset"
 msgstr ""
 
 msgid "North America"
 msgstr ""
 
-msgid "Northeast"
-msgstr ""
-
 msgid "Louisiana"
-msgstr ""
-
-msgid "Arizona"
 msgstr ""
 
 msgid "Utah"
 msgstr ""
 
-msgid "Error downloading map!"
-msgstr ""
-
 msgid "Settings"
-msgstr ""
-
-msgid ""
-"Stop\n"
-"Navigation"
 msgstr ""
 
 msgid "NMEA Data"
@@ -367,24 +215,12 @@ msgstr ""
 msgid "horse"
 msgstr "hynder"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

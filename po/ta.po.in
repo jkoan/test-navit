@@ -100,11 +100,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "ஒரு கிலோமீட்டருக்குள்"
 msgstr[1] "%d கிலோமீட்டர்களுக்குள்"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%sinto %s%s%s|masculine form"
-msgstr ""
-
 #, c-format
 msgid "Follow the road for the next %s"
 msgstr "%s க்கு இதே தெருவில் செல்லவும்"
@@ -114,11 +109,6 @@ msgstr "சீக்கிரமாக"
 
 msgid "now"
 msgstr "இப்பொழுது"
-
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
@@ -137,175 +127,87 @@ msgstr "இடது"
 msgid "easily "
 msgstr "இயல்பாக "
 
-#. TRANSLATORS: the arg. is distance. Right U-turn, the stuff after | doesn't have to be included.
-#, c-format
-msgid "Make a U-turn %1$s|right"
-msgstr ""
-
 msgid "Exit"
 msgstr "வெளியேறு"
 
-msgid "Destination Time"
-msgstr ""
-
 #, c-format
 msgid "Screen coord : %d %d"
-msgstr ""
-
-#. 530
-msgid "Netherlands Antilles"
 msgstr ""
 
 #. 248
 msgid "Aland Islands"
 msgstr ""
 
-#. 048
-msgid "Bahrain"
-msgstr ""
-
 #. 076
 msgid "Brazil"
-msgstr ""
-
-#. 166
-msgid "Cocos (Keeling) Islands"
 msgstr ""
 
 #. 120
 msgid "Cameroon"
 msgstr ""
 
-#. 196
-msgid "Cyprus"
-msgstr ""
-
 #. 218
 msgid "Ecuador"
-msgstr ""
-
-#. 242
-msgid "Fiji"
 msgstr ""
 
 #. 268
 msgid "Georgia"
 msgstr ""
 
-#. 312
-msgid "Guadeloupe"
-msgstr ""
-
 #. 344
 msgid "Hong Kong"
-msgstr ""
-
-#. 376
-msgid "Israel"
 msgstr ""
 
 #. 832
 msgid "Jersey"
 msgstr ""
 
-#. 174
-msgid "Comoros"
-msgstr ""
-
 #. 422
 msgid "Lebanon"
-msgstr ""
-
-#. 428
-msgid "Latvia"
 msgstr ""
 
 #. 584
 msgid "Marshall Islands"
 msgstr ""
 
-#. 478
-msgid "Mauritania"
-msgstr ""
-
 #. 508
 msgid "Mozambique"
-msgstr ""
-
-#. 578
-msgid "Norway"
 msgstr ""
 
 #. 258
 msgid "French Polynesia"
 msgstr ""
 
-#. 275
-msgid "Palestinian Territory, Occupied"
-msgstr ""
-
 #. 643
 msgid "Russian Federation"
-msgstr ""
-
-#. 654
-msgid "Saint Helena"
 msgstr ""
 
 #. 740
 msgid "Suriname"
 msgstr ""
 
-#. 148
-msgid "Chad"
-msgstr ""
-
 #. 788
 msgid "Tunisia"
-msgstr ""
-
-#. 800
-msgid "Uganda"
 msgstr ""
 
 #. 092
 msgid "Virgin Islands, British"
 msgstr ""
 
-#. 710
-msgid "South Africa"
-msgstr ""
-
 #, c-format
 msgid "Error: No configuration found in config file '%s'\n"
-msgstr ""
-
-msgid "Iso3"
 msgstr ""
 
 msgid "Zip Code"
 msgstr ""
 
-msgid "_Former Destinations"
-msgstr ""
-
 msgid "Zoom_In"
-msgstr ""
-
-msgid "Opens POI search dialog"
 msgstr ""
 
 msgid "Switches map orientation to the north or the vehicle"
 msgstr ""
 
-msgid "Restaurant"
-msgstr ""
-
 msgid "Train station"
-msgstr ""
-
-#, c-format
-msgid "Set destination to %ld, %ld \n"
 msgstr ""
 
 msgid "Category"
@@ -314,133 +216,62 @@ msgstr ""
 msgid "Distance(m)"
 msgstr "தூரம்"
 
-msgid "SW"
-msgstr ""
-
 msgid "Route 0000km  0+00:00 ETA"
-msgstr ""
-
-msgid "View Attributes"
 msgstr ""
 
 msgid "Rename Bookmark"
 msgstr ""
 
-msgid "Delete Folder"
-msgstr ""
-
 msgid "Download completely"
-msgstr ""
-
-#, c-format
-msgid "Current profile: %s"
 msgstr ""
 
 #. Authors
 msgid "By"
 msgstr ""
 
-msgid "Rules"
-msgstr ""
-
 msgid "Route Description"
-msgstr ""
-
-msgid "House number"
 msgstr ""
 
 #. Android resource: @strings/address_search_towns
 msgid "Towns"
 msgstr ""
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Oceania"
-msgstr ""
-
-msgid "Alsace"
 msgstr ""
 
 msgid "Corse"
 msgstr ""
 
-msgid "Nord-pas-de-Calais"
-msgstr ""
-
 msgid "Mittelfranken"
-msgstr ""
-
-msgid "Brandenburg"
 msgstr ""
 
 msgid "Saarland"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Lancashire"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Hawaii"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Mississippi"
-msgstr ""
-
-msgid "Colorado"
 msgstr ""
 
 msgid "South+Middle America"
 msgstr ""
 
-msgid "Map download aborted!"
-msgstr ""
-
 msgid "Route"
 msgstr ""
 
-msgid "Fullscreen"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_backup_restore
 msgid "Backup / Restore"
 msgstr ""
 
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
-msgstr ""
-
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
 msgstr ""
 
 #. Android resource: @strings/restore

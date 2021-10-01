@@ -144,11 +144,6 @@ msgstr "sasa"
 msgid "then"
 msgstr "halafu"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Keep left %1$s%2$s%3$s"
@@ -400,10 +395,6 @@ msgstr "Guinea ya Ikweta"
 msgid "Greece"
 msgstr "Ugiriki"
 
-#. 340
-msgid "Honduras"
-msgstr ""
-
 #. 332
 msgid "Haiti"
 msgstr "Haiti"
@@ -492,10 +483,6 @@ msgstr "Mali"
 msgid "Mongolia"
 msgstr "Mongolia"
 
-#. 462
-msgid "Maldives"
-msgstr ""
-
 #. 454
 msgid "Malawi"
 msgstr "Malawi"
@@ -516,48 +503,24 @@ msgstr "Namibia"
 msgid "Netherlands"
 msgstr "Uholanzi"
 
-#. 604
-msgid "Peru"
-msgstr ""
-
 #. 630
 msgid "Puerto Rico"
-msgstr ""
-
-#. 688
-msgid "Serbia"
 msgstr ""
 
 #. 702
 msgid "Singapore"
 msgstr ""
 
-#. 706
-msgid "Somalia"
-msgstr ""
-
 #. 796
 msgid "Turks and Caicos Islands"
-msgstr ""
-
-#. 795
-msgid "Turkmenistan"
 msgstr ""
 
 #. 804
 msgid "Ukraine"
 msgstr ""
 
-#. 862
-msgid "Venezuela"
-msgstr ""
-
 #. 175
 msgid "Mayotte"
-msgstr ""
-
-#, c-format
-msgid "Using config file '%s'\n"
 msgstr ""
 
 #. Strings from navit_shipped.xml
@@ -585,9 +548,6 @@ msgstr "ramani"
 msgid "Destination"
 msgstr "lengo"
 
-msgid "_Vehicle"
-msgstr ""
-
 msgid "Redraw map"
 msgstr "chora ramani kwa upya"
 
@@ -606,20 +566,10 @@ msgstr "funga app"
 msgid "Show/hide route description"
 msgstr "onyesha orodha ya maelekezo"
 
-msgid "Hotel"
-msgstr ""
-
 msgid "Police"
 msgstr ""
 
-#, c-format
-msgid "Set next visit to %ld, %ld \n"
-msgstr ""
-
 msgid "Distance(m)"
-msgstr ""
-
-msgid "SW"
 msgstr ""
 
 #, c-format
@@ -641,9 +591,6 @@ msgstr "angalia sifa"
 
 msgid "View on map"
 msgstr "angalia kwenye ramani"
-
-msgid "Delete waypoint"
-msgstr ""
 
 #, c-format
 msgid "Bookmark %s"
@@ -728,58 +675,30 @@ msgstr "menyu kuu"
 msgid "House number"
 msgstr "namba ya nyumba"
 
-#. Android resource: @strings/address_search_towns
-msgid "Towns"
-msgstr ""
-
 msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Oceania"
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Corse"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Mittelfranken"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Saarland"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "Lancashire"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "Mississippi"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "South+Middle America"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -825,24 +744,12 @@ msgstr "Ufafanuzi"
 msgid "horse"
 msgstr "farasi"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

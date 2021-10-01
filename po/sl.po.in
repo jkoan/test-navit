@@ -201,11 +201,6 @@ msgstr "potem združite%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Združitev %1$s%2$s"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "desno"
@@ -1296,10 +1291,6 @@ msgstr "Zimbabve"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "*Neznan dodatek  v oznakah za ta mesta"
 
-#. Safe cast: attr_generic_set_attr does not modify its parameter.
-msgid "Unnamed vehicle"
-msgstr ""
-
 msgid "Car"
 msgstr "Avto"
 
@@ -1421,9 +1412,6 @@ msgstr "Celozaslonski način"
 msgid "Data"
 msgstr "Podatki"
 
-msgid "Hospital"
-msgstr ""
-
 msgid "Select a search radius from screen center"
 msgstr ""
 
@@ -1487,9 +1475,6 @@ msgstr "Prikaz lastnosti"
 msgid "View on map"
 msgstr "Prikaz na zemljevidu"
 
-msgid "Delete waypoint"
-msgstr ""
-
 msgid "Bookmarks"
 msgstr "Zaznamki"
 
@@ -1497,13 +1482,7 @@ msgstr "Zaznamki"
 msgid "Bookmark %s"
 msgstr "Zaznamuj %s"
 
-msgid " Azimuth "
-msgstr ""
-
 msgid "Show Satellite status"
-msgstr ""
-
-msgid "Waypoints"
 msgstr ""
 
 msgid "Vehicle"
@@ -1536,56 +1515,28 @@ msgstr "Nazaj na zemljevid"
 msgid "Main Menu"
 msgstr "Glavni meni"
 
-#. Android resource: @strings/address_search_button
-msgid "Search"
-msgstr ""
-
 msgid "filenamePath"
-msgstr ""
-
-msgid "UAE+Other"
 msgstr ""
 
 msgid "BeNeLux"
 msgstr ""
 
-msgid "Champagne-Ardenne"
-msgstr ""
-
 msgid "Midi-Pyrenees"
-msgstr ""
-
-msgid "Bayern"
 msgstr ""
 
 msgid "Berlin"
 msgstr ""
 
-msgid "Rheinland-Pfalz"
-msgstr ""
-
 msgid "Scandinavia"
-msgstr ""
-
-msgid "Kent"
 msgstr ""
 
 msgid "South yorkshire"
 msgstr ""
 
-msgid "Alaska"
-msgstr ""
-
 msgid "Massachusetts"
 msgstr ""
 
-msgid "Maryland"
-msgstr ""
-
 msgid "California"
-msgstr ""
-
-msgid "Washington State"
 msgstr ""
 
 msgid "Error writing map!"
@@ -1621,31 +1572,16 @@ msgstr "Celozaslonski način"
 msgid "Window Mode"
 msgstr "Okenski način"
 
-msgid "car_pedantic"
-msgstr ""
-
 #. Android resource: @strings/initial_info_box_OK
 msgid "OK"
-msgstr ""
-
-#. Android resource: @strings/optionsmenu_set_map_location
-msgid "Set map location"
 msgstr ""
 
 #. Android resource: @strings/address_enter_destination
 msgid "Enter destination"
 msgstr ""
 
-#. Android resource: @strings/address_search_set_destination
-msgid "Setting destination to:"
-msgstr ""
-
 #. Android resource: @strings/failed_to_restore
 msgid "Failed to restore"
-msgstr ""
-
-#. Android resource: @strings/TTS_title_data_missing
-msgid "System text to speech engine data is missing"
 msgstr ""
 
 #, c-format

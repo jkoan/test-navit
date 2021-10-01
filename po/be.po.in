@@ -99,11 +99,6 @@ msgstr[0] "%d кіламетр"
 msgstr[1] ""
 msgstr[2] ""
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%sinto %s%s%s|masculine form"
-msgstr ""
-
 msgid "When possible, please turn around"
 msgstr "Развярніцеся, калі будзе магчымасць"
 
@@ -112,11 +107,6 @@ msgstr "скора"
 
 msgid "now"
 msgstr "зараз"
-
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
@@ -1280,9 +1270,6 @@ msgstr "Карта"
 msgid "Destination"
 msgstr "Прызначэнне"
 
-msgid "_Vehicle"
-msgstr ""
-
 msgid "Set _destination"
 msgstr ""
 
@@ -1295,20 +1282,11 @@ msgstr "_Quit"
 msgid "Quit the application"
 msgstr "Выхад з дастасаваньня"
 
-msgid "Enable/disable automatic zoom level changing"
-msgstr ""
-
 msgid "Data"
 msgstr "Дадзеныя"
 
-msgid "Hospital"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-msgid "Visit Before"
 msgstr ""
 
 msgid "N"
@@ -1367,10 +1345,6 @@ msgstr "Выдаліць закладку"
 msgid "Bookmarks"
 msgstr "Закладкі"
 
-#, c-format
-msgid "Download %s"
-msgstr ""
-
 msgid "Show Satellite Status"
 msgstr "Паказаць статус спадарожнікаў"
 
@@ -1403,9 +1377,6 @@ msgstr "Дадаць закладку"
 msgid "Rename"
 msgstr "Перайменаваць"
 
-msgid "Enter coordinates, for example:"
-msgstr ""
-
 msgid "Rules"
 msgstr "Правілы"
 
@@ -1426,11 +1397,6 @@ msgstr "Галоўнае меню"
 
 msgid "House number"
 msgstr "Нумар дому"
-
-msgid ""
-"Show\n"
-"Map"
-msgstr ""
 
 msgid "Settings"
 msgstr "Налады"
@@ -1456,17 +1422,8 @@ msgstr "Поўнаэкранны рэжым"
 msgid "Description"
 msgstr "Апісанне"
 
-#. Strings from android/res/values/strings.xml
-#. Android resource: @strings/yes
-msgid "Yes"
-msgstr ""
-
 #. Android resource: @strings/optionsmenu_zoom_in
 msgid "Zoom in"
-msgstr ""
-
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
 msgstr ""
 
 #. Android resource: @strings/map_download_oversize
@@ -1475,80 +1432,40 @@ msgid ""
 "a smaller one."
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/address_search_set_destination
 msgid "Setting destination to:"
-msgstr ""
-
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
 msgstr ""
 
 #. Android resource: @strings/restore
 msgid "Restore"
 msgstr ""
 
-#. Android resource: @strings/korea
-msgid "Korea"
-msgstr ""
-
 #. Android resource: @strings/azores
 msgid "Azores"
-msgstr ""
-
-#. Android resource: @strings/basse_normandie
-msgid "Basse-Normandie"
 msgstr ""
 
 #. Android resource: @strings/lorraine
 msgid "Lorraine"
 msgstr ""
 
-#. Android resource: @strings/baden_wuerttemberg
-msgid "Baden-Wuerttemberg"
-msgstr ""
-
 #. Android resource: @strings/unterfranken
 msgid "Unterfranken"
-msgstr ""
-
-#. Android resource: @strings/nordrhein_westfalen
-msgid "Nordrhein-westfalen"
 msgstr ""
 
 #. Android resource: @strings/galicia
 msgid "Galicia"
 msgstr ""
 
-#. Android resource: @strings/herefordshire
-msgid "Herefordshire"
-msgstr ""
-
 #. Android resource: @strings/somerset
 msgid "Somerset"
-msgstr ""
-
-#. Android resource: @strings/north_america
-msgid "North America"
 msgstr ""
 
 #. Android resource: @strings/massachusetts
 msgid "Massachusetts"
 msgstr ""
 
-#. Android resource: @strings/maryland
-msgid "Maryland"
-msgstr ""
-
 #. Android resource: @strings/california
 msgid "California"
-msgstr ""
-
-#. Android resource: @strings/washington_state
-msgid "Washington State"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

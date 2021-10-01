@@ -225,11 +225,6 @@ msgstr "potom merge%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Zlúčenie %1$s%2$s"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "vpravo"
@@ -1521,9 +1516,6 @@ msgstr "Celá obrazovka"
 
 msgid "Data"
 msgstr "Dáta"
-
-msgid "Hospital"
-msgstr ""
 
 msgid "Select a search radius from screen center"
 msgstr ""

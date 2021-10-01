@@ -1581,14 +1581,8 @@ msgstr "ملء الشاشة"
 msgid "Data"
 msgstr "المعطيات"
 
-msgid "Hospital"
-msgstr ""
-
 #, c-format
 msgid "POI %s. %s"
-msgstr ""
-
-msgid "Visit Before"
 msgstr ""
 
 msgid "N"

@@ -181,11 +181,6 @@ msgstr "とすると、マージ%1$s。"
 msgid "Merge %1$s%2$s|left"
 msgstr "マージ%1$s%2$sの場合"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "右"
@@ -1203,9 +1198,6 @@ msgstr "ザンビア"
 msgid "Zimbabwe"
 msgstr "ジンバブエ"
 
-msgid "unknown street"
-msgstr ""
-
 msgid "Country"
 msgstr "国"
 
@@ -1251,14 +1243,8 @@ msgstr "案内中止"
 msgid "Test"
 msgstr "テスト"
 
-msgid "Show/hide route description"
-msgstr ""
-
 msgid "_Fullscreen"
 msgstr "全画面表示"
-
-msgid "Bank"
-msgstr ""
 
 msgid "Shopping"
 msgstr ""
@@ -1293,40 +1279,20 @@ msgstr "西"
 msgid "NW"
 msgstr "北西"
 
-#, c-format
-msgid "Waypoint %s"
-msgstr ""
-
 msgid "POIs"
-msgstr ""
-
-msgid "Delete Bookmark"
 msgstr ""
 
 msgid "Bookmarks"
 msgstr "ブックマーク"
 
-#, c-format
-msgid "Download %s"
-msgstr ""
-
 msgid "Show NMEA Data"
-msgstr ""
-
-msgid "Show NMEA data"
 msgstr ""
 
 msgid "Enter Coordinates"
 msgstr ""
 
-msgid "Plan with Waypoints"
-msgstr ""
-
 msgid "Former Destinations"
 msgstr "前の目的地"
-
-msgid "Prev"
-msgstr ""
 
 msgid ""
 "Current map location %s is not available\n"
@@ -1334,56 +1300,28 @@ msgid ""
 "location."
 msgstr ""
 
-msgid "Africa"
-msgstr ""
-
 msgid "Victoria"
-msgstr ""
-
-msgid "Auvergne"
 msgstr ""
 
 msgid "Haute-Normandie"
 msgstr ""
 
-msgid "Picardie"
-msgstr ""
-
 msgid "Oberbayern"
-msgstr ""
-
-msgid "Hamburg"
 msgstr ""
 
 msgid "Sachsen"
 msgstr ""
 
-msgid "Cambridgeshire"
-msgstr ""
-
 msgid "Norfolk"
-msgstr ""
-
-msgid "Wiltshire"
 msgstr ""
 
 msgid " (except Alaska and Hawaii)"
 msgstr ""
 
-msgid "South"
-msgstr ""
-
 msgid "Texas"
 msgstr ""
 
-msgid "Montana"
-msgstr ""
-
 msgid "downloading"
-msgstr ""
-
-#. Android resource: @strings/map_download_title
-msgid "Map download"
 msgstr ""
 
 msgid "Route"
@@ -1391,9 +1329,6 @@ msgstr "ルート"
 
 msgid "Fullscreen"
 msgstr "全画面表示"
-
-msgid "car_avoid_tolls"
-msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
 msgid ""
@@ -1407,24 +1342,12 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_backup_restore
-msgid "Backup / Restore"
-msgstr ""
-
 #. Android resource: @strings/address_search_title
 msgid "Address search"
 msgstr ""
 
-#. Android resource: @strings/address_search_no_text_entered
-msgid "No text entered"
-msgstr ""
-
 #. Android resource: @strings/no_backup_found
 msgid "No backup found"
-msgstr ""
-
-#. Android resource: @strings/restore
-msgid "Restore"
 msgstr ""
 
 #, c-format

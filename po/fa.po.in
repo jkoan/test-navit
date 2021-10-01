@@ -108,11 +108,6 @@ msgstr "به زودی"
 msgid "now"
 msgstr "اکنون"
 
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep left%1$s"
@@ -133,21 +128,6 @@ msgstr "به آسانی "
 #. TRANSLATORS: as in "turn strongly right"
 msgid "strongly "
 msgstr "به سختی "
-
-#. An empty placeholder that we can use in the future for
-#. * some motorway commands that are now suppressed but we
-#. * can in some cases make it say here :
-#. * 'follow destination blabla' without any further driving instructions,
-#. * in cases where relevant destination info is available.
-#. * Even if there is no driving command to be announced, in some cases
-#. * there is an overhead roadsign in preparation of an upcoming road-split,
-#. * and then we can give useful info to the driver.
-#. *
-#. *  UNTESTED !
-#. *
-#.
-msgid "follow"
-msgstr ""
 
 msgid "then you have reached your destination."
 msgstr "سپس شما به خواستگاه خود رسیده اید."
@@ -429,128 +409,64 @@ msgstr "اکوادور"
 msgid "Estonia"
 msgstr "استونی"
 
-#. 238
-msgid "Falkland Islands (Malvinas)"
-msgstr ""
-
 #. 254
 msgid "French Guiana"
-msgstr ""
-
-#. 226
-msgid "Equatorial Guinea"
 msgstr ""
 
 #. 334
 msgid "Heard Island and McDonald Islands"
 msgstr ""
 
-#. 833
-msgid "Isle of Man"
-msgstr ""
-
 #. 388
 msgid "Jamaica"
-msgstr ""
-
-#. 659
-msgid "Saint Kitts and Nevis"
 msgstr ""
 
 #. 662
 msgid "Saint Lucia"
 msgstr ""
 
-#. 434
-msgid "Libya"
-msgstr ""
-
 #. 807
 msgid "Macedonia, the former Yugoslav Republic of"
-msgstr ""
-
-#. 500
-msgid "Montserrat"
 msgstr ""
 
 #. 516
 msgid "Namibia"
 msgstr ""
 
-#. 524
-msgid "Nepal"
-msgstr ""
-
 #. 598
 msgid "Papua New Guinea"
-msgstr ""
-
-#. 620
-msgid "Portugal"
 msgstr ""
 
 #. 646
 msgid "Rwanda"
 msgstr ""
 
-#. 705
-msgid "Slovenia"
-msgstr ""
-
 #. 728
 msgid "South Sudan"
-msgstr ""
-
-#. 260
-msgid "French Southern Territories"
 msgstr ""
 
 #. 776
 msgid "Tonga"
 msgstr ""
 
-#. 581
-msgid "United States Minor Outlying Islands"
-msgstr ""
-
 #. 850
 msgid "Virgin Islands, U.S."
-msgstr ""
-
-#. 894
-msgid "Zambia"
 msgstr ""
 
 msgid ""
 "Internal initialization failed, exiting. Check previous error messages.\n"
 msgstr ""
 
-msgid "Country"
-msgstr ""
-
 msgid "City"
-msgstr ""
-
-msgid "_Bookmarks"
 msgstr ""
 
 msgid "Increase zoom level"
 msgstr ""
 
-msgid "_Stop Navigation"
-msgstr ""
-
 msgid "_Roadbook"
 msgstr ""
 
-msgid "Restaurant. Fast food"
-msgstr ""
-
 msgid "School"
-msgstr ""
-
-#, c-format
-msgid "Set map to %ld, %ld \n"
 msgstr ""
 
 msgid "Direction"
@@ -559,133 +475,62 @@ msgstr ""
 msgid "Distance(m)"
 msgstr "فاصله"
 
-msgid "SW"
-msgstr ""
-
 msgid "Route 0000km  0+00:00 ETA"
-msgstr ""
-
-msgid "View Attributes"
 msgstr ""
 
 msgid "Rename Bookmark"
 msgstr ""
 
-msgid "Delete Folder"
-msgstr ""
-
 msgid "Download completely"
-msgstr ""
-
-#, c-format
-msgid "Current profile: %s"
 msgstr ""
 
 #. Authors
 msgid "By"
 msgstr ""
 
-msgid "Rules"
-msgstr ""
-
 msgid "Route Description"
-msgstr ""
-
-msgid "House number"
 msgstr ""
 
 #. Android resource: @strings/address_search_towns
 msgid "Towns"
 msgstr ""
 
-msgid ""
-"New location set to %s\n"
-"Restart Navit to apply the changes."
-msgstr ""
-
 msgid "Oceania"
-msgstr ""
-
-msgid "Alsace"
 msgstr ""
 
 msgid "Corse"
 msgstr ""
 
-msgid "Nord-pas-de-Calais"
-msgstr ""
-
 msgid "Mittelfranken"
-msgstr ""
-
-msgid "Brandenburg"
 msgstr ""
 
 msgid "Saarland"
 msgstr ""
 
-msgid "England"
-msgstr ""
-
 msgid "Lancashire"
-msgstr ""
-
-msgid "Suffolk"
 msgstr ""
 
 msgid "Hawaii"
 msgstr ""
 
-msgid "Vermont"
-msgstr ""
-
 msgid "Mississippi"
-msgstr ""
-
-msgid "Colorado"
 msgstr ""
 
 msgid "South+Middle America"
 msgstr ""
 
-msgid "Map download aborted!"
-msgstr ""
-
 msgid "Route"
 msgstr ""
 
-msgid "Fullscreen"
-msgstr ""
-
 msgid "car_avoid_tolls"
-msgstr ""
-
-#. Android resource: @strings/initial_info_box_message
-msgid ""
-"Thank you for installing Navit!\n"
-"\n"
-"To start, select \"Download maps\" from the menu to download a map. Note: "
-"The map filesize may be large (>50MB) - a wifi connection is recommended.\n"
-"\n"
-"Mapdata: (c) OpenStreetMap contributors\n"
-"\n"
-"Enjoy Navit!"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_backup_restore
 msgid "Backup / Restore"
 msgstr ""
 
-#. Android resource: @strings/address_search_title
-msgid "Address search"
-msgstr ""
-
 #. Android resource: @strings/address_search_no_text_entered
 msgid "No text entered"
-msgstr ""
-
-#. Android resource: @strings/no_backup_found
-msgid "No backup found"
 msgstr ""
 
 #. Android resource: @strings/restore

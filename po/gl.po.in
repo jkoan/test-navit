@@ -176,11 +176,6 @@ msgstr "Tome a saida %1$s %2$s %3$s"
 msgid "Take the exit %1$s %2$s%3$s"
 msgstr "Tome a saida %1$s %2$s%3$s"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Keep left %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "á dereita"
@@ -1231,9 +1226,6 @@ msgstr "Zambia"
 msgid "Zimbabwe"
 msgstr "Zimbabwe"
 
-msgid "unknown street"
-msgstr ""
-
 msgid "Car"
 msgstr "Coche"
 
@@ -1282,9 +1274,6 @@ msgstr "Marcador"
 msgid "Destination"
 msgstr "Destino"
 
-msgid "_Vehicle"
-msgstr ""
-
 msgid "Decrease zoom level"
 msgstr "Diminuír a ampliación"
 
@@ -1303,19 +1292,10 @@ msgstr "_Saír"
 msgid "Quit the application"
 msgstr "Saír do aplicativo"
 
-msgid "Enable/disable automatic zoom level changing"
-msgstr ""
-
 msgid "Data"
 msgstr "Datos"
 
-msgid "Hospital"
-msgstr ""
-
 msgid "Select a search radius from screen center"
-msgstr ""
-
-msgid "Select a POI"
 msgstr ""
 
 msgid "Distance(m)"
@@ -1459,58 +1439,30 @@ msgstr "Menú principal"
 msgid "House number"
 msgstr "Número de casa"
 
-#. Android resource: @strings/address_search_towns
-msgid "Towns"
-msgstr ""
-
 msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Oceania"
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Corse"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Mittelfranken"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Saarland"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "Lancashire"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "Mississippi"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "South+Middle America"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -1544,24 +1496,12 @@ msgstr "Descrición"
 msgid "horse"
 msgstr "cabalo"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data

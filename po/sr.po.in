@@ -187,11 +187,6 @@ msgstr "сад"
 msgid "then"
 msgstr "потом"
 
-#. TRANSLATORS: the first arg. is the direction of exit, the second is distance, the third is destination
-#, c-format
-msgid "Take the exit %1$s %2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
 #, c-format
 msgid "Keep left %1$s%2$s%3$s"
@@ -2332,10 +2327,6 @@ msgstr "Лорена"
 #. Android resource: @strings/midi_pyrenees
 msgid "Midi-Pyrenees"
 msgstr "Средњи Пиринеји"
-
-#. Android resource: @strings/bayern
-msgid "Bayern"
-msgstr ""
 
 #. Android resource: @strings/berlin
 msgid "Berlin"

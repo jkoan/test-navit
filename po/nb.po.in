@@ -2087,10 +2087,6 @@ msgstr "Zoom inn"
 msgid "Zoom out"
 msgstr "Zoom ut"
 
-#. Android resource: @strings/map_download_download_error
-msgid "Error downloading map."
-msgstr ""
-
 #. Android resource: @strings/address_search_searching
 msgid "Searching..."
 msgstr "Søker ..."

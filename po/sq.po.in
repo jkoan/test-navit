@@ -532,243 +532,118 @@ msgstr "Bolivi"
 msgid "Bonaire, Sint Eustatius and Saba"
 msgstr "Bonaire, Sint Eustatius dhe Saba"
 
-#. 124
-msgid "Canada"
-msgstr ""
-
 #. 152
 msgid "Chile"
-msgstr ""
-
-#. 162
-msgid "Christmas Island"
 msgstr ""
 
 #. 012
 msgid "Algeria"
 msgstr ""
 
-#. 246
-msgid "Finland"
-msgstr ""
-
 #. 308
 msgid "Grenada"
-msgstr ""
-
-#. 324
-msgid "Guinea"
 msgstr ""
 
 #. 328
 msgid "Guyana"
 msgstr ""
 
-#. 372
-msgid "Ireland"
-msgstr ""
-
 #. 380
 msgid "Italy"
-msgstr ""
-
-#. 296
-msgid "Kiribati"
 msgstr ""
 
 #. 418
 msgid "Lao People's Democratic Republic"
 msgstr ""
 
-#. 442
-msgid "Luxembourg"
-msgstr ""
-
 #. 450
 msgid "Madagascar"
-msgstr ""
-
-#. 474
-msgid "Martinique"
 msgstr ""
 
 #. 458
 msgid "Malaysia"
 msgstr ""
 
-#. 528
-msgid "Netherlands"
-msgstr ""
-
 #. 604
 msgid "Peru"
-msgstr ""
-
-#. 630
-msgid "Puerto Rico"
 msgstr ""
 
 #. 688
 msgid "Serbia"
 msgstr ""
 
-#. 702
-msgid "Singapore"
-msgstr ""
-
 #. 706
 msgid "Somalia"
-msgstr ""
-
-#. 796
-msgid "Turks and Caicos Islands"
 msgstr ""
 
 #. 795
 msgid "Turkmenistan"
 msgstr ""
 
-#. 804
-msgid "Ukraine"
-msgstr ""
-
 #. 862
 msgid "Venezuela"
-msgstr ""
-
-#. 175
-msgid "Mayotte"
 msgstr ""
 
 #, c-format
 msgid "Using config file '%s'\n"
 msgstr ""
 
-msgid "Iso2"
-msgstr ""
-
 msgid "Enter Destination"
-msgstr ""
-
-msgid "_Route"
 msgstr ""
 
 msgid "Decrease zoom level"
 msgstr ""
 
-msgid "_POI search"
-msgstr ""
-
 msgid "_Keep orientation to the North"
-msgstr ""
-
-msgid "Pharmacy"
 msgstr ""
 
 msgid "Cinema"
 msgstr ""
 
-#, c-format
-msgid "POI %s. %s"
-msgstr ""
-
 msgid " "
-msgstr ""
-
-msgid "E"
 msgstr ""
 
 msgid "3D"
 msgstr ""
 
-msgid "Item type"
-msgstr ""
-
 msgid "Show results on the map"
-msgstr ""
-
-msgid "Bookmarks as waypoints"
 msgstr ""
 
 msgid "Map Download"
 msgstr ""
 
-msgid "car"
-msgstr ""
-
 msgid "Add Bookmark"
 msgstr ""
 
-#.
-#. w=gui_internal_box_new(this, gravity_left_top|orientation_vertical|flags_expand|flags_fill)
-#. gui_internal_widget_append(wb, w)
-#.
-#. we=gui_internal_box_new(this, gravity_left_center|orientation_horizontal|flags_fill)
-#. gui_internal_widget_append(w, we)
-msgid "Latitude Longitude"
-msgstr ""
-
 msgid "Maps"
-msgstr ""
-
-msgid "Back"
 msgstr ""
 
 #. warning told
 msgid "Please decrease your speed"
 msgstr ""
 
-#. Android resource: @strings/position_popup_drive_here
-msgid "Route to here"
-msgstr ""
-
 msgid "Korea"
-msgstr ""
-
-msgid "Western Europe"
 msgstr ""
 
 msgid "Bretagne"
 msgstr ""
 
-msgid "Limousin"
-msgstr ""
-
 msgid "Rhone-Alpes"
-msgstr ""
-
-msgid "Schwaben"
 msgstr ""
 
 msgid "Niedersachsen"
 msgstr ""
 
-msgid "Mallorca"
-msgstr ""
-
 msgid "Essex"
-msgstr ""
-
-msgid "Shropshire"
 msgstr ""
 
 msgid "Crete"
 msgstr ""
 
-msgid "Ohio"
-msgstr ""
-
 msgid "Florida"
 msgstr ""
 
-msgid "West"
-msgstr ""
-
 msgid "Oregon"
-msgstr ""
-
-#. Android resource: @strings/map_download_not_enough_free_space
-msgid "Not enough free space"
 msgstr ""
 
 msgid ""
@@ -776,30 +651,15 @@ msgid ""
 "Map"
 msgstr ""
 
-msgid "Coordinates"
-msgstr ""
-
 msgid "Satellite Status"
-msgstr ""
-
-#. Android resource: @strings/notification_ticker
-msgid "Navit started"
 msgstr ""
 
 #. Android resource: @strings/optionsmenu_download_maps
 msgid "Download maps"
 msgstr ""
 
-#. Android resource: @strings/map_download_download_aborted
-msgid "Map download aborted"
-msgstr ""
-
 #. Android resource: @strings/address_search_getting_results
 msgid "Getting search results"
-msgstr ""
-
-#. Android resource: @strings/restoring
-msgid "Restoring..."
 msgstr ""
 
 #. Android resource: @strings/restore_failed

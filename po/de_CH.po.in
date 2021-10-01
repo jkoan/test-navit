@@ -180,11 +180,6 @@ msgstr "dann merge%1$s"
 msgid "Merge %1$s%2$s|left"
 msgstr "Zusammenführen %1$s%2$s"
 
-#. TRANSLATORS: the first arg. is distance, the second is where to do the maneuver, the third is destination
-#, c-format
-msgid "Continue straight %1$s%2$s%3$s"
-msgstr ""
-
 #. TRANSLATORS: "right" as in "turn right"
 msgid "right"
 msgstr "rechts"
@@ -246,23 +241,12 @@ msgstr "Wechselstube"
 msgid "Exit"
 msgstr "Ausfahrt"
 
-msgid "Destination Time"
-msgstr ""
-
 #, c-format
 msgid "Screen coord : %d %d"
 msgstr ""
 
-#. 530
-msgid "Netherlands Antilles"
-msgstr ""
-
 #. 248
 msgid "Aland Islands"
-msgstr ""
-
-#. 048
-msgid "Bahrain"
 msgstr ""
 
 #. 076
@@ -270,17 +254,8 @@ msgstr ""
 msgid "Brazil"
 msgstr ""
 
-#. 166
-msgid "Cocos (Keeling) Islands"
-msgstr ""
-
 #. 120
 msgid "Cameroon"
-msgstr ""
-
-#. 196
-#. Android resource: @strings/cyprus
-msgid "Cyprus"
 msgstr ""
 
 #. 218
@@ -288,66 +263,32 @@ msgstr ""
 msgid "Ecuador"
 msgstr ""
 
-#. 242
-msgid "Fiji"
-msgstr ""
-
 #. 268
 msgid "Georgia"
-msgstr ""
-
-#. 312
-msgid "Guadeloupe"
 msgstr ""
 
 #. 344
 msgid "Hong Kong"
 msgstr ""
 
-#. 376
-#. Android resource: @strings/israel
-msgid "Israel"
-msgstr ""
-
 #. 832
 msgid "Jersey"
-msgstr ""
-
-#. 174
-msgid "Comoros"
 msgstr ""
 
 #. 422
 msgid "Lebanon"
 msgstr ""
 
-#. 428
-#. Android resource: @strings/latvia
-msgid "Latvia"
-msgstr ""
-
 #. 584
 msgid "Marshall Islands"
-msgstr ""
-
-#. 478
-msgid "Mauritania"
 msgstr ""
 
 #. 508
 msgid "Mozambique"
 msgstr ""
 
-#. 578
-msgid "Norway"
-msgstr ""
-
 #. 258
 msgid "French Polynesia"
-msgstr ""
-
-#. 275
-msgid "Palestinian Territory, Occupied"
 msgstr ""
 
 #. 643
@@ -355,110 +296,55 @@ msgstr ""
 msgid "Russian Federation"
 msgstr ""
 
-#. 654
-msgid "Saint Helena"
-msgstr ""
-
 #. 740
 #. Android resource: @strings/suriname
 msgid "Suriname"
-msgstr ""
-
-#. 148
-msgid "Chad"
 msgstr ""
 
 #. 788
 msgid "Tunisia"
 msgstr ""
 
-#. 800
-#. Android resource: @strings/uganda
-msgid "Uganda"
-msgstr ""
-
 #. 092
 msgid "Virgin Islands, British"
-msgstr ""
-
-#. 710
-#. Android resource: @strings/south_africa
-msgid "South Africa"
 msgstr ""
 
 #. Strings from navit_shipped.xml
 msgid "Map Point"
 msgstr ""
 
-msgid "Street"
-msgstr ""
-
 msgid "Destination"
-msgstr ""
-
-msgid "_Vehicle"
 msgstr ""
 
 msgid "Set _destination"
 msgstr ""
 
-msgid "Show position _cursor"
-msgstr ""
-
 msgid "_Fullscreen"
-msgstr ""
-
-msgid "Bank"
 msgstr ""
 
 msgid "Shopping"
 msgstr ""
 
-msgid "Name"
-msgstr ""
-
 msgid "W"
 msgstr ""
 
-#, c-format
-msgid "Waypoint %s"
-msgstr ""
-
 msgid "POIs"
-msgstr ""
-
-msgid "Delete Bookmark"
 msgstr ""
 
 #. Pastes the Bookmark
 msgid "Paste bookmark"
 msgstr ""
 
-msgid " Elevation "
-msgstr ""
-
 msgid "Set as active"
-msgstr ""
-
-msgid "members and contributors."
 msgstr ""
 
 msgid "Northing"
 msgstr ""
 
-msgid "Former Destinations"
-msgstr ""
-
 msgid "Prev"
 msgstr ""
 
-msgid "Tools"
-msgstr ""
-
 msgid "Display"
-msgstr ""
-
-msgid "car_pedantic"
 msgstr ""
 
 #. Android resource: @strings/initial_info_box_message
@@ -473,88 +359,44 @@ msgid ""
 "Enjoy Navit!"
 msgstr ""
 
-#. Android resource: @strings/optionsmenu_backup_restore
-msgid "Backup / Restore"
-msgstr ""
-
 #. Android resource: @strings/map_download_download_error
 msgid "Error downloading map."
-msgstr ""
-
-#. Android resource: @strings/map_download_error_writing_map
-msgid "Error writing map!"
 msgstr ""
 
 #. Android resource: @strings/address_search_loading_results
 msgid "Loading search results"
 msgstr ""
 
-#. Android resource: @strings/restoring
-msgid "Restoring..."
-msgstr ""
-
 #. Android resource: @strings/restore_failed
 msgid "Restore failed"
-msgstr ""
-
-#. Android resource: @strings/canary_islands
-msgid "Canary Islands"
 msgstr ""
 
 #. Android resource: @strings/new_south_wales
 msgid "New South Wales"
 msgstr ""
 
-#. Android resource: @strings/centre
-msgid "Centre"
-msgstr ""
-
 #. Android resource: @strings/ile_de_france
 msgid "Ile-de-France"
-msgstr ""
-
-#. Android resource: @strings/poitou_charentes
-msgid "Poitou-Charentes"
 msgstr ""
 
 #. Android resource: @strings/oberfranken
 msgid "Oberfranken"
 msgstr ""
 
-#. Android resource: @strings/hessen
-msgid "Hessen"
-msgstr ""
-
 #. Android resource: @strings/schleswig_holstein
 msgid "Schleswig-Holstein"
-msgstr ""
-
-#. Android resource: @strings/cumbria
-msgid "Cumbria"
 msgstr ""
 
 #. Android resource: @strings/nottinghamshire
 msgid "Nottinghamshire"
 msgstr ""
 
-#. Android resource: @strings/scotland
-msgid "Scotland"
-msgstr ""
-
 #. Android resource: @strings/michigan
 msgid "Michigan"
 msgstr ""
 
-#. Android resource: @strings/district_of_columbia
-msgid "District of Columbia"
-msgstr ""
-
 #. Android resource: @strings/west_virginia
 msgid "West Virginia"
-msgstr ""
-
-#. Android resource: @strings/nevada
-msgid "Nevada"
 msgstr ""
 
 # TRANSLATORS: This is the distance to a Point of Interest (POI) in the POI window. It will be feet (imperial) or, meters (metric), depending on the user's preference.

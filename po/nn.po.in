@@ -105,11 +105,6 @@ msgid_plural "in %d kilometers"
 msgstr[0] "om ein kilometer"
 msgstr[1] "om %d kilometer"
 
-#. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Masculine form. The stuff after | doesn't have to be included
-#, c-format
-msgid "%sinto %s%s%s|masculine form"
-msgstr ""
-
 #. TRANSLATORS: gives the name of the next road to turn into (into the E17)
 #, c-format
 msgid "%sinto the %s"
@@ -120,11 +115,6 @@ msgstr "snart"
 
 msgid "now"
 msgstr "no"
-
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
 
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
@@ -151,9 +141,6 @@ msgstr "krapt "
 msgid "Take the %1$s road to the %2$s"
 msgstr "Ta den %1$s vegen mot %2$s"
 
-msgid "then you have reached your destination."
-msgstr ""
-
 msgid "Exit"
 msgstr "Avkjøyring"
 
@@ -172,9 +159,6 @@ msgstr "km"
 
 msgid "m"
 msgstr "m"
-
-msgid "Set as destination"
-msgstr ""
 
 #, c-format
 msgid "Point 0x%x 0x%x"
@@ -1163,10 +1147,6 @@ msgstr "Zimbabwe"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "Ukjend, legg is_in-tagger til dei byane."
 
-#. Safe cast: attr_generic_set_attr does not modify its parameter.
-msgid "Unnamed vehicle"
-msgstr ""
-
 msgid "Car"
 msgstr "Bil"
 
@@ -1255,13 +1235,7 @@ msgstr "Heile skjermen"
 msgid "Data"
 msgstr "Data"
 
-msgid "Hospital"
-msgstr ""
-
 msgid "Select a search radius from screen center"
-msgstr ""
-
-msgid "Select a POI"
 msgstr ""
 
 msgid "N"
@@ -1311,9 +1285,6 @@ msgstr "Vegar"
 msgid "House numbers"
 msgstr "Husnummer"
 
-msgid "Copy Bookmark"
-msgstr ""
-
 msgid "Bookmarks"
 msgstr "Bokmerker"
 
@@ -1342,9 +1313,6 @@ msgstr "Vis satelittstatus"
 msgid "Show NMEA data"
 msgstr "Vis NMEA-data"
 
-msgid "Enter Coordinates"
-msgstr ""
-
 msgid "Rules"
 msgstr "Reglar"
 
@@ -1369,58 +1337,30 @@ msgstr "Hovudmenyen"
 msgid "House number"
 msgstr "Husnummer"
 
-#. Android resource: @strings/address_search_towns
-msgid "Towns"
-msgstr ""
-
 msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Oceania"
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Corse"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Mittelfranken"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Saarland"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "Lancashire"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "Mississippi"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "South+Middle America"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -1467,32 +1407,14 @@ msgstr "Heile skjermen"
 msgid "Description"
 msgstr "Beskriving"
 
-msgid "horse"
-msgstr ""
-
 #. Android resource: @strings/initial_info_box_more_info
 msgid "More info"
-msgstr ""
-
-#. Android resource: @strings/map_delete
-msgid "Delete this map?"
 msgstr ""
 
 #. Android resource: @strings/address_partial_match
 msgid "Match partial address"
 msgstr ""
 
-#. Android resource: @strings/choose_an_action
-msgid "Choose an action"
-msgstr ""
-
 #. Android resource: @strings/backup_successful
 msgid "Backup successful"
-msgstr ""
-
-#. Android resource: @strings/TTS_qery_install_data
-msgid ""
-"Navit can use any text to speech engine installed on your device. The "
-"currently selected engine reports it is unable to speak in your language. "
-"Should we ask the system to show voice download dialog?"
 msgstr ""

@@ -158,11 +158,6 @@ msgstr "hurrengotan"
 msgid "now"
 msgstr "orain"
 
-#. TRANSLATORS: the first arg. is exit ref and/or name, the second is the direction of exit and the third is distance
-#, c-format
-msgid "Take exit %1$s %2$s %3$s"
-msgstr ""
-
 #. TRANSLATORS: the arg. is where to do the maneuver
 #, c-format
 msgid "then keep left%1$s"
@@ -1236,10 +1231,6 @@ msgstr "Zimbabwe"
 msgid "* Unknown, add is_in tags to those cities"
 msgstr "* Ezezaguna, gehitu -en_dago etiketak hiri hauentzat"
 
-#. Safe cast: attr_generic_set_attr does not modify its parameter.
-msgid "Unnamed vehicle"
-msgstr ""
-
 #. Strings from navit_shipped.xml
 msgid "Map Point"
 msgstr "Mapako puntua"
@@ -1386,13 +1377,7 @@ msgstr "Pantaila osoa"
 msgid "Data"
 msgstr "Datuak"
 
-msgid "Hospital"
-msgstr ""
-
 msgid "Select a search radius from screen center"
-msgstr ""
-
-msgid "Select a POI"
 msgstr ""
 
 msgid "Distance(m)"
@@ -1597,58 +1582,30 @@ msgstr "Menu nagusia"
 msgid "House number"
 msgstr "Etxebizitza zenbakia"
 
-#. Android resource: @strings/address_search_towns
-msgid "Towns"
-msgstr ""
-
 msgid ""
 "New location set to %s\n"
 "Restart Navit to apply the changes."
 msgstr ""
 
-msgid "Oceania"
-msgstr ""
-
 msgid "Alsace"
-msgstr ""
-
-msgid "Corse"
 msgstr ""
 
 msgid "Nord-pas-de-Calais"
 msgstr ""
 
-msgid "Mittelfranken"
-msgstr ""
-
 msgid "Brandenburg"
-msgstr ""
-
-msgid "Saarland"
 msgstr ""
 
 msgid "England"
 msgstr ""
 
-msgid "Lancashire"
-msgstr ""
-
 msgid "Suffolk"
-msgstr ""
-
-msgid "Hawaii"
 msgstr ""
 
 msgid "Vermont"
 msgstr ""
 
-msgid "Mississippi"
-msgstr ""
-
 msgid "Colorado"
-msgstr ""
-
-msgid "South+Middle America"
 msgstr ""
 
 msgid "Map download aborted!"
@@ -1707,24 +1664,12 @@ msgstr "Zehazketa"
 msgid "horse"
 msgstr "zaldia"
 
-#. Android resource: @strings/initial_info_box_more_info
-msgid "More info"
-msgstr ""
-
 #. Android resource: @strings/map_delete
 msgid "Delete this map?"
 msgstr ""
 
-#. Android resource: @strings/address_partial_match
-msgid "Match partial address"
-msgstr ""
-
 #. Android resource: @strings/choose_an_action
 msgid "Choose an action"
-msgstr ""
-
-#. Android resource: @strings/backup_successful
-msgid "Backup successful"
 msgstr ""
 
 #. Android resource: @strings/TTS_qery_install_data
